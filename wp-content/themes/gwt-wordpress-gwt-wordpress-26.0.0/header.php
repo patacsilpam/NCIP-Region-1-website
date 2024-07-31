@@ -22,7 +22,7 @@
     <?php if ( is_singular() && pings_open( get_queried_object() ) ) : ?>
     <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
     <?php endif; ?>
-    <link rel="icon" href="<?php echo get_template_directory_uri() ?>/favicon.ico">
+    <link rel="icon" href="<?php echo get_template_directory_uri() ?>/images/logo.png">
     <?php wp_head(); ?>
 
     <style <?php the_tags(); ?>>
