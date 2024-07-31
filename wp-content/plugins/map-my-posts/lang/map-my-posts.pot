@@ -1,0 +1,1499 @@
+# Copyright (C) 2013 
+# This file is distributed under the same license as the  package.
+msgid ""
+msgstr ""
+"Project-Id-Version:  \n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/map-my-posts\n"
+"POT-Creation-Date: 2013-07-04 19:23:38+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: inc/MapMyPosts.php:181
+msgid "View Posts..."
+msgstr ""
+
+#: inc/MapMyPostsAdmin.php:127
+msgid ""
+"Thank you for installing Map My Posts! Please visit the %1$sSettings Page"
+"%2$s to get started."
+msgstr ""
+
+#: inc/MapMyPostsAdmin.php:166 inc/MapMyPostsAdmin.php:167
+msgid "Map My Posts"
+msgstr ""
+
+#: inc/MapMyPostsAdmin.php:201
+msgid "Settings"
+msgstr ""
+
+#: inc/MapMyPostsAdmin.php:251
+msgid "Location not found! Please enter a different search term."
+msgstr ""
+
+#: inc/MapMyPostsAdmin.php:252
+msgid "There was an error with the Geocoding service."
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:156
+msgid "Afghanistan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:157
+msgid "Åland Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:158
+msgid "Albania"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:159
+msgid "Algeria"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:160
+msgid "American Samoa"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:161
+msgid "Andorra"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:162
+msgid "Angola"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:163
+msgid "Anguilla"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:164
+msgid "Antarctica"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:165
+msgid "Antigua and Barbuda"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:166
+msgid "Argentina"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:167
+msgid "Armenia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:168
+msgid "Aruba"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:169
+msgid "Australia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:170
+msgid "Austria"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:171
+msgid "Azerbaijan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:172
+msgid "Bahamas"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:173
+msgid "Bahrain"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:174
+msgid "Bangladesh"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:175
+msgid "Barbados"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:176
+msgid "Belarus"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:177
+msgid "Belgium"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:178
+msgid "Belize"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:179
+msgid "Benin"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:180
+msgid "Bermuda"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:181
+msgid "Bhutan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:182
+msgid "Bolivia, Plurinational State of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:183
+msgid "Bonaire, Sint Eustatius and Saba"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:184
+msgid "Bosnia and Herzegovina"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:185
+msgid "Botswana"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:186
+msgid "Bouvet Island"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:187
+msgid "Brazil"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:188
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:189
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:190
+msgid "Bulgaria"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:191
+msgid "Burkina Faso"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:192
+msgid "Burundi"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:193
+msgid "Cambodia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:194
+msgid "Cameroon"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:195
+msgid "Canada"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:196
+msgid "Cape Verde"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:197
+msgid "Cayman Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:198
+msgid "Central African Republic"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:199
+msgid "Chad"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:200
+msgid "Chile"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:201
+msgid "China"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:202
+msgid "Christmas Island"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:203
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:204
+msgid "Colombia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:205
+msgid "Comoros"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:206
+msgid "Congo"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:207
+msgid "Congo, the Democratic Republic of the"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:208
+msgid "Cook Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:209
+msgid "Costa Rica"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:210
+msgid "Côte d'Ivoire"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:211
+msgid "Croatia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:212
+msgid "Cuba"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:213
+msgid "Curaçao"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:214
+msgid "Cyprus"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:215
+msgid "Czech Republic"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:216
+msgid "Denmark"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:217
+msgid "Djibouti"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:218
+msgid "Dominica"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:219
+msgid "Dominican Republic"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:220
+msgid "Ecuador"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:221
+msgid "Egypt"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:222
+msgid "El Salvador"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:223
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:224
+msgid "Eritrea"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:225
+msgid "Estonia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:226
+msgid "Ethiopia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:227
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:228
+msgid "Faroe Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:229
+msgid "Fiji"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:230
+msgid "Finland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:231
+msgid "France"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:232
+msgid "French Guiana"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:233
+msgid "French Polynesia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:234
+msgid "French Southern Territories"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:235
+msgid "Gabon"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:236
+msgid "Gambia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:237
+msgid "Georgia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:238
+msgid "Germany"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:239
+msgid "Ghana"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:240
+msgid "Gibraltar"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:241
+msgid "Greece"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:242
+msgid "Greenland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:243
+msgid "Grenada"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:244
+msgid "Guadeloupe"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:245
+msgid "Guam"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:246
+msgid "Guatemala"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:247
+msgid "Guernsey"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:248
+msgid "Guinea"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:249
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:250
+msgid "Guyana"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:251
+msgid "Haiti"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:252
+msgid "Heard Island and McDonald Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:253
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:254
+msgid "Honduras"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:255
+msgid "Hong Kong"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:256
+msgid "Hungary"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:257
+msgid "Iceland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:258
+msgid "India"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:259
+msgid "Indonesia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:260
+msgid "Iran, Islamic Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:261
+msgid "Iraq"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:262
+msgid "Ireland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:263
+msgid "Isle of Man"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:264
+msgid "Israel"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:265
+msgid "Italy"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:266
+msgid "Jamaica"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:267
+msgid "Japan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:268
+msgid "Jersey"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:269
+msgid "Jordan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:270
+msgid "Kazakhstan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:271
+msgid "Kenya"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:272
+msgid "Kiribati"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:273
+msgid "Korea, Democratic People's Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:274
+msgid "Korea, Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:275
+msgid "Kuwait"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:276
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:277
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:278
+msgid "Latvia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:279
+msgid "Lebanon"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:280
+msgid "Lesotho"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:281
+msgid "Liberia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:282
+msgid "Libya"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:283
+msgid "Liechtenstein"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:284
+msgid "Lithuania"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:285
+msgid "Luxembourg"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:286
+msgid "Macao"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:287
+msgid "Macedonia, The Former Yugoslav Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:288
+msgid "Madagascar"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:289
+msgid "Malawi"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:290
+msgid "Malaysia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:291
+msgid "Maldives"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:292
+msgid "Mali"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:293
+msgid "Malta"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:294
+msgid "Marshall Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:295
+msgid "Martinique"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:296
+msgid "Mauritania"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:297
+msgid "Mauritius"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:298
+msgid "Mayotte"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:299
+msgid "Mexico"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:300
+msgid "Micronesia, Federated States of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:301
+msgid "Moldova, Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:302
+msgid "Monaco"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:303
+msgid "Mongolia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:304
+msgid "Montenegro"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:305
+msgid "Montserrat"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:306
+msgid "Morocco"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:307
+msgid "Mozambique"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:308
+msgid "Myanmar"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:309
+msgid "Namibia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:310
+msgid "Nauru"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:311
+msgid "Nepal"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:312
+msgid "Netherlands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:313
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:314
+msgid "New Caledonia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:315
+msgid "New Zealand"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:316
+msgid "Nicaragua"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:317
+msgid "Niger"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:318
+msgid "Nigeria"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:319
+msgid "Niue"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:320
+msgid "Norfolk Island"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:321
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:322
+msgid "Norway"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:323
+msgid "Oman"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:324
+msgid "Pakistan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:325
+msgid "Palau"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:326
+msgid "Palestine, State of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:327
+msgid "Panama"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:328
+msgid "Papua New Guinea"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:329
+msgid "Paraguay"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:330
+msgid "Peru"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:331
+msgid "Philippines"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:332
+msgid "Pitcairn"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:333
+msgid "Poland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:334
+msgid "Portugal"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:335
+msgid "Puerto Rico"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:336
+msgid "Qatar"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:337
+msgid "Réunion"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:338
+msgid "Romania"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:339
+msgid "Russian Federation"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:340
+msgid "Rwanda"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:341
+msgid "Saint Barthélemy"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:342
+msgid "Saint Helena, Ascension and Tristan da Cunha"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:343
+msgid "Saint Kitts and Nevis"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:344
+msgid "Saint Lucia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:345
+msgid "Saint Martin (French part)"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:346
+msgid "Saint Pierre and Miquelon"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:347
+msgid "Saint Vincent and the Grenadines"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:348
+msgid "Samoa"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:349
+msgid "San Marino"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:350
+msgid "Sao Tome and Principe"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:351
+msgid "Saudi Arabia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:352
+msgid "Senegal"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:353
+msgid "Serbia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:354
+msgid "Seychelles"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:355
+msgid "Sierra Leone"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:356
+msgid "Singapore"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:357
+msgid "Sint Maarten (Dutch part)"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:358
+msgid "Slovakia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:359
+msgid "Slovenia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:360
+msgid "Solomon Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:361
+msgid "Somalia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:362
+msgid "South Africa"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:363
+msgid "South Georgia and the South Sandwich Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:364
+msgid "South Sudan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:365
+msgid "Spain"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:366
+msgid "Sri Lanka"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:367
+msgid "Sudan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:368
+msgid "Suriname"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:369
+msgid "Svalbard and Jan Mayen"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:370
+msgid "Swaziland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:371
+msgid "Sweden"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:372
+msgid "Switzerland"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:373
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:374
+msgid "Taiwan, Province of China"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:375
+msgid "Tajikistan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:376
+msgid "Tanzania, United Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:377
+msgid "Thailand"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:378
+msgid "Timor-Leste"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:379
+msgid "Togo"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:380
+msgid "Tokelau"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:381
+msgid "Tonga"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:382
+msgid "Trinidad and Tobago"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:383
+msgid "Tunisia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:384
+msgid "Turkey"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:385
+msgid "Turkmenistan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:386
+msgid "Turks and Caicos Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:387
+msgid "Tuvalu"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:388
+msgid "Uganda"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:389
+msgid "Ukraine"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:390
+msgid "United Arab Emirates"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:391
+msgid "United Kingdom"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:392
+msgid "United States"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:393
+msgid "United States Minor Outlying Islands"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:394
+msgid "Uruguay"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:395
+msgid "Uzbekistan"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:396
+msgid "Vanuatu"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:397
+msgid "Venezuela, Bolivarian Republic of"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:398
+msgid "Viet Nam"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:399
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:400
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:401
+msgid "Wallis and Futuna"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:402
+msgid "Western Sahara"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:403
+msgid "Yemen"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:404
+msgid "Zambia"
+msgstr ""
+
+#: inc/MapMyPostsGeography.php:405
+msgid "Zimbabwe"
+msgstr ""
+
+#: inc/MapMyPostsWidgetGeochart.php:17
+msgid ""
+"Display a Google Geochart with categories or tags plotted on countries or as "
+"clickable markers."
+msgstr ""
+
+#: inc/MapMyPostsWidgetGeochart.php:20
+msgid "Map My Posts Geochart"
+msgstr ""
+
+#: inc/MapMyPostsWidgetGmap.php:17
+msgid ""
+"Display a Google Map with categories or tags plotted as clickable markers."
+msgstr ""
+
+#: inc/MapMyPostsWidgetGmap.php:20
+msgid "Map My Posts Google Map"
+msgstr ""
+
+#: inc/MapMyPostsWidgetStatic.php:17
+msgid ""
+"Display a simple Map My Posts static map. Recommended for faster pageloads."
+msgstr ""
+
+#: inc/MapMyPostsWidgetStatic.php:20
+msgid "Map My Posts Static Map"
+msgstr ""
+
+#: start.php:36
+msgid ""
+"Map My Posts requires PHP 5.1.2 or higher. The plugin has disabled itself."
+msgstr ""
+
+#: views/admin-settings.php:19
+msgid "is brought to you for free by"
+msgstr ""
+
+#: views/admin-settings.php:20
+msgid ""
+"Please link to our %1$sblog%2$s, follow us on %3$sTwitter%4$s, or like us on "
+"%5$sFacebook%6$s."
+msgstr ""
+
+#: views/admin-settings.php:27
+msgid ""
+"For more information on these settings and to learn more about Map My Posts, "
+"%1$sclick here%2$s."
+msgstr ""
+
+#: views/admin-settings.php:31
+msgid "Google API Key"
+msgstr ""
+
+#: views/admin-settings.php:35
+msgid ""
+"An API key is recommended, but not required, to use the courtesy limit of "
+"25,000 Google Map and Google Static Map requests per day."
+msgstr ""
+
+#: views/admin-settings.php:36
+msgid "Google API keys are available through the %1$sAPIs console%2$s."
+msgstr ""
+
+#: views/admin-settings.php:44
+msgid "Region"
+msgstr ""
+
+#: views/admin-settings.php:47 views/widget-form-geochart.php:20
+#: views/widget-form-gmap.php:20 views/widget-form-static.php:25
+msgid "Auto"
+msgstr ""
+
+#: views/admin-settings.php:48 views/widget-form-geochart.php:19
+#: views/widget-form-gmap.php:19 views/widget-form-static.php:24
+msgid "World"
+msgstr ""
+
+#: views/admin-settings.php:51
+msgid ""
+"If the region is set to Auto, the map or geochart will automatically zoom to "
+"the most appropriate region."
+msgstr ""
+
+#: views/admin-settings.php:56
+msgid "Taxonomy"
+msgstr ""
+
+#: views/admin-settings.php:59 views/widget-form-geochart.php:27
+#: views/widget-form-gmap.php:26 views/widget-form-static.php:31
+msgid "Categories"
+msgstr ""
+
+#: views/admin-settings.php:60 views/widget-form-geochart.php:28
+#: views/widget-form-gmap.php:27 views/widget-form-static.php:32
+msgid "Tags"
+msgstr ""
+
+#: views/admin-settings.php:68
+msgid "Width"
+msgstr ""
+
+#: views/admin-settings.php:72
+msgid "Examples: auto, 100%, 250px"
+msgstr ""
+
+#: views/admin-settings.php:73
+msgid ""
+"This setting does not affect Static Google Maps, which always have a 300px "
+"default width."
+msgstr ""
+
+#: views/admin-settings.php:78
+msgid "Height"
+msgstr ""
+
+#: views/admin-settings.php:82
+msgid ""
+"If width is set to auto or percentage value, a px value height must be used."
+msgstr ""
+
+#: views/admin-settings.php:83
+msgid ""
+"This setting does not affect Static Google Maps, which always have a 250px "
+"default height."
+msgstr ""
+
+#: views/admin-settings.php:88
+msgid "Map Type"
+msgstr ""
+
+#: views/admin-settings.php:91
+msgid "ROADMAP"
+msgstr ""
+
+#: views/admin-settings.php:92
+msgid "SATELLITE"
+msgstr ""
+
+#: views/admin-settings.php:93
+msgid "HYBRID"
+msgstr ""
+
+#: views/admin-settings.php:94
+msgid "TERRAIN"
+msgstr ""
+
+#: views/admin-settings.php:99
+msgid "Map Type Control"
+msgstr ""
+
+#: views/admin-settings.php:102 views/admin-settings.php:111
+#: views/admin-settings.php:120 views/admin-settings.php:195
+#: views/widget-form-geochart.php:46 views/widget-form-gmap.php:47
+#: views/widget-form-gmap.php:54
+msgid "Hide"
+msgstr ""
+
+#: views/admin-settings.php:103 views/admin-settings.php:112
+#: views/admin-settings.php:121 views/admin-settings.php:196
+#: views/widget-form-geochart.php:47 views/widget-form-gmap.php:48
+#: views/widget-form-gmap.php:55
+msgid "Show"
+msgstr ""
+
+#: views/admin-settings.php:108
+msgid "Street View Control"
+msgstr ""
+
+#: views/admin-settings.php:117
+msgid "Info Window"
+msgstr ""
+
+#: views/admin-settings.php:124
+msgid "Shown after clicking a marker on a Google Map."
+msgstr ""
+
+#: views/admin-settings.php:125
+msgid ""
+"The info window is not available for widths less than 250px and heights less "
+"than 200px."
+msgstr ""
+
+#: views/admin-settings.php:130
+msgid "Link Text"
+msgstr ""
+
+#: views/admin-settings.php:134
+msgid ""
+"The link text to show in the info window after clicking a marker on a Google "
+"Map."
+msgstr ""
+
+#: views/admin-settings.php:135
+msgid "If you leave this blank, no link to the category or tag will be shown."
+msgstr ""
+
+#: views/admin-settings.php:140
+msgid "Link Target"
+msgstr ""
+
+#: views/admin-settings.php:143 views/widget-form-geochart.php:53
+#: views/widget-form-gmap.php:61
+msgid "Same Window (_self)"
+msgstr ""
+
+#: views/admin-settings.php:144 views/widget-form-geochart.php:54
+#: views/widget-form-gmap.php:62
+msgid "New Window (_blank)"
+msgstr ""
+
+#: views/admin-settings.php:149
+msgid "Marker Color"
+msgstr ""
+
+#: views/admin-settings.php:152
+msgid "Red"
+msgstr ""
+
+#: views/admin-settings.php:153
+msgid "Purple"
+msgstr ""
+
+#: views/admin-settings.php:154
+msgid "Blue"
+msgstr ""
+
+#: views/admin-settings.php:155
+msgid "Green"
+msgstr ""
+
+#: views/admin-settings.php:156
+msgid "Yellow"
+msgstr ""
+
+#: views/admin-settings.php:157
+msgid "Orange"
+msgstr ""
+
+#: views/admin-settings.php:160
+msgid ""
+"Geochart markers and regions are defined using the Minimum and Maximum Color "
+"controls below."
+msgstr ""
+
+#: views/admin-settings.php:165
+msgid "Marker Size"
+msgstr ""
+
+#: views/admin-settings.php:168
+msgid "Normal"
+msgstr ""
+
+#: views/admin-settings.php:169
+msgid "Small"
+msgstr ""
+
+#: views/admin-settings.php:172
+msgid "The marker size only applies to Static Google Maps."
+msgstr ""
+
+#: views/admin-settings.php:180
+msgid "Geochart Mode"
+msgstr ""
+
+#: views/admin-settings.php:183 views/widget-form-geochart.php:39
+msgid "region"
+msgstr ""
+
+#: views/admin-settings.php:184 views/widget-form-geochart.php:40
+msgid "marker"
+msgstr ""
+
+#: views/admin-settings.php:187
+msgid ""
+"Select region mode to fill countries or marker mode to show proportionally-"
+"sized markers."
+msgstr ""
+
+#: views/admin-settings.php:192
+msgid "Tooltip"
+msgstr ""
+
+#: views/admin-settings.php:199
+msgid "Shown when hovering over a Geochart region or marker."
+msgstr ""
+
+#: views/admin-settings.php:204
+msgid "Minimum Color"
+msgstr ""
+
+#: views/admin-settings.php:211
+msgid "Maximum Color"
+msgstr ""
+
+#: views/admin-settings.php:218
+msgid "Background Color"
+msgstr ""
+
+#: views/admin-settings.php:225
+msgid "Empty Country Color"
+msgstr ""
+
+#: views/admin-settings.php:235
+msgid "Show us the love!"
+msgstr ""
+
+#: views/edit-terms.php:14
+msgid "Country"
+msgstr ""
+
+#: views/edit-terms.php:19
+msgid ""
+"Map My Posts has automatically selected a country for this category based "
+"upon its name."
+msgstr ""
+
+#: views/edit-terms.php:20
+msgid ""
+"You must hit the update button to save this association. You can adjust or "
+"clear the selection below."
+msgstr ""
+
+#: views/edit-terms.php:24
+msgid "None"
+msgstr ""
+
+#: views/edit-terms.php:29
+msgid "Associate a country with this category to be used by"
+msgstr ""
+
+#: views/edit-terms.php:34
+msgid "Location"
+msgstr ""
+
+#: views/edit-terms.php:46
+msgid "Locate"
+msgstr ""
+
+#: views/edit-terms.php:47
+msgid "Clear Marker"
+msgstr ""
+
+#: views/edit-terms.php:50
+msgid ""
+"Enter a location in the box and click the locate button. You can drag the "
+"marker to any arbitrary point."
+msgstr ""
+
+#: views/edit-terms.php:51
+msgid ""
+"If your selection is not a country, the country box will show None and you "
+"will not able to plot this location in region mode."
+msgstr ""
+
+#: views/edit-terms.php:52
+msgid "For more information please visit:"
+msgstr ""
+
+#: views/geochart.php:28 views/geochart.php:56
+msgid "Posts"
+msgstr ""
+
+#: views/gmap.php:62
+msgid "Posts:"
+msgstr ""
+
+#: views/widget-form-geochart.php:13 views/widget-form-gmap.php:13
+#: views/widget-form-static.php:13
+msgid "Title:"
+msgstr ""
+
+#: views/widget-form-geochart.php:17 views/widget-form-gmap.php:17
+#: views/widget-form-static.php:22
+msgid "Region:"
+msgstr ""
+
+#: views/widget-form-geochart.php:22
+msgid "Auto region only works when Geochart mode is set to marker."
+msgstr ""
+
+#: views/widget-form-geochart.php:25 views/widget-form-gmap.php:24
+#: views/widget-form-static.php:29
+msgid "Taxonomy:"
+msgstr ""
+
+#: views/widget-form-geochart.php:32 views/widget-form-gmap.php:31
+#: views/widget-form-static.php:36
+msgid "Parent:"
+msgstr ""
+
+#: views/widget-form-geochart.php:34
+msgid ""
+"Only show items classified under this category. Value can be a term_ID or "
+"name. Optional."
+msgstr ""
+
+#: views/widget-form-geochart.php:37
+msgid "Geochart Mode:"
+msgstr ""
+
+#: views/widget-form-geochart.php:44
+msgid "Tooltip:"
+msgstr ""
+
+#: views/widget-form-geochart.php:51 views/widget-form-gmap.php:59
+msgid "Link Target:"
+msgstr ""
+
+#: views/widget-form-geochart.php:58 views/widget-form-gmap.php:66
+#: views/widget-form-static.php:50
+msgid "Width:"
+msgstr ""
+
+#: views/widget-form-geochart.php:62 views/widget-form-gmap.php:70
+#: views/widget-form-static.php:54
+msgid "Height:"
+msgstr ""
+
+#: views/widget-form-gmap.php:33 views/widget-form-static.php:38
+msgid ""
+"Only show items classified under this term. Value can be a term_ID or name. "
+"Optional."
+msgstr ""
+
+#: views/widget-form-gmap.php:36 views/widget-form-static.php:41
+msgid "Map Type:"
+msgstr ""
+
+#: views/widget-form-gmap.php:38 views/widget-form-static.php:43
+msgid "roadmap"
+msgstr ""
+
+#: views/widget-form-gmap.php:39 views/widget-form-static.php:44
+msgid "satellite"
+msgstr ""
+
+#: views/widget-form-gmap.php:40 views/widget-form-static.php:45
+msgid "terrain"
+msgstr ""
+
+#: views/widget-form-gmap.php:41 views/widget-form-static.php:46
+msgid "hybrid"
+msgstr ""
+
+#: views/widget-form-gmap.php:45
+msgid "Map Type Control:"
+msgstr ""
+
+#: views/widget-form-gmap.php:52
+msgid "Info Window:"
+msgstr ""
+
+#: views/widget-form-static.php:17
+msgid "Link:"
+msgstr ""
+
+#: views/widget-form-static.php:19
+msgid "Provide a URL to go to when the map is clicked. Optional."
+msgstr ""

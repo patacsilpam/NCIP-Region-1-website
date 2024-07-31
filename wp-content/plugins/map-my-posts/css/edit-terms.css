@@ -1,0 +1,10 @@
+div#mmp-map-canvas {
+	width: 95%;
+	max-width: 550px;
+	height: 225px;
+	margin: 10px 0;
+}
+
+p#mmp-map-description {
+	max-width: 550px;
+}

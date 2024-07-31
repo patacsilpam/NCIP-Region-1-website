@@ -1,0 +1,7 @@
+div#markercolorpicker {
+	display: none;
+}
+
+input.color-field {
+	width: 150px;
+}

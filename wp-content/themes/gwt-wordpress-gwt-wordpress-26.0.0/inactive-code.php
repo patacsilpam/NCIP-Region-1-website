@@ -21,3 +21,7 @@
                         </div>
                     </div>
                 </header>
+                <div id="pst-container">
+						<div>Philippine Standard Time:</div><div id="pst-time"></div>
+					   </div>
+                       <embed src="http://localhost/wordpress/wp-content/uploads/2024/07/IPRA-LAW.pdf" type="application/pdf" style="height:700px; width:640px"></embed>
