@@ -421,27 +421,12 @@ Press esc, or click the close the button to close this dialog box.
 			?>
 
                 <!-- masthead -->
-                <header class="container-masthead">
-                    <div class="row">
-                        <div class="<?php echo $name_slogan_class ?> columns">
-                            <h1 class="logo"><a href="<?php echo esc_url( home_url( '/' ) ); ?>"
-                                    title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>"
-                                    rel="home"><?php govph_displayoptions( 'govph_logo' ); ?></a></h1>
-                        </div>
-
-                        <?php if(is_active_sidebar('ear-content-1')): ?>
-                        <div class="<?php echo $ear_content_class ?> columns">
-                            <?php do_action( 'before_sidebar' ); ?>
-                            <?php dynamic_sidebar( 'ear-content-1' ) ?>
-                        </div>
-                        <?php endif; ?>
-
-                        <?php if(is_active_sidebar('ear-content-2')): ?>
-                        <div class="<?php echo $ear_content_2_class ?> columns">
-                            <?php do_action( 'before_sidebar' ); ?>
-                            <?php dynamic_sidebar( 'ear-content-2' ) ?>
-                        </div>
-                        <?php endif; ?>
+            <header class="container-masthead" style="background-color:#e6e6e6; margin-bottom:1rem">
+                <div class="row">
+                    <div class="" style="display:flex; padding:1rem">
+                        <img src="<?php echo get_template_directory_uri() ?>/images/header.svg" alt="header">
+                        <img src="<?php echo get_template_directory_uri() ?>/images/bagong-pilipinas.png" alt="header" style="width:100px; height:100px">
                     </div>
-                </header>
+                </div>
+            </header>
                 <!-- masthead -->
