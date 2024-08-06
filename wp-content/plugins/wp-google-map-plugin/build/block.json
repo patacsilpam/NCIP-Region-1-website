@@ -1,0 +1,62 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 3,
+  "name": "weplugins/wp-maps-block",
+  "version": "1.0.0",
+  "title": "WP Maps Block",
+  "category": "embed",
+  "icon": "location-alt",
+  "description": "Create unlimited google maps with custom marker icons and infowindow message.",
+  "keywords": [
+    "map",
+    "maps",
+    "google map",
+    "google maps",
+    "map block"
+  ],
+  "example": {},
+  "attributes": {
+    "selectedMapId": {
+      "type": "string",
+      "default": ""
+    },
+    "mapHeight": {
+      "type": "string",
+      "default": ""
+    },
+    "mapWidth": {
+      "type": "number",
+      "default": ""
+    },
+    "mapZoomLevel": {
+      "type": "number",
+      "default": ""
+    },
+    "snazzyStyle": {
+      "type": "string",
+      "default": ""
+    },
+    "preDefinedToggler": {
+      "type": "boolean",
+      "default": false
+    },
+    "preDefinedColor": {
+      "type": "string"
+    },
+    "customDefinedToggler": {
+      "type": "boolean",
+      "default": false
+    },
+    "themePrimaryColor": {
+      "type": "string"
+    },
+    "themeSecondaryColor": {
+      "type": "string"
+    }
+  },
+  "supports": {
+    "html": false
+  },
+  "textdomain": "wp-google-map-plugin",
+  "editorStyle": "file:./src/editor.scss"
+}

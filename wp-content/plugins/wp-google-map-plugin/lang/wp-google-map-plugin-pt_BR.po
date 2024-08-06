@@ -1,0 +1,1989 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:32+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "Um widget para exibir o Google Maps"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "Título:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Selecione seu mapa:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Selecione o mapa"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Inscreva-se em nossa lista de discussão"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "informação do produto"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"Para cada um de nossos plug-ins, criamos tutoriais detalhados passo a passo "
+"que ajudam você a começar rapidamente."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "COMECE AGORA"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Versão instalada:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Versão mais recente disponível:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Atualização disponível"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Inscreva-se agora"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Receba atualizações sobre nossos novos recursos e novos produtos sem "
+"esforço."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr "Não compartilharemos seus endereços de e-mail em nenhum caso."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Suporte ao produto"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"Para cada produto, temos um guia inicial muito bem explicado para você "
+"começar em questão de minutos."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Clique aqui"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"Para cada produto, criamos páginas de demonstração onde você pode ver o "
+"plugin em modo de funcionamento. Você pode ver uma demonstração funcional "
+"antes de fazer uma compra."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Criar ticket de suporte"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Se você tiver alguma dúvida e precisar de nossa ajuda, clique no botão "
+"abaixo para criar um ticket de suporte e nossa equipe de suporte irá ajudá-"
+"lo o mais rápido possível."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Criar ingresso"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Contrate especialista em Wordpress"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Você tem um requisito personalizado que está faltando neste plugin?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Podemos personalizar este plugin de acordo com suas necessidades. Clique no "
+"botão abaixo para enviar uma solicitação de orçamento."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Solicite uma cotação"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "MAPAS WP"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "O plugin de mapas do Google mais avançado do mundo"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Guia de Introdução"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP MAPAS PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr ""
+"Atualize para a versão profissional e desbloqueie recursos premium "
+"instantaneamente."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr "Obtenha nosso suporte dedicado e atualizações futuras vitalícias."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "Aprovado por mais de 13.000 clientes Premium."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Atualizar"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Desenho de mapa"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Complementos de plug-in"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr "Complementos/extensões premium para WP Google Maps Pro"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Contate agora"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Comprar agora"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Ver demonstração"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "Adicionar categoria de marcador"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Gerenciar categorias"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Algo deu errado. Por favor, tente novamente."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "A categoria do marcador foi atualizada com sucesso."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "A categoria do marcador foi adicionada com sucesso."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "Categoria do marcador"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "Gerenciar categorias de marcadores"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "Categoria Parental"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"Opcionalmente, você pode atribuir uma categoria de marcador pai à nova "
+"categoria de marcador que está criando. Atribua a categoria pai, se desejar."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "Título da categoria do marcador"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "Insira o nome/título da categoria do marcador aqui."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "Selecione o ícone da categoria do marcador"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Escolher"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Remover"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "Imagem do marcador"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Atualizado em"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "Categorias de marcadores"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Excluir"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "Adicionar categoria"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "A categoria do marcador foi excluída com sucesso."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "As categorias de marcadores foram excluídas com sucesso."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Nenhuma categoria de marcador foi encontrada."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Adicionar local"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Gerenciar locais"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Insira um valor flutuante válido para latitude."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Insira um valor flutuante válido para longitude."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "A localização foi atualizada com sucesso."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "O local foi adicionado com sucesso."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "Informações de localização"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "criar chave de API do Google Maps"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "aqui"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"A chave da API do Google Maps está ausente. Siga as instruções para %1$s e "
+"insira sua chave %2$s."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Título do local"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Insira o título do local"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Endereço de localização"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Comece a digitar e escolha um endereço na lista de sugestões automáticas do "
+"Google. A escolha do local detectará automaticamente a latitude e a "
+"longitude."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Digite o endereço do local"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Latitude e longitude"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Latitude"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Longitude"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Cidade e estado"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Cidade"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "Estado"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "País e Código Postal"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "País"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "Código postal"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Localização atual"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "Ao clicar"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Exibir janela de informações"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Redirecionar"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Mensagem da janela de informações"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Insira aqui a mensagem da infoWindow."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "URL de redirecionamento"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr ""
+"Insira aqui o URL de redirecionamento. por exemplo, http://www.flippercode."
+"com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "SIM"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "NÃO"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Abrir nova aba"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Abra uma nova guia de janela."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Imagem de localização"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Janela de informações aberta por padrão"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr "Marque para ativar a abertura padrão da janela de informações."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "Marcador arrastável"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr "Verifique se deseja permitir que os visitantes arrastem o marcador."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "Animação de marcador"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Quicar"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "DERRUBAR"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Valores de campos extras"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Você não tem categoria(s)."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Salvar localização"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "Passo 1 - Carregar CSV"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Passo 2 – Mapeamento de Colunas"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Escolher arquivo"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Escolha um arquivo"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Faça upload de um arquivo CSV válido. Você pode encontrar um arquivo CSV de "
+"dados de amostra no diretório do plugin."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "Continuar"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Selecione o campo"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Título"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Endereço"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "Mensagem"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Clique em localização"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "URL de redirecionamento de local"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Categoria"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Campo Extra"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "EU IA"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"os registros estão prontos para upload. Mapeie as colunas CSV abaixo e "
+"clique no botão Importar."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Locais de importação"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Localização"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "O local foi excluído com sucesso."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Os locais foram excluídos com sucesso."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Nenhum local foi encontrado."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Adicionar mapa"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Gerenciar mapas"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Insira um valor inteiro para o pitch do POV."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Insira um valor inteiro para o título do PDV."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr "Insira valores inteiros para o título e o pitch do POV."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "O mapa foi atualizado com sucesso."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"O mapa foi criado com sucesso. Você pode usar o shortcode [put_wpgm id=%d] "
+"para exibir o mapa em qualquer lugar."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "cópia de"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Informações do mapa"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Salvar mapa"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Título do mapa"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Largura do mapa"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Altura do mapa"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Nível de zoom do mapa"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Tipo de mapa"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Código abreviado do mapa"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Os mapas foram excluídos com sucesso."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Os mapas foram excluídos com sucesso."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "O mapa foi criado com sucesso."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Nenhum mapa foi encontrado."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "CSS adicional"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Canto superior esquerdo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Canto superior direito"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Superior Esquerdo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Bem no topo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Centro superior"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Centro Esquerdo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Centro direito"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Canto inferior direito"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Inferior esquerdo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Inferior direito"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Centro Inferior"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Inferior esquerdo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Configurações de posição(ões) de controle"
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Controle de zoom"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Selecione a posição do controle de zoom."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Estilo de controle de zoom"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Selecione o estilo de controle de zoom."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Controle de tipo de mapa"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Selecione a posição do controle do tipo de mapa."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Estilo de controle de tipo de mapa"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Selecione o estilo de controle do tipo de mapa."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Controle de tela cheia"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Selecione a posição do controle de tela cheia."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Controle do Street View"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Selecione a posição do controle de vista da rua."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Controle de pesquisa"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Selecione a posição do controle da caixa de pesquisa."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Configurações de controle de mapa"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Desligue o controle de zoom"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Marque para desativar o controle de zoom."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Desative o controle de tela inteira"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Marque para desativar o controle de tela cheia."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Desative o controle de tipo de mapa"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Marque para desativar o controle do tipo de mapa."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Desative o controle do Street View"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr "Marque para desativar o controle do Street View."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Ative o controle de pesquisa"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr "Marque para ativar o controle da caixa de pesquisa."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Configurações de controle(s) personalizado(s)"
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Filtros de mapa"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Filtros de exibição"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Exibir filtros abaixo do mapa"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Antes do cabeçalho dos filtros"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Filtrar locais por categoria"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr "Exibe um conteúdo texto/html que será exibido antes dos filtros."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Locais no mapa"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Filtro de categoria de exibição"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Marque para exibir o filtro de categoria."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Insira o nome/título do mapa aqui."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Insira a largura do mapa em pixels. Deixe este campo em branco caso "
+"necessite de mapa com 100% de largura."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Insira a altura do mapa em pixels. Por exemplo. 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr "Especifique o nível do zoon do mapa. O valor de zoom padrão é 5."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Desligue a roda de rolagem"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr "Marque para desativar o zoom da roda de rolagem."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Mapa arrastável"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr "Por favor, marque para desativar o mapa arrastável."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "Imagens de 45°"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+"Aplicar imagens de 45°? (disponível apenas para tipo de mapa SATÉLITE e "
+"HÍBRIDO)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Mostrar postagens usando campos personalizados"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "Mostrar postagens usando o plugin ACF"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Comodidades do Google Maps"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Configurações de Importação"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Configurações da janela de informações"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"Insira os espaços reservados {marker_title},{marker_address},"
+"{marker_message},{marker_latitude},{marker_longitude}."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Clique do mouse"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Rato flutuante"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Mostrar janela de informações ativada"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr "Abra a janela de informações ao clicar ou passar o mouse."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "Escolha a imagem do marcador"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "Janela de informações aberta"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr ""
+"Por favor, marque para ativar a abertura padrão da janela de informações."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "Fechar janela de informações"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr ""
+"Por favor, verifique para fechar a janela de informações ao clicar no mapa."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Selecione Animação"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Animação de salto"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Aplique animação de salto ao passar o mouse ou clicar com o mouse. BOUNCE "
+"indica que o marcador deve saltar no lugar."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Aplicar animação de queda"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr "DROP indica que o marcador deve cair do topo do mapa."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Mensagem da janela de informações para locais"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Mensagem da janela de informações para postagens"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Configurações de personalização da janela de informações"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Configurações de camadas do mapa"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Camada de tráfego"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Por favor, marque para ativar a camada de tráfego no mapa."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Camada de trânsito"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Por favor, marque para ativar a camada de transporte público no mapa."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Camada de bicicleta"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Por favor, marque para ativar a camada de bicicleta no mapa."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Limitar configurações de panorâmica"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Filtros personalizados"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Funcionalidade de filtro avançado"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Configurações de listagem"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Listagem do tema do item"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Configurações de filtro de mapa"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Configurações geográficas Json"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Escolha locais"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Selecionar tudo"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Desmarcar todos"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Centro do Mapa"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Latitude Central"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Insira a latitude central do mapa."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Longitude Central"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Insira a longitude central do mapa."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Centralizar por locais atribuídos"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Centralize o mapa com base nos locais atribuídos ao mapa para mostrar todos "
+"os locais de uma vez."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr ""
+"(A maneira mais recomendada de centralizar o mapa de acordo com os locais "
+"atribuídos.)"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Configurações de estilo de mapa"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Mapas elegantes"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Obtenha estilo grátis para seus mapas do Google em %s Você pode copiar a "
+"matriz de estilo javascript de lá e colar aqui."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Cole o estilo aqui"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr "Copie a matriz de estilo javascript do google map de %s e cole aqui."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Configurações do tema do mapa"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "Configurações de cluster de marcadores"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "Aplicar cluster de marcadores"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Por favor, marque para aplicar o cluster de marcadores."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Tamanho da grade"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Nível máximo de zoom"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Opções disponíveis 1 a 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "Nível de zoom do marcador"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"Defina o nível de zoom no marcador ou clique no local. Opções disponíveis 1 "
+"a 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Aplicar estilo(s)"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "Aplicar estilos a clusters de marcadores?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Cor do agrupamento"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Cor do cluster ao passar o mouse"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Configurações específicas da tela"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Configurações de sobreposições"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Configurações de direção da rota"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Configurações do Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Ativar o Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Marque para ativar o Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Ativar botão Fechar"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Verifique para ativar o botão Fechar."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Desativar controle de links"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Por favor, marque para desabilitar o controle de links."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Desativar o controle panorâmico do Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr "Marque para desativar o controle panorâmico do Street View."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "Título POV"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr "Insira um valor inteiro numérico para o título do PDV."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "Ponto de venda"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Insira um valor inteiro numérico para o pitch do POV."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Configurações de guias"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "Configurações de filtros de URL"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Como usar"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "Como criar seu primeiro mapa?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Chave de API do Google Maps"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"Primeiro crie um %s. Em seguida, vá para a página %s, insira sua chave de "
+"API do Google Maps e salve."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "Crie um local usando a página %s."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"Vá para a página %s, atribua locais ao mapa e configure outros detalhes "
+"conforme suas necessidades. Salve o mapa."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Como exibir o mapa no frontend?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Gerenciar mapa"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"Vá para %se copie o shortcode e cole-o em qualquer página/postagem onde "
+"deseja exibir o mapa."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Como criar uma categoria de marcador?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"Criar categorias de marcadores e atribuí-los a locais ajuda a agrupar os "
+"marcadores no mapa por sua imagem de ícone. Marcadores com a mesma "
+"categoria de marcador exibirão o mesmo ícone de marcador. Vá para %s , "
+"especifique o título da categoria do marcador e atribua um ícone de "
+"marcador. Depois de criar algumas categorias de marcadores, essas "
+"categorias podem ser atribuídas ao local na página &quot;Adicionar "
+"locais&quot;."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Solução de problemas da API do Google Maps"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Se o seu Google Maps não estiver funcionando. Certifique-se de ter "
+"verificado os seguintes itens."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Certifique-se de ter atribuído locais ao seu mapa."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Você deve ter a chave de API do Google Maps."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. Verifique os referenciadores HTTP. Deve ser *seuwebsite.com/* ou *."
+"seuwebsite.com/*"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "tíquete de suporte"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Se precisar de ajuda ou se ainda encontrar algum problema, sinta-se à "
+"vontade para criar um %s e ficaremos felizes em ajudá-lo o mais rápido "
+"possível."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Mapas Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Se você está procurando ainda mais recursos, dê uma olhada na versão pro: "
+"%s. É o plugin número 1 em vendas (mais de 13 mil clientes satisfeitos), o "
+"plugin avançado de mapas do Google mais amado e confiável para wordpress. "
+"Estamos continuamente adicionando mais recursos com base nas sugestões de "
+"clientes/usuários estimados como você. Com a versão pro, você pode "
+"configurar o Google Maps com recursos muito avançados em apenas alguns "
+"segundos. Além disso, nossos plug-ins de versão gratuita e profissional "
+"podem ser personalizados para atender a requisitos específicos."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "Gerenciar Permissões"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Insira o título da rota."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Adicionar rota"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Gerenciar rotas"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Configurações de plug-in"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "As configurações foram salvas com sucesso."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Configurações gerais do plug-in"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"A primeira etapa para começar a usar o Google Maps é criar a chave de API "
+"correta para o seu site. Ao criar as chaves da API do Google Maps a partir "
+"do Google Cloud Platform, na seção de restrição de chave, você precisa "
+"escolher o referenciador HTTP e, em seguida, inserir o referenciador HTTP "
+"de acordo com o nome de domínio do seu site."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Você precisará inserir qualquer um dos referenciadores HTTP abaixo durante "
+"o processo de criação da chave:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "Copiar referenciador HTTP para a área de transferência"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Funciona para a maioria dos sites)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Tente isso se acima não funcionar)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Ver tutorial"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Ver instruções"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Chave de API do Google Maps"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Insira a chave de API do Google Maps criada aqui. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "Gerar chave de API"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "Chave de API de teste"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "guias."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Se o mapa não estiver visível, verifique o erro no console javascript e "
+"corrija-o usando nosso %1$s"
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "INGLÊS"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "ÁRABE"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASCO"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "BÚLGARO"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALI"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "CATALÃO"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "CHECO"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "DINAMARQUÊS"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "ALEMÃO"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "GREGO"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "INGLÊS (AUSTRALIANO)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "INGLÊS (GRÃ-BRETANHA)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "ESPANHOL"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "FAÇA ISSO"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "FINLANDÊS"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "FILIPINO"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "FRANCÊS"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "Galego"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "NÃO"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "CROATA"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "HÚNGARO"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "INDONÉSIO"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "ITALIANO"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "HEBRAICO"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "JAPONÊS"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "CANANÁ"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "COREANO"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "LITUANO"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "LETÃO"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "Malaiala"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATA"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "HOLANDÊS"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "NORUEGUÊS"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "POLONÊS"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "PORTUGUÊS"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTUGUÊS (BRASIL)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTUGUÊS (PORTUGAL)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "ROMENA"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "RUSSO"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "ESLOVACO"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "ESLOVENO"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "SÉRVIO"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "SUECO"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALOGO"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "TÂMIL"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "TÉLUGU"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "TAILANDÊS"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "TURCO"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "UCRANIANO"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "VIETNAMITA"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "CHINÊS SIMPLIFICADO)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "CHINÊS TRADICIONAL)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Idioma do mapa"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Escolha o idioma do google map. O idioma padrão é o inglês."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Incluir scripts em"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "Cabeçalho"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Rodapé (recomendado)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Configurações da metacaixa"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Criar campos extras"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Solução de problemas"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Correção automática"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Se o mapa não estiver visível de alguma forma, ative a correção automática "
+"e verifique o mapa."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Ative o modo de depuração"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Se o mapa não estiver visível de alguma forma, mesmo a correção automática "
+"ativada, ative o modo de depuração e entre em contato com a equipe de "
+"suporte para analisar a saída do console javascript."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Aceitação de Cookies"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Habilitar aceitação de cookies"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Os mapas permanecerão ocultos até que o visitante aceite a política de "
+"cookies. Este recurso é destinado a desenvolvedores que desejam monitorar o "
+"acesso a cookies e limitar o acesso a mapas."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "Aviso &quot;Sem mapa&quot;"
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Mostrar mensagem em vez de mapa até que o visitante aceite a política de "
+"cookies. Tags HTML são permitidas. Deixe em branco para nenhuma mensagem."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Por favor, aceite cookies para mostrar o Google Maps."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Mostrar espaço reservado"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Até aceitar cookies, mostre uma imagem do mapa junto com uma mensagem de "
+"consentimento no lugar do Google Maps"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Salvar configurações"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Filtrar locais"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Ferramentas de plug-in"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "Configurações"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Versão Pró"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Todos"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Mostrar locais"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Ordenar por"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Não está funcionando..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "Selecione a Categoria"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Torne-se profissional"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Esconder"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Você realmente deseja excluir este local?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Você realmente deseja excluir este mapa?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Você realmente deseja excluir esta categoria?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Você realmente deseja excluir esta rota?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Você realmente deseja excluir este registro?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr ""
+"Selecione alguns registros primeiro para aplicar ações em massa a eles."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Tem certeza de que deseja excluir os registros selecionados?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Substituir o banco de dados existente do Google Maps?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "O referenciador foi copiado"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Tem certeza de que deseja excluir o item?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Escolha os ícones"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Escolha o ícone"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Ícones de pesquisa"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Escolha o ícone do marcador para a categoria."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Inserir na postagem"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "Pró"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Atualize sem complicações para a versão %s e desbloqueie listagens, rotas, "
+"rotas, filtragem, desenho e muitos outros recursos."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Atualize agora"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "PRÓ"

@@ -1,0 +1,220 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mechanic Visitor Counter\n"
+"POT-Creation-Date: 2016-12-24 14:23+0800\n"
+"PO-Revision-Date: 2016-12-24 14:23+0800\n"
+"Last-Translator: Aditya Subawa <me@adityasubawa.com>\n"
+"Language-Team: Aditya Subawa <me@adityasubawa.com>\n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-statsmechanic.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-statsmechanic.php:87
+msgid "Title:"
+msgstr "Title:"
+
+#: wp-statsmechanic.php:88
+msgid "Font Color:"
+msgstr "Font Color:"
+
+#: wp-statsmechanic.php:89
+msgid ""
+"To change the font color, fill the field with the HTML color code. example: "
+"#333"
+msgstr ""
+"To change the font color, fill the field with the HTML color code. example: "
+"#333"
+
+#: wp-statsmechanic.php:90
+msgid "Click here</a> to select another color variation."
+msgstr "Click here</a> to select another color variation."
+
+#: wp-statsmechanic.php:91
+msgid "Widget Options"
+msgstr "Widget Options"
+
+#: wp-statsmechanic.php:93
+msgid "Counter Start:"
+msgstr "Counter Start:"
+
+#: wp-statsmechanic.php:94
+msgid ""
+"Fill in with numbers to start the initial calculation of the counter, if the "
+"empty counter will start from 1"
+msgstr ""
+"Fill in with numbers to start the initial calculation of the counter, if the "
+"empty counter will start from 1"
+
+#: wp-statsmechanic.php:95
+msgid "Hits Start:"
+msgstr "Hits Start:"
+
+#: wp-statsmechanic.php:96
+msgid ""
+"Fill in the numbers to start the initial calculation of the hits, if the "
+"empty hits will start from 1"
+msgstr ""
+"Fill in the numbers to start the initial calculation of the hits, if the "
+"empty hits will start from 1"
+
+#: wp-statsmechanic.php:98
+msgid "Image Counter Length:"
+msgstr "Image Counter Length:"
+
+#: wp-statsmechanic.php:105
+msgid "Define your Image counter length, the default length is 4"
+msgstr "Define your Image counter length, the default length is 4"
+
+#: wp-statsmechanic.php:107
+msgid "Enable Visit Today display? "
+msgstr "Enable Visit Today display? "
+
+#: wp-statsmechanic.php:108
+msgid "Enable Visit Yesterday display? "
+msgstr "Enable Visit Yesterday display? "
+
+#: wp-statsmechanic.php:109
+msgid "Enable Month display? "
+msgstr "Enable Month display? "
+
+#: wp-statsmechanic.php:110
+msgid "Enable Year display? "
+msgstr "Enable Year display? "
+
+#: wp-statsmechanic.php:111
+msgid "Enable Total Visit display? "
+msgstr "Enable Total Visit display? "
+
+#: wp-statsmechanic.php:112
+msgid "Enable Hits Today display? "
+msgstr "Enable Hits Today display? "
+
+#: wp-statsmechanic.php:113
+msgid "Enable Total Hits display? "
+msgstr "Enable Total Hits display? "
+
+#: wp-statsmechanic.php:114
+msgid "Enable Whos Online display? "
+msgstr "Enable Whos Online display? "
+
+#: wp-statsmechanic.php:115
+msgid "Enable IP address display? "
+msgstr "Enable IP address display? "
+
+#: wp-statsmechanic.php:116
+msgid "Enable Server Time display? "
+msgstr "Enable Server Time display?"
+
+#: wp-statsmechanic.php:117
+msgid "Plugins align? "
+msgstr "Plugins align? "
+
+#: wp-statsmechanic.php:124
+msgid "Display plugin credit? "
+msgstr ""
+
+#: wp-statsmechanic.php:124
+msgid ""
+"Please go to <a href=\"options-general.php?page=plugin_statsmechanic_menu"
+"\">Settings -> Visitor Counter Options</a> to configure image counter"
+msgstr ""
+"Please go to <a href=\"options-general.php?page=plugin_statsmechanic_menu"
+"\">Settings -> Visitor Counter Options</a> to configure image counter"
+
+#: wp-statsmechanic.php:125
+msgid "Donate"
+msgstr "Donate"
+
+#: wp-statsmechanic.php:243
+msgid "Visit Today :"
+msgstr "Visit Today :"
+
+#: wp-statsmechanic.php:246
+msgid "Visit Yesterday :"
+msgstr "Visit Yesterday :"
+
+#: wp-statsmechanic.php:249
+msgid "This Month :"
+msgstr "This Month :"
+
+#: wp-statsmechanic.php:252
+msgid "This Year :"
+msgstr "This Year :"
+
+#: wp-statsmechanic.php:255
+msgid "Total Visit :"
+msgstr "Total Visit :"
+
+#: wp-statsmechanic.php:258
+msgid "Hits Today :"
+msgstr "Hits Today :"
+
+#: wp-statsmechanic.php:261
+msgid "Total Hits :"
+msgstr "Total Hits :"
+
+#: wp-statsmechanic.php:269
+msgid "Who's Online :"
+msgstr "Who's Online :"
+
+#: wp-statsmechanic.php:274
+msgid "Your IP Address:"
+msgstr "Your IP Address:"
+
+#: wp-statsmechanic.php:277
+msgid "Server Time:"
+msgstr "Server Time:"
+
+#: wp-statsmechanic.php:298
+msgid "You do not have sufficient permissions to access this page."
+msgstr "You do not have sufficient permissions to access this page."
+
+#: wp-statsmechanic.php:396
+msgid "Save Changes"
+msgstr "Save Changes"
+
+#: wp-statsmechanic.php:480
+msgid ""
+"Your PHP version must be above V5.4. Mechanic visitor counter plugin no "
+"longer support php legacy versions (v5.2.X, v5.3.X). Your current PHP "
+"version is <b>"
+msgstr ""
+"Your PHP version must be above V5.4. Mechanic visitor counter plugin no "
+"longer support php legacy versions (v5.2.X, v5.3.X). Your current PHP "
+"version is <b>"
+
+#. Plugin Name of the plugin/theme
+msgid "Mechanic Visitor Counter"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.balimechanicmedia.co.id/product/mechanic-visitor-counter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Mechanic Visitor Counter is a widgets which will display the Visitor counter "
+"and traffic statistics on WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Aditya Subawa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.adityasubawa.com"
+msgstr ""
+
+#~ msgid "Visit Today"
+#~ msgstr "Visit Today"

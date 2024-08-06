@@ -1,0 +1,2000 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:33+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1?0:(((n%100>19)||((n%100==0)&&(n!"
+"=0)))?2:1));\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "Un widget pentru afișarea Google Maps"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "Titlu:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Selectați harta dvs.:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Selectați harta"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Abonați-vă la lista noastră de difuzare"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "Informații despre produs"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"Pentru fiecare dintre pluginurile noastre, am creat tutoriale detaliate pas "
+"cu pas care vă ajută să începeți rapid."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "ÎNCEPE ACUM"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Versiunea instalata:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Ultima versiune disponibilă:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Actualizare disponibila"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Abonează-te acum"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Primiți fără efort actualizări despre noile noastre caracteristici ale "
+"produselor și despre noile produse."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr "Nu vă vom partaja adresele de e-mail în niciun caz."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Suport pentru produse"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"Pentru fiecare produs al nostru, avem un ghid de pornire foarte bine "
+"explicat pentru a vă ajuta să începeți în câteva minute."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Click aici"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"Pentru fiecare produs al nostru, am configurat pagini demo unde puteți "
+"vedea pluginul în modul de lucru. Puteți vedea o demonstrație funcțională "
+"înainte de a face o achiziție."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Creați un bilet de asistență"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Dacă aveți întrebări și aveți nevoie de ajutorul nostru, faceți clic pe "
+"butonul de mai jos pentru a crea un bilet de asistență, iar echipa noastră "
+"de asistență vă va ajuta în cel mai scurt timp."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Creați un bilet"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Angajați expert Wordpress"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Aveți o cerință personalizată care lipsește din acest plugin?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Putem personaliza acest plugin în funcție de nevoile dvs. Faceți clic pe "
+"butonul de mai jos pentru a trimite o cerere de ofertă."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Solicitați o cotație"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "HĂRȚI WP"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "Cel mai avansat plugin pentru hărți Google din lume"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Ghidul începătorului"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP MAPS PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr ""
+"Faceți upgrade la versiunea pro și deblocați funcții premium instantaneu."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr "Obțineți asistență dedicată și actualizări viitoare pe viață."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "Încrederea celor peste 13000 de clienți Premium."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Actualizare"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Cartografie"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Suplimente pentru pluginuri"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr "Suplimente/Extensii Premium pentru WP Google Maps Pro"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Contacteaza acum"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Cumpără acum"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Vedeți demonstrația"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "Adăugați o categorie de marcatori"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Gestionați categoriile"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Ceva n-a mers bine. Vă rugăm să încercați din nou."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "Categoria marcatorului a fost actualizată cu succes."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "Categoria marcatorului a fost adăugată cu succes."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "Categoria de marcaj"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "Gestionați categoriile de marcatori"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "Categoria părinte"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"Opțional, puteți atribui o categorie de marcator părinte noii categorii de "
+"marcatori pe care o creați. Atribuiți o categorie părinte dacă doriți."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "Titlul categoriei markerului"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "Introduceți aici numele/titlul categoriei markerului."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "Selectați pictograma categorie marcator"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Alege"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Elimina"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "Imagine Marker"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Actualizat la"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "Categorii de marcatori"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Șterge"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "Adăugați o categorie"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "Categoria marcatorului a fost ștearsă cu succes."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "Categoriile de marcatori au fost șterse cu succes."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Nu au fost găsite categorii de marcatori."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Adaugă locație"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Gestionați locații"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Vă rugăm să introduceți o valoare mobilă validă pentru latitudine."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Vă rugăm să introduceți o valoare mobilă validă pentru longitudine."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "Locația a fost actualizată cu succes."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "Locația a fost adăugată cu succes."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "Informații despre locație"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "creați cheia API Google Maps"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "Aici"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"Cheia API Google Maps lipsește. Urmați instrucțiunile către %1$s și apoi "
+"introduceți cheia %2$s."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Titlul locației"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Introduceți titlul locației"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Adresa locației"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Începeți să tastați și alegeți o adresă din lista de sugestii automate a "
+"Google. Alegerea locului va detecta automat latitudinea și longitudinea."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Tastați Adresa locației"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Latitudine și longitudine"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Latitudine"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Longitudine"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Oraș și Stat"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Oraș"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "Stat"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "Țara și codul poștal"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "Țară"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "Cod poștal"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Locatia curenta"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "Pe Click"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Afișează fereastra de informații"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Redirecţiona"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Mesaj din fereastră de informații"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Introduceți aici mesajul infoWindow."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "URL de redirecționare"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr ""
+"Introduceți aici adresa URL de redirecționare. de ex. http://www."
+"flippercode.com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "DA"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "NU"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Deschideți o filă nouă"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Deschideți o nouă filă fereastră."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Imagine de locație"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Deschidere implicită a ferestrei de informații"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr ""
+"Bifați pentru a activa deschiderea implicită a ferestrei de informații."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "Marker Draggable"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr ""
+"Verificați dacă doriți să permiteți vizitatorilor să tragă marcatorul."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "Animație marker"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Sări"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "CĂDERE BRUSCA"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Câmpuri suplimentare Valori"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Nu aveți categorii."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Salveaza locatia"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "Pasul 1 - Încărcați CSV"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Pasul 2 - Maparea coloanelor"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Alege fișierul"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Alegeți un fișier"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Vă rugăm să încărcați un fișier CSV valid. Puteți găsi un exemplu de fișier "
+"csv de date în directorul pluginului."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "Continua"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Selectați Câmp"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Titlu"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Abordare"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "Mesaj"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Locație Faceți clic"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "Adresa URL de redirecționare a locației"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Categorie"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Câmp suplimentar"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "ID"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"înregistrările sunt gata de încărcat. Mapați coloanele csv de mai jos și "
+"faceți clic pe butonul Import."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Importați locații"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "Anulare"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Locație"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "Locația a fost ștearsă cu succes."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Locațiile au fost șterse cu succes."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Nu au fost găsite locații."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Adăugați o hartă"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Gestionați Hărți"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Introduceți o valoare întreagă pentru pitch POV."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Vă rugăm să introduceți o valoare întreagă pentru titlul POV."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr ""
+"Introduceți valori întregi atât pentru titlul POV, cât și pentru pitch Pov."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "Harta a fost actualizată cu succes."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"Harta a fost creată cu succes. Puteți utiliza codul scurt [put_wpgm id=%d] "
+"pentru a afișa harta oriunde."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "Copie"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Informații despre hartă"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Salvați harta"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Titlul hărții"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Lățimea hărții"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Înălțimea hărții"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Nivelul de zoom al hărții"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Tip hartă"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Cod scurt pentru hartă"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Maps a fost ștearsă cu succes."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Hărțile au fost șterse cu succes."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "Harta a fost creată cu succes."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Nu au fost găsite hărți."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "CSS suplimentar"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Stânga sus"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Sus în dreapta"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Stânga sus"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Dreapta Sus"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Centru de sus"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Centru stânga"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Centru dreapta"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Dreapta-jos"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Stânga Jos"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Dreapta jos"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Centru de jos"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Stânga jos"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Setări de poziție(e) de control"
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Control zoom"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Vă rugăm să selectați poziția controlului zoomului."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Stil control zoom"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Vă rugăm să selectați stilul de control al zoom-ului."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Controlul tipului hărții"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Vă rugăm să selectați poziția controlului tipului hărții."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Stil de control al tipului hărții"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Vă rugăm să selectați stilul de control al tipului de hartă."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Control pe tot ecranul"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Vă rugăm să selectați poziția de control pe ecran complet."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Control Street View"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Vă rugăm să selectați poziția controlului Street View."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Controlul căutării"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Vă rugăm să selectați poziția controlului casetei de căutare."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Setări de control al hărții"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Dezactivați controlul zoomului"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Vă rugăm să verificați pentru a dezactiva controlul zoomului."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Dezactivați controlul pe întregul ecran"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Vă rugăm să verificați pentru a dezactiva controlul pe ecran complet."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Dezactivați controlul tipului hărții"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Vă rugăm să verificați pentru a dezactiva controlul tipului hărții."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Dezactivați controlul Street View"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr "Verificați pentru a dezactiva controlul Street View."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Activați Controlul căutării"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr "Vă rugăm să bifați pentru a activa controlul casetei de căutare."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Setări personalizate de control(e)."
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Filtre de hartă"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Afișează filtre"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Afișați filtrele sub hartă"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Înainte de titlul filtrelor"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Filtrați locațiile după categorie"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr "Afișează un conținut text/html care va fi afișat înaintea filtrelor."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Locații pe hartă"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Afișează filtrul de categorii"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Bifați pentru a afișa filtrul de categorii."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Introduceți aici numele/titlul hărții."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Introduceți lățimea hărții în pixeli. Lăsați acest câmp necompletat dacă "
+"aveți nevoie de o hartă cu lățime de 100%."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Introduceți înălțimea hărții în pixeli. Pentru ex. 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr ""
+"Specificați nivelul zoonului pe hartă. Valoarea implicită de zoom este 5."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Dezactivați roata de defilare"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr ""
+"Vă rugăm să verificați pentru a dezactiva zoomul cu rotița de defilare."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Hartă trasabilă"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr "Vă rugăm să verificați pentru a dezactiva trasarea hărții."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "Imagini la 45°"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+"Aplicați imagini de 45°? (disponibil numai pentru tipul de hartă SATELLITE "
+"și HYBRID)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Afișați postările folosind câmpuri personalizate"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "Afișați postări folosind pluginul ACF"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Facilități Google Maps"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Setări de import"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Setări ferestrei de informații"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"Introduceți substituenți {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Faceți clic cu mouse-ul"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Hover mouse-ul"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Afișați fereastra de informații activată"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr "Deschideți fereastra de informații la clic pe mouse sau la mouse-ul."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "Alegeți imaginea marcatorului"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "Deschideți fereastră de informații"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr ""
+"Vă rugăm să verificați pentru a activa deschiderea implicită a ferestrei de "
+"informații."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "Închideți InfoWindow"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr ""
+"Vă rugăm să verificați pentru a închide fereastra de informații pe clic pe "
+"hartă."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Selectați Animație"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Animație Bounce"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Aplicați animația de respingere la trecerea mouse-ului sau la clicul mouse-"
+"ului. BOUNCE indică faptul că markerul ar trebui să sară pe loc."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Aplicați Drop Animation"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr ""
+"DROP indică faptul că marcatorul ar trebui să cadă din partea de sus a "
+"hărții."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Mesaj din fereastră de informații pentru locații"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Mesaj din fereastră de informații pentru postări"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Setări de personalizare a ferestrei de informații"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Setări pentru straturi de hartă"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Stratul de trafic"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Vă rugăm să verificați pentru a activa stratul de trafic pe hartă."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Stratul de tranzit"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Vă rugăm să verificați pentru a activa stratul de tranzit pe hartă."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Strat de ciclism"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Vă rugăm să verificați pentru a activa stratul de ciclism pe hartă."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Limitați setările de panoramă"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Filtre personalizate"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Funcționalitate avansată de filtrare"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Setări de listă"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Element de listare Skin"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Setări pentru filtrul hărții"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Setări Geo Json"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Alegeți Locații"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Selectează tot"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Deselectați Toate"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Centrul hărții"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Latitudine centrală"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Introduceți latitudinea centrală pentru hartă."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Longitudinea centrului"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Introduceți longitudinea centrului pentru hartă."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Centrare după locații atribuite"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Centrați harta pe baza locațiilor atribuite hărții pentru a afișa toate "
+"locațiile simultan."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr ""
+"(Cel mai recomandat mod de centrare a hărții în funcție de locațiile "
+"alocate.)"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Setări pentru stilul hărții"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Snazzy Maps"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Obțineți stil gratuit pentru hărțile dvs. Google de la %s Puteți copia "
+"matrice de stil javascript de acolo și lipiți aici."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Lipiți stilul aici"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr "Copiați matricea de stil javascript google map din %s lipiți aici."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Setările temei hărții"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "Setări pentru grupul de marcatori"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "Aplicați Marker Cluster"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Vă rugăm să verificați pentru a aplica grupul de marcatori."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Dimensiunea grilei"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Nivel maxim de zoom"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Opțiuni disponibile de la 1 la 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "Marker Nivel de zoom"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"Setați nivelul de zoom pe marcator sau clic pe locație. Opțiuni disponibile "
+"de la 1 la 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Aplicați stil(uri)"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "Aplicați stiluri grupurilor de marcatori?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Culoare cluster"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Culoarea grupului de trecere cu mouse-ul"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Setări specifice ecranului"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Setări suprapuneri"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Setări direcție traseu"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Setări Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Activați Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Vă rugăm să verificați pentru a activa vizualizarea pe stradă"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Porniți butonul de închidere"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Vă rugăm să verificați pentru a activa butonul de închidere."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Dezactivați controlul linkurilor"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Vă rugăm să verificați pentru a dezactiva controlul linkurilor."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Dezactivați controlul panoramă Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr "Verificați pentru a dezactiva controlul Street View Pan."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "Titlu POV"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr ""
+"Vă rugăm să introduceți o valoare întreagă numerică pentru titlul POV."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "Pitch POV"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Introduceți o valoare întreagă numerică pentru Pitch POV."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Setări filelor"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "Setări pentru filtrele URL"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Cum se utilizează"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "Cum să creezi prima ta hartă?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Cheia API Google Map"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"Mai întâi creați un %s. Apoi accesați pagina %s și introduceți cheia API "
+"Google Maps și salvați."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "Creați o locație utilizând pagina %s."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"Accesați pagina %s, atribuiți locații pe hartă și configurați alte detalii "
+"conform cerințelor dvs. Salvați harta."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Cum să afișați harta în Frontend?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Gestionați harta"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"Accesați %s și copiați codul scurt, apoi inserați-l în orice pagină/postare "
+"unde doriți să afișați harta."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Cum se creează o categorie de marcatori?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"Crearea categoriilor de marcatori și atribuirea acestora la locații ajută "
+"la gruparea marcatorilor de pe hartă după imaginea pictogramei lor. "
+"Markerii care au aceeași categorie de marcatori vor afișa aceeași "
+"pictogramă de marcare. Accesați %s , specificați titlul categoriei de "
+"marker și atribuiți o pictogramă de marcator. Odată ce ați creat câteva "
+"categorii de marcatori, aceste categorii pot fi atribuite locației pe "
+"pagina „Adăugați locații”."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Depanare Google Map API"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Dacă Google Maps nu funcționează. Asigurați-vă că ați verificat următoarele "
+"lucruri."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Asigurați-vă că ați atribuit locații hărții dvs."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Trebuie să aveți cheia API Google Maps."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. Verificați referințele HTTP. Trebuie să fie *yourwebsite.com/* sau *."
+"yourwebsite.com/*"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "bilet de suport"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Dacă aveți nevoie de asistență sau dacă observați în continuare vreo "
+"problemă, nu ezitați să creați un %s și vom fi bucuroși să vă ajutăm cât "
+"mai curând posibil."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Maps Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Dacă căutați și mai multe funcții, vă rugăm să aruncați o privire asupra "
+"versiunii pro: %s. Este numărul 1 de vânzări (13.000+ clienți mulțumiți), "
+"cel mai iubit și de încredere plugin avansat Google Maps pentru wordpress. "
+"Îi adăugăm în mod continuu mai multe funcții pe baza sugestiilor "
+"clienților / utilizatori stimați ca tine. Cu versiunea pro, puteți "
+"configura hărți Google cu funcții foarte avansate în doar câteva secunde. "
+"De asemenea, atât pluginurile noastre gratuite, cât și cele pro versiuni "
+"pot fi personalizate pentru a îndeplini cerințele specifice."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "Gestionați permisiunile"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Vă rugăm să introduceți titlul rutei."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Adăugați o rută"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Gestionați rutele"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Setări plugin"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "Setările au fost salvate cu succes."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Setări generale de plugin"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"Primul pas pentru a începe cu Google Maps este să creați cheia API "
+"potrivită pentru site-ul dvs. În timp ce creați cheile API Google Maps din "
+"Google Cloud Platform, în secțiunea de restricții cheie, trebuie să alegeți "
+"referitor HTTP și apoi va trebui să introduceți referitor HTTP în funcție "
+"de numele domeniului site-ului dvs."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Va trebui să introduceți oricare dintre referințele HTTP de mai jos în "
+"timpul procesului de creare a cheii:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "Copiați referitorul HTTP în Clipboard"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Funcționează pentru majoritatea site-urilor web)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Încercați acest lucru dacă mai sus nu funcționează)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Vezi tutorialul"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Vizualizați instrucțiunile"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Cheia API Google Maps"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Introduceți cheia API Google Maps creată aici. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "Generați cheia API"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "Testați cheia API"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "ghiduri."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Dacă harta nu este vizibilă, verificați eroarea în consola javascript și "
+"remediați folosind %1$s"
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "ENGLEZĂ"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "ARABIC"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASCUL"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "BULGARĂ"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALA"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "CATALAN"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "CEH"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "DANEZ"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "LIMBA GERMANA"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "greacă"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "ENGLEZĂ (AUSTRALIANĂ)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "ENGLEZĂ (MARE BRITANIE)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "SPANIOLĂ"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "FĂ-O"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "FINLANDEZĂ"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "FILIPINO"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "LIMBA FRANCEZA"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "GALICE"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "NU"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "CROAT"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "UNGURĂ"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "INDONEZIAN"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "ITALIANĂ"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "EBRAU"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "JAPONEZ"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "KANNADA"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "COREEANĂ"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "LITUANIAN"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "LETONĂ"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "MALAYALAM"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATHI"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "Olandeză"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "NORVEGIAN"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "LUSTRUI"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "PORTUGHEZĂ"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTUGEZĂ (BRAZILA)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTUGHEZĂ (PORTUGALIA)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "ROMÂNĂ"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "RUSĂ"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "SLOVACA"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "SLOVENĂ"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "SÂRB"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "SUEDEZ"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALOG"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "TAMIL"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "TELUGU"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "THAI"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "TURC"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "UCRAINEAN"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "VIETNAMEZ"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "CHINEZĂ SIMPLIFICATĂ)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "TRADIȚIONAL CHINEZESC)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Limba hărții"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Alegeți limba pentru Google Map. Limba implicită este engleza."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Includeți scripturi în"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "Antet"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Subsol (recomandat)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Setări Meta Box"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Creați câmpuri suplimentare"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Depanare"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Remediere automată"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Dacă harta nu este vizibilă cumva, activați remedierea automată și "
+"verificați harta."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Activați modul de depanare"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Dacă harta nu este vizibilă cumva, chiar dacă este activată remedierea "
+"automată, activați modul de depanare și contactați echipa de asistență "
+"pentru a analiza rezultatul consolei javascript."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Acceptarea cookie-urilor"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Activați acceptarea cookie-urilor"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Hărțile vor rămâne ascunse până când vizitatorul acceptă politica privind "
+"cookie-urile. Această funcție este destinată dezvoltatorilor care doresc să "
+"monitorizeze accesul la cookie-uri și să limiteze accesul la hărți."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "Notă „Fără hartă”."
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Afișați mesajul în loc de hartă până când vizitatorul acceptă politica "
+"privind cookie-urile. Etichetele HTML sunt permise. Lăsați necompletat "
+"pentru niciun mesaj."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Vă rugăm să acceptați cookie-urile pentru a afișa Google Maps."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Afișează substituent"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Până când acceptați cookie-urile, afișați o imagine de hartă împreună cu un "
+"mesaj de consimțământ în locul Google Maps"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Salvează setările"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Filtrați locații"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Instrumente pentru pluginuri"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "Setări"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Versiunea Pro"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Toate"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Afișați locații"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Filtrează după"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Nu funcționează..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "selecteaza categoria"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Du-te pro"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Ascunde"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Chiar doriți să ștergeți această locație?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Chiar doriți să ștergeți această hartă?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Chiar doriți să ștergeți această categorie?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Chiar doriți să ștergeți acest traseu?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Chiar doriți să ștergeți această înregistrare?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr ""
+"Selectați mai întâi unele înregistrări pentru a aplica acțiuni în bloc "
+"asupra lor."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Sigur doriți să ștergeți înregistrările selectate?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Suprascrieți baza de date Google Maps existentă?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "Referitorul a fost copiat"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Sigur ștergeți elementul?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Alegeți Pictograme"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Alege pictograma"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Căutare pictograme"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Vă rugăm să alegeți pictograma marcator pentru categorie."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Inserați în Post"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "Pro"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Faceți upgrade fără probleme la versiunea %s și deblocați listarea, rutele, "
+"indicațiile de orientare, filtrarea, desenul și multe alte funcții."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Imbunatateste acum"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "PRO"

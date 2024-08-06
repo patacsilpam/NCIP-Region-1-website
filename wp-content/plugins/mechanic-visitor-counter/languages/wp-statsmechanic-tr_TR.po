@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Mechanic Visitor Counter\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-12-24 14:34+0800\n"
+"PO-Revision-Date: 2016-12-24 14:34+0800\n"
+"Last-Translator: Aditya Subawa <me@adityasubawa.com>\n"
+"Language-Team: Attman <yunusbzk@gmail.com>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: wp-statsmechanic.php\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: wp-statsmechanic.php:87
+msgid "Title:"
+msgstr "Başlık:"
+
+#: wp-statsmechanic.php:88
+msgid "Font Color:"
+msgstr "Font Rengi:"
+
+#: wp-statsmechanic.php:89
+msgid ""
+"To change the font color, fill the field with the HTML color code. example: "
+"#333"
+msgstr ""
+"Font rengini değiştirmek için HTML renkkodlarıkullanmalısınız. Örnek: #333"
+
+#: wp-statsmechanic.php:90
+msgid "Click here</a> to select another color variation."
+msgstr "Başka bir renk varyasyonu için Buraya Tıklayın </a>"
+
+#: wp-statsmechanic.php:91
+msgid "Widget Options"
+msgstr "Bileşen Seçenekleri"
+
+#: wp-statsmechanic.php:93
+msgid "Counter Start:"
+msgstr "Sayaç Başlangıcı:"
+
+#: wp-statsmechanic.php:94
+msgid ""
+"Fill in with numbers to start the initial calculation of the counter, if the "
+"empty counter will start from 1"
+msgstr ""
+"Sayacın kaçtan başlayacağını girebilirsiniz. Boş bırakırsanız  1 den "
+"başlayacaktır."
+
+#: wp-statsmechanic.php:95
+msgid "Hits Start:"
+msgstr "Hits Start:"
+
+#: wp-statsmechanic.php:96
+msgid ""
+"Fill in the numbers to start the initial calculation of the hits, if the "
+"empty hits will start from 1"
+msgstr ""
+"Sayacın kaçtan başlayacağını girebilirsiniz. Boş bırakırsanız  1 den "
+"başlayacaktır."
+
+#: wp-statsmechanic.php:98
+msgid "Image Counter Length:"
+msgstr "Image Counter Length:"
+
+#: wp-statsmechanic.php:105
+msgid "Define your Image counter length, the default length is 4"
+msgstr "Define your Image counter length, the default length is 4"
+
+#: wp-statsmechanic.php:107
+msgid "Enable Visit Today display? "
+msgstr "Bugünkü Ziyaretler Gösterilsin mi? "
+
+#: wp-statsmechanic.php:108
+msgid "Enable Visit Yesterday display? "
+msgstr "Dünkü  Ziyaretler Gösterilsin mi?"
+
+#: wp-statsmechanic.php:109
+msgid "Enable Month display? "
+msgstr "Aylık  Ziyaretler Gösterilsin mi?"
+
+#: wp-statsmechanic.php:110
+msgid "Enable Year display? "
+msgstr "Yıllık  Ziyaretler Gösterilsin mi?"
+
+#: wp-statsmechanic.php:111
+msgid "Enable Total Visit display? "
+msgstr " Toplam Ziyaretler Gösterilsin mi?"
+
+#: wp-statsmechanic.php:112
+msgid "Enable Hits Today display? "
+msgstr "Bugünkü Hit Sayısı Gösterilsin mi?"
+
+#: wp-statsmechanic.php:113
+msgid "Enable Total Hits display? "
+msgstr "Hit Sayısı Gösterilsin mi?"
+
+#: wp-statsmechanic.php:114
+msgid "Enable Whos Online display? "
+msgstr "Online kullanıcı sayısı gösterilsinmi?"
+
+#: wp-statsmechanic.php:115
+msgid "Enable IP address display? "
+msgstr "IP adresi gösterilsin mi? "
+
+#: wp-statsmechanic.php:116
+msgid "Enable Server Time display? "
+msgstr "Sunucu saati gösterilsinmi?"
+
+#: wp-statsmechanic.php:117
+msgid "Plugins align? "
+msgstr "Eklenti Hizalama? "
+
+#: wp-statsmechanic.php:124
+msgid "Display plugin credit? "
+msgstr ""
+
+#: wp-statsmechanic.php:124
+msgid ""
+"Please go to <a href=\"options-general.php?page=plugin_statsmechanic_menu"
+"\">Settings -> Visitor Counter Options</a> to configure image counter"
+msgstr ""
+"Sayaç görsellerini düzenlemek için <a href=\"options-general.php?"
+"page=plugin_statsmechanic_menu\">Ayarlar -> Visitor Counter Seçenekleri</a> "
+"yolunu izleyin"
+
+#: wp-statsmechanic.php:125
+msgid "Donate"
+msgstr "Bağış"
+
+#: wp-statsmechanic.php:243
+msgid "Visit Today :"
+msgstr "Bugünkü Ziyaretler :"
+
+#: wp-statsmechanic.php:246
+msgid "Visit Yesterday :"
+msgstr "Dünkü Ziyaretler :"
+
+#: wp-statsmechanic.php:249
+msgid "This Month :"
+msgstr "Bu Ay:"
+
+#: wp-statsmechanic.php:252
+msgid "This Year :"
+msgstr "Bu Sene :"
+
+#: wp-statsmechanic.php:255
+msgid "Total Visit :"
+msgstr "Toplam  :"
+
+#: wp-statsmechanic.php:258
+msgid "Hits Today :"
+msgstr "Bugünkü Hitler :"
+
+#: wp-statsmechanic.php:261
+msgid "Total Hits :"
+msgstr "Toplam Hit :"
+
+#: wp-statsmechanic.php:269
+msgid "Who's Online :"
+msgstr "Çevrimiçi Kişiler:"
+
+#: wp-statsmechanic.php:274
+msgid "Your IP Address:"
+msgstr "IP Addresiniz:"
+
+#: wp-statsmechanic.php:277
+msgid "Server Time:"
+msgstr "Sunucu Zamanı:"
+
+#: wp-statsmechanic.php:298
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Bu sayfaya erişmekiçin gerekliizinleriniz yok."
+
+#: wp-statsmechanic.php:396
+msgid "Save Changes"
+msgstr "Değişiklikleri Kaydet"
+
+#: wp-statsmechanic.php:480
+msgid ""
+"Your PHP version must be above V5.4. Mechanic visitor counter plugin no "
+"longer support php legacy versions (v5.2.X, v5.3.X). Your current PHP "
+"version is <b>"
+msgstr "PHP sürümünüz  V5.4.  ve yukarısı olmalı. PHP Sürümünüz:<b>"
+
+#. Plugin Name of the plugin/theme
+msgid "Mechanic Visitor Counter"
+msgstr "Mechanic Ziyaretçi Sayacı"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.balimechanicmedia.co.id/product/mechanic-visitor-counter/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Mechanic Visitor Counter is a widgets which will display the Visitor counter "
+"and traffic statistics on WordPress."
+msgstr ""
+"Mechanic Ziyaretçi sayacı sitenizin ziyarerçi sayılarını ve trafik "
+"bilgilerini görğntüler."
+
+#. Author of the plugin/theme
+msgid "Aditya Subawa"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.adityasubawa.com"
+msgstr ""

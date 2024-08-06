@@ -1,0 +1,132 @@
+.wpgmp-modal {
+    position: fixed;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    z-index: 100000;
+    display: none;
+    background: rgba(0, 0, 0, 0.6);
+}
+.wpgmp-modal.active {
+    display: block;
+}
+.wpgmp-modal.active:before {
+    display: block;
+}
+.wpgmp-modal .wpgmp-modal-dialog {
+    background: transparent;
+    position: absolute;
+    left: 50%;
+    margin-left: -298px;
+    padding-bottom: 30px;
+    top: -100%;
+    z-index: 100001;
+    width: 596px;
+}
+.wpgmp-modal.active .wpgmp-modal-dialog {
+    top: 10%;
+}
+.wpgmp-modal .wpgmp-modal-body,
+.wpgmp-modal .wpgmp-modal-footer {
+    border: 0;
+    background: #fff;
+    padding: 25px 25px 15px;
+}
+.wpgmp-modal .wpgmp-modal-body {
+    border-bottom: 0;
+}
+.wpgmp-modal .wpgmp-modal-body p {
+    font-size: 1.3em;
+}
+.wpgmp-modal .wpgmp-modal-body h2 {
+    font-size: 1.6em;
+    font-weight: bold;
+    margin-top: 0;
+}
+.wpgmp-modal .wpgmp-modal-footer {
+    border-top: #eeeeee solid 1px;
+    text-align: right;   
+}
+.wpgmp-modal .wpgmp-modal-footer .button {
+    margin: 0 7px;    
+}
+.wpgmp-modal .wpgmp-modal-footer .button:first-child {
+    margin: 0;
+}
+.wpgmp-modal .wpgmp-modal-panel>.notice.inline {
+    margin: 0;
+    display: none;
+}
+.wpgmp-modal .wpgmp-modal-panel:not(.active) {
+    display: none;
+}
+body.has-wpgmp-modal {
+    overflow: hidden;
+}
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-reason-input,
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-internal-message {
+    margin: 3px 0 3px 22px;
+}
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-reason-input input,
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-reason-input textarea,
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-internal-message input,
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-internal-message textarea {
+    width: 100%;
+}
+.wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason.has-internal-message .wpgmp-modal-internal-message {
+    border: 1px solid #ccc;
+    padding: 7px;
+    display: none;
+}
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-anonymous-label {
+    padding-top: 15px;
+}
+.wpgmp-modal.wpgmp-modal-deactivation-feedback .wpgmp-modal-panel {
+    margin-top: 0 !important;
+}
+
+@media (max-width: 650px) {
+    .wpgmp-modal .wpgmp-modal-dialog {
+        margin-left: -50%;
+        box-sizing: border-box;
+        padding-left: 10px;
+        padding-right: 10px;
+        width: 100%;
+    }
+    .wpgmp-modal .wpgmp-modal-dialog .wpgmp-modal-panel>h3>strong {
+        font-size: 1.3em;
+    }
+    .wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason li.wpgmp-modal-reason {
+        margin-bottom: 10px;
+    }
+    .wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason li.wpgmp-modal-reason .wpgmp-modal-reason-input,
+    .wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason li.wpgmp-modal-reason .wpgmp-modal-internal-message {
+        margin-left: 29px;
+    }
+    .wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason li.wpgmp-modal-reason label {
+        display: table;
+    }
+    .wpgmp-modal.wpgmp-modal-deactivation-feedback li.wpgmp-modal-reason li.wpgmp-modal-reason label>span {
+        display: table-cell;
+        font-size: 1.3em;
+    }
+}
+
+.fc-backend-loader{
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    background: rgba(255,255,255,0.7);
+    z-index: 50;
+    display: none;
+}
+.fc-backend-loader img{
+    position:absolute;
+    left:50%;
+    top:50%;
+    transform:translate(-50%,-50%);
+    max-width:70px;
+}

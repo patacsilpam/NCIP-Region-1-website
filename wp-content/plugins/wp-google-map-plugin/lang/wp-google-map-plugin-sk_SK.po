@@ -1,0 +1,1981 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:34+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "Widget na zobrazenie máp Google"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "názov:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Vyberte svoju mapu:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Vyberte mapu"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Prihláste sa na odber nášho zoznamu adresátov"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "Informácie o produkte"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"Pre každý z našich doplnkov sme vytvorili podrobné návody krok za krokom, "
+"ktoré vám pomôžu rýchlo začať."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "ZAČNI TERAZ"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Nainštalovaná verzia:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Najnovšia dostupná verzia:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Aktualizácia je dostupná"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Odoberaj teraz"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Dostávajte aktualizácie o našich nových funkciách produktov a nových "
+"produktoch bez námahy."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr "V žiadnom prípade nebudeme zdieľať vaše e-mailové adresy."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Podpora produktu"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"Pre každý náš produkt máme veľmi dobre vysvetleného sprievodcu, ktorý vám "
+"pomôže začať v priebehu niekoľkých minút."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Kliknite tu"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"Pre každý náš produkt sme zriadili demo stránky, kde si plugin môžete "
+"pozrieť v pracovnom režime. Pred nákupom si môžete pozrieť funkčné demo."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Vytvorte podporný lístok"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Ak máte akékoľvek otázky a potrebujete našu pomoc, kliknutím na tlačidlo "
+"nižšie vytvorte lístok na podporu a náš tím podpory vám čo najskôr pomôže."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Vytvoriť lístok"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Najmite experta na Wordpress"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Máte vlastnú požiadavku, ktorá v tomto doplnku chýba?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Tento plugin môžeme prispôsobiť vašim potrebám. Kliknutím na tlačidlo "
+"nižšie odošlete žiadosť o cenovú ponuku."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Vyžiadajte si cenovú ponuku"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "WP MAPY"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "Najpokročilejší doplnok google mapy na svete"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Príručka Začíname"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP MAPS PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr ""
+"Inovujte na profesionálnu verziu a okamžite odomknite prémiové funkcie."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr "Získajte našu vyhradenú podporu a doživotné budúce aktualizácie."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "Dôveruje viac ako 13 000 prémiových zákazníkov."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Inovovať"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Kresba mapy"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Doplnky zásuvných modulov"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr "Prémiové doplnky / rozšírenia pre WP Google Maps Pro"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Kontaktuj teraz"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Kúpte teraz"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Zobraziť ukážku"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "Pridať kategóriu značky"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Spravovať kategórie"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Niečo sa pokazilo. Prosím skúste znova."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "Kategória značiek bola úspešne aktualizovaná."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "Kategória značiek bola úspešne pridaná."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "Kategória značky"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "Správa kategórií značiek"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "rodičovská kategória"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"K novej kategórii značiek, ktorú vytvárate, môžete voliteľne priradiť "
+"rodičovskú kategóriu značiek. Ak chcete, priraďte nadradenú kategóriu."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "Názov kategórie značky"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "Tu zadajte názov / názov kategórie značky."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "Vyberte ikonu kategórie značky"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Vyberte si"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Odstrániť"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "Obrázok značky"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Aktualizované dňa"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "Kategórie značiek"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Odstrániť"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "Pridať kategóriu"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "Kategória značiek bola úspešne odstránená."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "Kategórie značiek boli úspešne odstránené."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Nenašli sa žiadne kategórie značiek."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Pridať polohu"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Spravovať miesta"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Zadajte platnú plávajúcu hodnotu zemepisnej šírky."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Zadajte platnú plávajúcu hodnotu zemepisnej dĺžky."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "Poloha bola úspešne aktualizovaná."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "Miesto bolo úspešne pridané."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "Informácie o polohe"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "vytvoriť kľúč API pre google mapy"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "tu"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"Chýba kľúč rozhrania Google Maps API. Postupujte podľa pokynov na %1$s a "
+"potom vložte kľúč %2$s."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Názov miesta"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Zadajte názov miesta"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Adresa miesta"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Začnite písať a vyberte adresu zo zoznamu automatických návrhov Google. "
+"Výber miesta automaticky zistí zemepisnú šírku a dĺžku."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Zadajte adresu miesta"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Zemepisná šírka a dĺžka"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Zemepisná šírka"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Zemepisná dĺžka"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Mesto a štát"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Mesto"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "Štát"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "Krajina a PSČ"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "Krajina"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "poštové smerovacie číslo"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Súčasná poloha"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "Po kliknutí"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Zobraziť informačné okno"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Presmerovať"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Správa informačného okna"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Tu zadajte správu infoWindow."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "Adresa URL presmerovania"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr "Tu zadajte adresu URL presmerovania. napr. http://www.flippercode.com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "ÁNO"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "NIE"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Otvoriť novú kartu"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Otvorte kartu nového okna."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Obrázok miesta"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Infowindow Predvolené Otvoriť"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr "Začiarknutím povolíte predvolené otváranie informačného okna."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "Marker pretiahnuteľný"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr "Začiarknite, či chcete návštevníkom povoliť ťahanie značky."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "Animácia značky"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Odskočiť"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "POKLES"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Hodnoty extra polí"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Nemáte žiadne kategórie."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Uložiť polohu"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "Krok 1 – Nahrajte súbor CSV"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Krok 2 - Mapovanie stĺpcov"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Vyberte súbor"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Vyberte súbor"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Nahrajte platný súbor CSV. Vzorový dátový súbor csv nájdete v adresári "
+"pluginu."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "ďalej"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Vyberte položku Pole"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Názov"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Adresa"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "Správa"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Umiestnenie Kliknite"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "Adresa URL presmerovania umiestnenia"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Kategória"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Extra Field"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "ID"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"záznamy sú pripravené na odovzdanie. Namapujte stĺpce csv nižšie a kliknite "
+"na tlačidlo Importovať."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Importovať miesta"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "Zrušiť"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Poloha"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "Miesto bolo úspešne odstránené."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Miesta boli úspešne odstránené."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Nenašli sa žiadne miesta."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Pridať mapu"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Spravovať Mapy"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Zadajte celočíselnou hodnotu pre výšku POV."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Zadajte celočíselnou hodnotu pre nadpis POV."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr "Zadajte celočíselné hodnoty pre nadpis POV aj výšku POV."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "Mapa bola úspešne aktualizovaná."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"Mapa bola úspešne vytvorená. Na zobrazenie mapy kdekoľvek môžete použiť "
+"krátky kód [put_wpgm id=%d]."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "Kopírovať"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Informácie o mape"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Uložiť mapu"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Názov mapy"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Šírka mapy"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Výška mapy"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Úroveň priblíženia mapy"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Typ mapy"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Skrátený kód mapy"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Mapy boli úspešne odstránené."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Mapy boli úspešne odstránené."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "Mapa bola úspešne vytvorená."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Nenašli sa žiadne mapy."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "Ďalšie CSS"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Hore v ľavo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Hore vpravo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Vľavo hore"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Vpravo hore"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Stred hore"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Ľavý stred"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Pravý stred"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Vpravo dole"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Vľavo dole"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Pravé dno"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Stred dole"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Dole vľavo"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Nastavenia riadiacich pozícií"
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Ovládanie zoomu"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Vyberte polohu ovládača zoomu."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Štýl ovládania zoomu"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Vyberte štýl ovládania zoomu."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Kontrola typu mapy"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Vyberte polohu ovládacieho prvku typu mapy."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Štýl ovládania typu mapy"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Vyberte štýl ovládania typu mapy."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Ovládanie na celú obrazovku"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Vyberte polohu ovládania na celú obrazovku."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Ovládanie Street View"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Vyberte polohu ovládacieho prvku zobrazenia ulíc."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Ovládanie vyhľadávania"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Vyberte polohu ovládacieho prvku vyhľadávacieho poľa."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Nastavenia ovládania mapy"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Vypnite ovládanie priblíženia"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Začiarknutím tohto políčka vypnete ovládanie priblíženia."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Vypnite ovládanie na celú obrazovku"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Začiarknutím tejto možnosti vypnete ovládanie na celú obrazovku."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Vypnite ovládanie typu mapy"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Začiarknutím tohto políčka vypnete ovládanie typu mapy."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Vypnite ovládanie Street View"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr "Ak chcete vypnúť ovládanie zobrazenia ulíc, začiarknite toto políčko."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Zapnite ovládanie vyhľadávania"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr ""
+"Ak chcete povoliť ovládanie vyhľadávacieho poľa, začiarknite toto políčko."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Nastavenia vlastných ovládacích prvkov"
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Mapové filtre"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Zobraziť filtre"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Zobrazte filtre pod mapou"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Pred nadpisom Filtre"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Filtrovať miesta podľa kategórie"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr "Zobrazte textový/html obsah, ktorý sa zobrazí pred filtrami."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Miesta na mape"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Zobraziť filter kategórií"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Začiarknutím zobrazíte filter kategórií."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Tu zadajte názov/názov mapy."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Zadajte šírku mapy v pixeloch. Ak potrebujete mapu so 100% šírkou, nechajte "
+"toto pole prázdne."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Zadajte výšku mapy v pixeloch. Pre napr. 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr "Zadajte úroveň priblíženia mapy. Predvolená hodnota priblíženia je 5."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Vypnite rolovacie koliesko"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr ""
+"Začiarknutím tohto políčka vypnete priblíženie pomocou rolovacieho kolieska."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Pretiahnuteľná mapa"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr "Začiarknutím tejto možnosti zakážete presúvanie mapy."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "45° snímky"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr "Použiť 45° snímky? (dostupné len pre typ mapy SATELITNÁ a HYBRIDNÁ)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Zobraziť príspevky pomocou vlastných polí"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "Zobraziť príspevky pomocou doplnku ACF"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Vybavenie Máp Google"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Nastavenia importu"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Nastavenia informačného okna"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"Zadajte zástupné symboly {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Kliknutie myšou"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Umiestnite kurzor myši"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Zobraziť informačné okno zapnuté"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr ""
+"Otvoriť informačné okno pri kliknutí myšou alebo umiestnení kurzora myši."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "Vyberte možnosť Obrázok značky"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "InfoWindow Open"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr ""
+"Začiarknutím tohto políčka povolíte predvolené otváranie informačného okna."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "Zatvorte InfoWindow"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr "Kliknutím na mapu zatvorte informačné okno."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Vyberte položku Animácia"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Animácia odrazu"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Použiť animáciu odrazu pri umiestnení myšou alebo kliknutí myšou. BOUNCE "
+"znamená, že značka by sa mala odraziť na mieste."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Použiť animáciu poklesu"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr "DROP znamená, že značka by mala klesnúť z hornej časti mapy."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Správa informačného okna pre miesta"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Správa informačného okna pre príspevky"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Nastavenia prispôsobenia informačného okna"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Nastavenia vrstiev mapy"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Dopravná vrstva"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Ak chcete povoliť vrstvu premávky na mape, začiarknite políčko."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Tranzitná vrstva"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Začiarknutím tejto možnosti povolíte na mape vrstvu verejnej dopravy."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Cyklistická vrstva"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Začiarknutím políčka povolíte cyklistickú vrstvu na mape."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Obmedziť nastavenia posúvania"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Vlastné filtre"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Pokročilá funkcia filtra"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Nastavenia zoznamu"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Skin položky zoznamu"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Nastavenia filtra mapy"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Nastavenia Geo Json"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Vyberte Umiestnenia"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Vybrať všetko"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Odznačiť všetko"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Centrum mapy"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Stredová zemepisná šírka"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Zadajte stredovú zemepisnú šírku mapy."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Stredová dĺžka"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Zadajte stredovú zemepisnú dĺžku mapy."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Vycentrovať podľa priradených miest"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Vycentrujte mapu na základe miest priradených k mape, aby sa zobrazili "
+"všetky miesta naraz."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr "(Najviac odporúčaný spôsob centrovania mapy podľa priradených miest.)"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Nastavenia štýlu mapy"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Elegantné mapy"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Získajte bezplatný štýl pre svoje mapy Google od %s Môžete odtiaľ "
+"skopírovať pole štýlu javascript a prilepiť ho sem."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Tu prilepte štýl"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr "Skopírujte pole štýlu javascript mapy Google z %s a vložte sem."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Nastavenia motívu mapy"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "Nastavenia klastra značiek"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "Použiť Marker Cluster"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Ak chcete použiť klaster značiek, začiarknite políčko."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Veľkosť mriežky"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Maximálna úroveň priblíženia"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Dostupné možnosti 1 až 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "Úroveň priblíženia značky"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"Nastavte úroveň priblíženia pri kliknutí na značku alebo umiestnenie. "
+"Dostupné možnosti 1 až 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Použiť štýl(y)"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "Použiť štýly na klastre značiek?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Farba klastra"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Farba klastra pri prejdení myšou"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Nastavenia špecifické pre obrazovku"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Nastavenia prekrytia"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Nastavenia smeru trasy"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Nastavenia Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Zapnite zobrazenie ulíc"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Ak chcete povoliť zobrazenie ulíc, začiarknite toto políčko"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Zapnite tlačidlo Zavrieť"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Začiarknutím zapnete tlačidlo zatvorenia."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Vypnúť ovládanie odkazov"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Začiarknutím tejto možnosti zakážete kontrolu odkazov."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Vypnite ovládanie posúvania Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr ""
+"Začiarknutím tohto políčka vypnete ovládanie posúvania zobrazenia ulíc."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "POV nadpis"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr "Zadajte číselnú hodnotu celého čísla pre nadpis POV."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "POV Pitch"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Zadajte číselnú hodnotu celého čísla pre POV Pitch."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Nastavenia kariet"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "Nastavenia filtrov adries URL"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Ako použiť"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "Ako vytvoriť svoju prvú mapu?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Google Map API kľúč"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"Najprv vytvorte %s. Potom prejdite na stránku %s a vložte svoj kľúč API pre "
+"mapy Google a uložte."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "Vytvorte miesto pomocou stránky %s."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"Prejdite na stránku %s, priraďte miesta k mape a nastavte ďalšie "
+"podrobnosti podľa svojich požiadaviek. Uložte mapu."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Ako zobraziť mapu vo frontende?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Spravovať mapu"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"Prejdite na %s a skopírujte skrátený kód a potom ho vložte na ľubovoľnú "
+"stránku/príspevok, kde chcete zobraziť mapu."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Ako vytvoriť kategóriu značiek?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"Vytváranie kategórií značiek a ich priraďovanie k miestam pomáha zoskupovať "
+"značky na mape podľa obrázka ikony. Značky s rovnakou kategóriou značky "
+"budú zobrazovať rovnakú ikonu značky. Prejdite na %s, zadajte názov "
+"kategórie značky a priraďte ikonu značky. Po vytvorení niektorých kategórií "
+"značiek je možné tieto kategórie priradiť k umiestneniu na stránke „Pridať "
+"miesta“."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Riešenie problémov s rozhraním Google Map API"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Ak vaše google mapy nefungujú. Uistite sa, že ste skontrolovali nasledujúce "
+"veci."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Uistite sa, že ste k svojej mape priradili miesta."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Musíte mať kľúč API pre google mapy."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. Skontrolujte sprostredkovateľov HTTP. Musí to byť *yourwebsite.com/* "
+"alebo *.yourwebsite.com/*"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "podporný lístok"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Ak potrebujete pomoc alebo ak stále vidíte nejaký problém, pokojne si "
+"vytvorte %s a radi vám čo najskôr pomôžeme."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Maps Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Ak hľadáte ešte viac funkcií, pozrite sa na profesionálnu verziu: %s. Je to "
+"číslo 1 v predaji (viac ako 13 000 spokojných zákazníkov), najobľúbenejší a "
+"najdôveryhodnejší pokročilý doplnok google mapy pre wordpress. Neustále doň "
+"pridávame ďalšie funkcie na základe návrhov vážených zákazníkov/"
+"používateľov, ako ste vy. S verziou Pro si môžete nastaviť google mapy s "
+"veľmi pokročilými funkciami v priebehu niekoľkých sekúnd. Naše bezplatné aj "
+"profesionálne doplnky môžu byť tiež prispôsobené na dosiahnutie "
+"špecifických požiadaviek."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "Spravovať povolenia"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Zadajte názov trasy."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Pridať trasu"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Spravovať trasy"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Nastavenia doplnku"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "Nastavenia boli úspešne uložené."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Všeobecné nastavenia doplnku"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"Prvým krokom, ako začať s Mapami Google, je vytvorenie správneho kľúča API "
+"pre váš web. Pri vytváraní kľúčov Google Maps API z platformy Google Cloud "
+"Platform musíte v časti obmedzenia kľúčov vybrať sprostredkovateľa HTTP a "
+"potom budete musieť zadať sprostredkovateľa HTTP podľa názvu domény vášho "
+"webu."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Počas procesu vytvárania kľúča budete musieť zadať ktorýkoľvek z nižšie "
+"uvedených sprostredkovateľov HTTP:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "Kopírovať sprostredkovateľa HTTP do schránky"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Funguje pre väčšinu webových stránok)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Vyskúšajte to, ak vyššie uvedené nefunguje)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Zobraziť príručku"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Zobraziť pokyny"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Kľúč API pre Mapy Google"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Sem zadajte vytvorený kľúč rozhrania Google Maps API. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "Generovať API kľúč"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "Testovací kľúč API"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "sprievodcov."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Ak sa mapa nezobrazuje, skontrolujte, či sa v konzole javascriptu chyba "
+"nevyskytla a opravte ju pomocou nášho %1$s"
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "ANGLIČTINA"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "ARABSKÝ"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASKICKÝ"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "BULHARSKÝ"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALSKÝ"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "KATALÁNSKY"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "ČEŠTINA"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "DÁNSKY"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "NEMČINA"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "GRÉCKY"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "ANGLIČTINA (AUSTRÁLNA)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "ANGLIČTINA (VEĽKÁ BRITÁNIA)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "ŠPANIELSKY"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "UROB TO"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "FÍNSKY"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "FILIPINO"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "FRANCÚZSKY"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "GALICIAN"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "NIE"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "CHORVÁTSKY"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "MAĎARSKÝ"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "INDONÉZSKÝ"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "TALIANČINA"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "HEBREW"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "JAPONSKÝ"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "KANNADA"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "KOREAN"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "LITOVSKÝ"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "LOTYŠSKÝ"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "MALAYALAM"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATHI"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "HOLANDSKÝ"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "NÓRSKY"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "POĽSKÝ"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "PORTUGALSKÝ"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTUGALSKO (BRAZÍLIA)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTUGALSKO (PORTUGALSKO)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "RUMUNSKÝ"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "RUSKY"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "SLOVENČINA"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "SLOVENSKÝ"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "SRBSKÝ"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "ŠVÉDSKO"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALÓG"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "TAMIL"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "TELUGU"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "THAJSKÉ"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "TURECKÝ"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "UKRAJINSKÝ"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "VIETNAMSKÝ"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "ZJEDNODUŠENÁ ČÍNŠTINA)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "TRADIČNE ČÍNSKE)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Jazyk mapy"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Vyberte jazyk pre mapu Google. Predvolený jazyk je angličtina."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Zahrnúť skripty do"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "Hlavička"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Päta (odporúčané)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Nastavenia metaboxu"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Vytvoriť ďalšie polia"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Riešenie problémov"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Automatická oprava"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Ak sa mapa nejako nezobrazuje, zapnite automatické opravy a skontrolujte "
+"mapu."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Zapnite režim ladenia"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Ak mapa nie je viditeľná ani pri zapnutej automatickej oprave, zapnite "
+"režim ladenia a kontaktujte tím podpory, aby analyzoval výstup konzoly "
+"javascript."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Prijímanie súborov cookie"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Povoliť prijímanie súborov cookie"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Mapy zostanú skryté, kým návštevník neprijme pravidlá používania súborov "
+"cookie. Táto funkcia je určená pre vývojárov, ktorí chcú sledovať prístup k "
+"súborom cookie a obmedziť prístup k mapám."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "Upozornenie „Žiadna mapa“."
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Zobrazovať správu namiesto mapy, kým návštevník neprijme pravidlá "
+"používania súborov cookie. HTML tagy sú povolené. Ak nechcete, aby bola "
+"správa žiadna, nechajte pole prázdne."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Ak chcete zobraziť mapy Google, prijmite súbory cookie."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Zobraziť zástupný symbol"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Kým neprijmete súbory cookie, zobrazujte namiesto Máp Google obrázok mapy "
+"spolu so správou o súhlase"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Uložiť nastavenia"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Filtrovať miesta"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Plugin Tools"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "nastavenie"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Verzia Pro"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Všetky"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Zobraziť miesta"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Triediť podľa"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Nefunguje..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "vybrať kategóriu"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Choďte Pro"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Skryť"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Naozaj chcete odstrániť toto miesto?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Naozaj chcete odstrániť túto mapu?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Naozaj chcete odstrániť túto kategóriu?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Naozaj chcete odstrániť túto trasu?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Naozaj chcete odstrániť tento záznam?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr ""
+"Najprv vyberte nejaké záznamy, aby ste na ne mohli použiť hromadnú akciu."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Naozaj chcete odstrániť vybraté záznamy?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Prepísať existujúcu databázu máp Google?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "Sprostredkovateľ bol skopírovaný"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Naozaj chcete odstrániť položku?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Vyberte Ikony"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Vyberte ikonu"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Ikony vyhľadávania"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Vyberte ikonu značky pre kategóriu."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Vložiť do príspevku"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "Pro"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Inovujte bez problémov na verziu %s a odomknite zoznam, trasy, trasy, "
+"filtráciu, kreslenie a mnoho ďalších funkcií."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Vylepšiť teraz"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "PRO"

@@ -1,0 +1,1987 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:37+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: vi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "Một widget để hiển thị bản đồ google"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "Tiêu đề:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Chọn bản đồ của bạn:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Chọn bản đồ"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Theo dõi danh sách gửi thư của chúng tôi"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "Thông tin sản phẩm"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"Đối với mỗi plugin, chúng tôi đã tạo các hướng dẫn chi tiết từng bước để "
+"giúp bạn bắt đầu nhanh chóng."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "BẮT ĐẦU BÂY GIỜ"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Phiên bản đã cài đặt:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Phiên bản mới nhất có sẵn:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Cập nhật có sẵn"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Theo dõi ngay"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Nhận thông tin cập nhật về các tính năng sản phẩm mới và sản phẩm mới của "
+"chúng tôi một cách dễ dàng."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr ""
+"Chúng tôi sẽ không chia sẻ địa chỉ email của bạn trong mọi trường hợp."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Hỗ trợ sản phẩm"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"Đối với mỗi sản phẩm, chúng tôi có hướng dẫn bắt đầu được giải thích rất rõ "
+"ràng để giúp bạn bắt đầu chỉ trong vài phút."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Bấm vào đây"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"Đối với mỗi sản phẩm của chúng tôi, chúng tôi đã thiết lập các trang demo "
+"nơi bạn có thể thấy plugin ở chế độ hoạt động. Bạn có thể xem bản demo hoạt "
+"động trước khi mua hàng."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Tạo vé hỗ trợ"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Nếu bạn có bất kỳ câu hỏi nào và cần sự trợ giúp của chúng tôi, hãy nhấp "
+"vào nút bên dưới để tạo một phiếu hỗ trợ và nhóm hỗ trợ của chúng tôi sẽ hỗ "
+"trợ bạn trong thời gian sớm nhất."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Tạo vé"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Thuê chuyên gia WordPress"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Bạn có yêu cầu tùy chỉnh nào bị thiếu trong plugin này không?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Chúng tôi có thể tùy chỉnh plugin này theo nhu cầu của bạn. Bấm vào nút bên "
+"dưới để gửi yêu cầu báo giá."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Yêu cầu báo giá"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "BẢN ĐỒ WP"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "Plugin Google Map tiên tiến nhất thế giới"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Bắt đầu khóa hướng dẫn"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP MAPS PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr ""
+"Nâng cấp lên phiên bản chuyên nghiệp và mở khóa các tính năng cao cấp ngay "
+"lập tức."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr ""
+"Nhận được sự hỗ trợ tận tâm và cập nhật trong tương lai trọn đời của chúng "
+"tôi."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "Được tin cậy bởi hơn 13000 khách hàng cao cấp."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Nâng cấp"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Vẽ bản đồ"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Tiện ích bổ sung của plugin"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr ""
+"Tiện ích bổ sung / tiện ích mở rộng cao cấp dành cho WP Google Maps Pro"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Liên hệ ngay"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Mua ngay"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Xem bản demo"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "Thêm danh mục điểm đánh dấu"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Quản lý Danh mục"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Đã xảy ra lỗi. Vui lòng thử lại."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "Danh mục điểm đánh dấu đã được cập nhật thành công."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "Danh mục điểm đánh dấu đã được thêm thành công."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "Danh mục điểm đánh dấu"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "Quản lý danh mục điểm đánh dấu"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "Gia phả"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"Bạn có thể tùy ý gán danh mục điểm đánh dấu gốc cho danh mục điểm đánh dấu "
+"mới mà bạn đang tạo. Chỉ định danh mục cha mẹ nếu bạn muốn."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "Tiêu đề danh mục điểm đánh dấu"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "Nhập tên/tiêu đề danh mục điểm đánh dấu tại đây."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "Chọn biểu tượng danh mục điểm đánh dấu"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Chọn"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Di dời"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "Hình ảnh điểm đánh dấu"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Đã cập nhật vào"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "Danh mục điểm đánh dấu"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Xóa bỏ"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "thêm thể loại"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "Danh mục điểm đánh dấu đã được xóa thành công."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "Danh mục điểm đánh dấu đã được xóa thành công."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Không có danh mục điểm đánh dấu nào được tìm thấy."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Thêm vị trí"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Quản lý vị trí"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Vui lòng nhập giá trị nổi hợp lệ cho vĩ độ."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Vui lòng nhập giá trị thực hợp lệ cho kinh độ."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "Vị trí đã được cập nhật thành công."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "Vị trí đã được thêm thành công."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "thông tin địa điểm"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "tạo khóa api google maps"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "đây"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"Khóa API của Google Maps bị thiếu. Làm theo hướng dẫn đến %1$s rồi chèn "
+"khóa %2$s của bạn."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Tiêu đề vị trí"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Nhập tiêu đề vị trí"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Địa chỉ vị trí"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Bắt đầu nhập và chọn địa chỉ từ danh sách đề xuất tự động của Google. Việc "
+"chọn địa điểm sẽ tự động phát hiện vĩ độ và kinh độ."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Nhập địa chỉ Địa chỉ"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Vĩ độ và kinh độ"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Vĩ độ"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Kinh độ"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Thành phố và Tiểu bang"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Thành phố"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "Tình trạng"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "Mã quốc gia và mã bưu điện"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "Quốc gia"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "Mã bưu điện"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Vị trí hiện tại"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "Trong một cái nhấp chuột"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Hiển thị cửa sổ thông tin"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Tin nhắn cửa sổ thông tin"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Nhập vào đây thông báo infoWindow."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "Chuyển hướng URL"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr "Nhập vào đây url chuyển hướng. ví dụ: http://www.flippercode.com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "ĐÚNG"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "KHÔNG"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Mở tab mới"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Mở một tab cửa sổ mới."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Hình ảnh vị trí"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Infowindow Mặc định mở"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr "Chọn để bật mặc định mở infowindow."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "Điểm đánh dấu có thể kéo được"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr ""
+"Kiểm tra xem bạn có muốn cho phép khách truy cập kéo điểm đánh dấu hay "
+"không."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "Hoạt ảnh đánh dấu"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Nảy"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "LÀM RƠI"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Giá trị trường bổ sung"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Bạn không có (các) danh mục."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Lưu vị trí"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "Bước 1 - Tải lên CSV"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Bước 2 - Ánh xạ cột"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Chọn tập tin"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Chọn một tập tin"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Vui lòng tải lên tệp CSV hợp lệ. Bạn có thể tìm thấy tệp csv dữ liệu mẫu "
+"trong thư mục plugin."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "Tiếp tục"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Chọn trường"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "Tin nhắn"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Nhấp chuột vào vị trí"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "URL chuyển hướng vị trí"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Loại"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Trường bổ sung"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "NHẬN DẠNG"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"hồ sơ đã sẵn sàng để tải lên. Vui lòng ánh xạ các cột csv bên dưới và nhấp "
+"vào nút Nhập."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Địa điểm nhập khẩu"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "Hủy bỏ"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Vị trí"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "Đã xóa vị trí thành công."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Vị trí đã được xóa thành công."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Không có địa điểm nào được tìm thấy."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Thêm bản đồ"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Quản lý bản đồ"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Vui lòng nhập giá trị số nguyên cho độ cao POV."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Vui lòng nhập giá trị số nguyên cho tiêu đề POV."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr "Vui lòng nhập các giá trị số nguyên cho cả tiêu đề POV và cao độ Pov."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "Bản đồ đã được cập nhật thành công."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"Bản đồ đã được tạo thành công. Bạn có thể sử dụng shortcode [put_wpgm id="
+"%d] để hiển thị bản đồ ở bất cứ đâu."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "Sao chép"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Thông tin bản đồ"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Lưu bản đồ"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Tiêu đề bản đồ"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Chiều rộng bản đồ"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Chiều cao bản đồ"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Mức thu phóng bản đồ"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Loại bản đồ"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Mã ngắn bản đồ"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Bản đồ đã được xóa thành công."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Bản đồ đã được xóa thành công."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "Bản đồ đã được tạo thành công."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Không có bản đồ nào được tìm thấy."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "CSS bổ sung"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Trên cùng bên trái"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Trên cùng bên phải"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Trên bên trái"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Trên cùng bên phải"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Trung tâm hàng đầu"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Trung tâm bên trái"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Trung tâm bên phải"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Góc phải ở phía dưới"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Phía dưới bên trái"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Ở dưới bên phải"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Trung tâm trên"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Dưới cùng bên trái"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Cài đặt (các) vị trí điều khiển"
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Kiểm soát thu phóng"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Vui lòng chọn vị trí điều khiển thu phóng."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Kiểu điều khiển thu phóng"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Vui lòng chọn kiểu điều khiển thu phóng."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Kiểm soát loại bản đồ"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Vui lòng chọn vị trí kiểm soát loại bản đồ."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Kiểu điều khiển loại bản đồ"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Vui lòng chọn kiểu kiểm soát loại bản đồ."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Kiểm soát toàn màn hình"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Vui lòng chọn vị trí điều khiển toàn màn hình."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Kiểm soát chế độ xem phố"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Vui lòng chọn vị trí điều khiển chế độ xem phố."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Kiểm soát tìm kiếm"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Vui lòng chọn vị trí điều khiển hộp tìm kiếm."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Cài đặt kiểm soát bản đồ"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Tắt điều khiển thu phóng"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Vui lòng kiểm tra để tắt điều khiển thu phóng."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Tắt điều khiển toàn màn hình"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Vui lòng kiểm tra để tắt điều khiển toàn màn hình."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Tắt kiểm soát loại bản đồ"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Vui lòng kiểm tra để tắt kiểm soát loại bản đồ."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Tắt Kiểm soát Chế độ xem Phố"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr "Vui lòng kiểm tra để tắt kiểm soát chế độ xem phố."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Bật Kiểm soát tìm kiếm"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr "Vui lòng chọn để bật điều khiển hộp tìm kiếm."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Cài đặt (các) điều khiển tùy chỉnh"
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Bộ lọc bản đồ"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Bộ lọc hiển thị"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Hiển thị các bộ lọc bên dưới bản đồ"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Trước tiêu đề bộ lọc"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Lọc vị trí theo danh mục"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr "Hiển thị nội dung văn bản/html sẽ được hiển thị trước các bộ lọc."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Bản đồ vị trí"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Hiển thị bộ lọc danh mục"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Chọn để hiển thị bộ lọc danh mục."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Nhập tên/tiêu đề bản đồ vào đây."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Nhập chiều rộng bản đồ theo pixel. Để trống trường này nếu bạn cần bản đồ "
+"có chiều rộng 100%."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Nhập chiều cao bản đồ theo pixel. Ví dụ: 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr "Chỉ định cấp độ sở thú của bản đồ. Giá trị thu phóng mặc định là 5."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Tắt bánh xe cuộn"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr "Vui lòng kiểm tra để tắt thu phóng bánh xe cuộn."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Bản đồ có thể kéo được"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr "Vui lòng kiểm tra để tắt tính năng kéo bản đồ."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "Hình ảnh 45°"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+"Áp dụng hình ảnh 45° ? (chỉ khả dụng cho loại bản đồ SATELLITE và HYBRID)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Hiển thị bài viết bằng trường tùy chỉnh"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "Hiển thị bài viết bằng Plugin ACF"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Tiện ích của Google Maps"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Cài đặt nhập"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Cài đặt cửa sổ thông tin"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"Nhập phần giữ chỗ {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Click chuột"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Di chuột"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Hiển thị Infowindow trên"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr "Mở cửa sổ thông tin khi Click chuột hoặc Di chuột."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "Chọn hình ảnh điểm đánh dấu"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "Cửa sổ thông tin mở"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr "Vui lòng kiểm tra để bật mặc định mở infowindow."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "Đóng cửa sổ thông tin"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr "Vui lòng kiểm tra để đóng cửa sổ thông tin khi nhấp vào bản đồ."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Chọn hoạt ảnh"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Hoạt ảnh thoát"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Áp dụng hoạt ảnh thoát khi di chuột hoặc nhấp chuột. BOUNCE chỉ ra rằng "
+"điểm đánh dấu sẽ nảy tại chỗ."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Áp dụng hoạt ảnh thả"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr "DROP cho biết điểm đánh dấu sẽ thả từ trên cùng của bản đồ."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Tin nhắn Infowindow cho vị trí"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Tin nhắn Infowindow cho bài viết"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Cài đặt tùy chỉnh Infowindow"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Cài đặt lớp bản đồ"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Lớp lưu lượng truy cập"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Vui lòng kiểm tra để bật lớp giao thông trên bản đồ."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Lớp chuyển tiếp"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Vui lòng kiểm tra để bật lớp chuyển tuyến trên bản đồ."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Lớp đi xe đạp"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Vui lòng kiểm tra để bật lớp đi xe đạp trên bản đồ."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Giới hạn cài đặt xoay"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Bộ lọc tùy chỉnh"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Chức năng lọc nâng cao"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Cài đặt danh sách"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Da mục niêm yết"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Cài đặt bộ lọc bản đồ"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Cài đặt Geo Json"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Chọn địa điểm"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Chọn tất cả"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Bỏ chọn tất cả"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Trung tâm bản đồ"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Vĩ độ trung tâm"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Nhập vĩ độ trung tâm cho bản đồ."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Kinh độ trung tâm"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Nhập kinh độ trung tâm cho bản đồ."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Trung tâm theo địa điểm được chỉ định"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Căn giữa bản đồ dựa trên các vị trí được chỉ định trên bản đồ để hiển thị "
+"tất cả các vị trí cùng một lúc."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr ""
+"(Cách được khuyên dùng nhất để căn giữa bản đồ theo vị trí được chỉ định.)"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Cài đặt kiểu bản đồ"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Bản đồ hấp dẫn"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Nhận kiểu miễn phí cho bản đồ google của bạn từ %s Bạn có thể sao chép mảng "
+"kiểu javascript từ đó và dán vào đây."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Dán Kiểu ở đây"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr "Sao chép mảng kiểu javascript của google map từ %s dán vào đây."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Cài đặt chủ đề bản đồ"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "Cài đặt cụm điểm đánh dấu"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "Áp dụng cụm điểm đánh dấu"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Vui lòng kiểm tra để áp dụng cụm điểm đánh dấu."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Kích thước lưới"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Mức thu phóng tối đa"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Các tùy chọn có sẵn từ 1 đến 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "Mức thu phóng điểm đánh dấu"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"Đặt mức thu phóng trên điểm đánh dấu hoặc nhấp chuột vào vị trí. Các tùy "
+"chọn có sẵn từ 1 đến 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Áp dụng (các) Kiểu"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "Áp dụng kiểu cho cụm điểm đánh dấu?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Màu cụm"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Màu cụm di chuột qua"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Màn hình cài đặt cụ thể"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Cài đặt lớp phủ"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Cài đặt hướng tuyến"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Cài đặt Chế độ xem phố"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Bật Chế độ xem phố"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Vui lòng kiểm tra để bật chế độ xem phố"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Bật nút đóng"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Vui lòng kiểm tra để bật nút đóng."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Tắt kiểm soát liên kết"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Vui lòng kiểm tra để tắt kiểm soát liên kết."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Tắt tính năng Kiểm soát toàn cảnh của Chế độ xem phố"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr "Vui lòng kiểm tra để tắt điều khiển Pan View của Chế độ xem phố."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "Tiêu đề POV"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr "Vui lòng nhập giá trị số nguyên cho tiêu đề POV."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "Sân POV"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Vui lòng nhập giá trị số nguyên cho POV Pitch."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Cài đặt tab"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "Cài đặt bộ lọc URL"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Cách sử dụng"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "Làm cách nào để tạo bản đồ đầu tiên của bạn?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Khóa API bản đồ Google"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"Đầu tiên hãy tạo %s. Sau đó, hãy truy cập trang %s và chèn Khóa API google "
+"maps của bạn và lưu."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "Tạo một vị trí bằng cách sử dụng trang %s."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"Đi tới trang %s, chỉ định vị trí trên bản đồ và thiết lập các chi tiết khác "
+"theo yêu cầu của bạn. Lưu bản đồ."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Làm cách nào để hiển thị bản đồ trong Frontend?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Quản lý bản đồ"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"Đi tới %s và sao chép mã ngắn sau đó dán nó vào bất kỳ trang/bài đăng nào "
+"bạn muốn hiển thị bản đồ."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Làm thế nào để tạo danh mục đánh dấu?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"Tạo danh mục điểm đánh dấu và xác nhận chúng theo vị trí giúp nhóm các điểm "
+"đánh dấu trên bản đồ theo hình ảnh biểu tượng của chúng. Các điểm đánh dấu "
+"có cùng loại điểm đánh dấu sẽ hiển thị cùng một biểu tượng điểm đánh dấu. "
+"Đi tới %s , chỉ định tiêu đề danh mục điểm đánh dấu và gán biểu tượng điểm "
+"đánh dấu. Khi bạn đã tạo một số danh mục điểm đánh dấu, các danh mục này có "
+"thể được chỉ định cho vị trí trên trang &quot;Thêm vị trí&quot;."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Khắc phục sự cố API Google Map"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Nếu bản đồ google của bạn không hoạt động. Hãy chắc chắn rằng bạn đã kiểm "
+"tra những điều sau đây."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Đảm bảo bạn đã chỉ định các vị trí cho bản đồ của mình."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Bạn phải có khóa api google maps."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. Kiểm tra người giới thiệu HTTP. Nó phải là *yourwebsite.com/* hoặc *."
+"yourwebsite.com/*"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "vé ủng hộ"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Nếu bạn cần bất kỳ trợ giúp nào hoặc nếu bạn vẫn thấy bất kỳ vấn đề nào, "
+"vui lòng tạo %s và chúng tôi rất sẵn lòng trợ giúp bạn trong thời gian sớm "
+"nhất."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Maps Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Nếu bạn đang tìm kiếm nhiều tính năng hơn nữa, vui lòng xem phiên bản "
+"chuyên nghiệp: %s. Đây là plugin bán chạy số 1 (hơn 13 nghìn khách hàng hài "
+"lòng), plugin google maps nâng cao được yêu thích và đáng tin cậy nhất cho "
+"wordpress. Chúng tôi liên tục bổ sung thêm nhiều tính năng hơn cho nó dựa "
+"trên đề xuất của những khách hàng / người dùng quý như bạn. Với phiên bản "
+"pro, bạn có thể thiết lập google maps với các tính năng rất tiên tiến chỉ "
+"trong vài giây. Ngoài ra, cả plugin phiên bản miễn phí và phiên bản chuyên "
+"nghiệp của chúng tôi đều có thể được tùy chỉnh để đạt được các yêu cầu cụ "
+"thể."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "quyền quản lý"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Vui lòng nhập tiêu đề tuyến đường."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Thêm tuyến đường"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Quản lý tuyến đường"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Cài đặt plugin"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "(Các) cài đặt đã được lưu thành công."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Cài đặt plugin chung"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"Bước đầu tiên để bắt đầu với Google Maps là tạo khóa API phù hợp cho trang "
+"web của bạn. Trong khi tạo khóa API Google Maps từ Google Cloud Platform, "
+"trong phần hạn chế khóa, bạn cần chọn liên kết giới thiệu HTTP và sau đó "
+"bạn sẽ cần nhập liên kết giới thiệu HTTP theo tên miền trang web của mình."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Bạn sẽ cần nhập bất kỳ một trong những liên kết giới thiệu HTTP bên dưới "
+"trong quá trình tạo khóa:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "Sao chép liên kết giới thiệu HTTP vào Clipboard"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Hoạt động cho hầu hết các trang web)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Hãy thử cách này nếu cách trên không hiệu quả)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Xem hướng dẫn"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Xem hướng dẫn"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Khóa API của Google Maps"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Nhập Khóa API Google Maps đã tạo tại đây. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "Tạo khóa API"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "Khóa API kiểm tra"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "hướng dẫn."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Nếu bản đồ không hiển thị thì vui lòng kiểm tra bảng điều khiển javascript "
+"để tìm lỗi và khắc phục bằng cách sử dụng %1$s của chúng tôi"
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "TIẾNG ANH"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "TIẾNG Ả RẬP"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASQUE"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "tiếng Bungari"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALI"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "CATALAN"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "SÉC"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "NGƯỜI ĐAN MẠCH"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "TIẾNG ĐỨC"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "NGƯỜI HY LẠP"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "TIẾNG ANH (ÚC)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "TIẾNG ANH (VƯƠNG QUỐC ANH)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "NGƯỜI TÂY BAN NHA"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "LÀM ĐI"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "PHẦN LAN"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "PHILIPPINO"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "NGƯỜI PHÁP"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "người Galicia"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "KHÔNG"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "Tiếng Croatia"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "NGƯỜI HUNGARY"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "Tiếng Indonesia"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "NGƯỜI Ý"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "tiếng Do Thái"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "TIẾNG NHẬT"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "Kannada"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "HÀN QUỐC"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "Tiếng Litva"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "Tiếng LATVIA"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "MALAYALAM"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATHI"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "Tiếng Hà Lan"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "TIẾNG NA UY"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "ĐÁNH BÓNG"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "BỒ ĐÀO NHA"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "BỒ ĐÀO NHA (BRAZIL)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "BỒ ĐÀO NHA (BỒ ĐÀO NHA)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "tiếng Rumani"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "TIẾNG NGA"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "Tiếng SLOVAK"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "Tiếng Slovenia"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "người Serbia"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "TIẾNG THỤY ĐIỂN"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALOG"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "tamil"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "Tiếng Telugu"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "THÁI"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "THỔ NHĨ KỲ"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "người Ukraina"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "TIẾNG VIỆT"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "TIẾNG TRUNG QUỐC (ĐƠN GIẢN)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "TRUYỀN THỐNG TRUNG HOA)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Bản đồ Ngôn ngữ"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Chọn ngôn ngữ cho bản đồ google. Ngôn ngữ mặc định là tiếng Anh."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Bao gồm tập lệnh trong"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "tiêu đề"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Chân trang (Được đề xuất)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Cài đặt hộp Meta"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Tạo (các) trường bổ sung"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Xử lý sự cố"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Tự động sửa lỗi"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Nếu bản đồ không hiển thị bằng cách nào đó, hãy bật tính năng tự động sửa "
+"lỗi và kiểm tra bản đồ."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Bật chế độ gỡ lỗi"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Nếu bản đồ không hiển thị bằng cách nào đó, thậm chí tính năng tự động sửa "
+"lỗi đã được bật, vui lòng bật chế độ gỡ lỗi và liên hệ với nhóm hỗ trợ để "
+"phân tích đầu ra của bảng điều khiển javascript."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Chấp nhận cookie"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Bật chấp nhận cookie"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Bản đồ sẽ vẫn bị ẩn cho đến khi khách truy cập chấp nhận chính sách cookie. "
+"Tính năng này dành cho các nhà phát triển muốn giám sát quyền truy cập "
+"cookie và giới hạn quyền truy cập bản đồ."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "Thông báo &quot;Không có bản đồ&quot;"
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Hiển thị thông báo thay vì bản đồ cho đến khi khách truy cập chấp nhận "
+"chính sách cookie. Thẻ HTML được cho phép. Để trống nếu không có tin nhắn."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Vui lòng chấp nhận cookie để hiển thị bản đồ google."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Hiển thị phần giữ chỗ"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Cho đến khi bạn chấp nhận cookie, hãy hiển thị hình ảnh bản đồ cùng với "
+"thông báo yêu cầu đồng ý thay cho Google Maps"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Lưu các thiết lập"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Lọc vị trí"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Công cụ bổ trợ"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Phiên bản chuyên nghiệp"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Tất cả"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Hiển thị vị trí"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Sắp xếp theo"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Không làm việc..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "Chọn danh mục"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Đi pro"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Trốn"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Bạn có thực sự muốn xóa vị trí này?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Bạn có thực sự muốn xóa bản đồ này?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Bạn có thực sự muốn xóa danh mục này?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Bạn có thực sự muốn xóa tuyến đường này?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Bạn có thực sự muốn xóa bản ghi này?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr ""
+"Trước tiên hãy chọn một số bản ghi để áp dụng hành động hàng loạt cho chúng."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Bạn có chắc chắn muốn xóa các bản ghi đã chọn không?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Ghi đè cơ sở dữ liệu google maps hiện có?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "Người giới thiệu đã được sao chép"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Bạn có chắc chắn xóa mục này không?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Chọn biểu tượng"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Chọn biểu tượng"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Biểu tượng tìm kiếm"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Vui lòng chọn biểu tượng điểm đánh dấu cho danh mục."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Chèn vào bài viết"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "chuyên nghiệp"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Nâng cấp dễ dàng lên phiên bản %s và mở khóa danh sách, tuyến đường, chỉ "
+"đường, lọc, vẽ và nhiều tính năng khác."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Nâng cấp ngay bây giờ"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "CHUYÊN NGHIỆP"

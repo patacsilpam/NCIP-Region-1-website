@@ -1,0 +1,1977 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:35+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: sv\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "En widget för att visa google maps"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "Titel:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Välj din karta:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Välj karta"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Prenumerera på vårt nyhetsbrev"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "Produktinformation"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"För vart och ett av våra plugins har vi skapat steg för steg detaljerade "
+"tutorials som hjälper dig att komma igång snabbt."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "BÖRJA NU"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Installerad version:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Senaste versionen tillgänglig:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Uppdatering tillgänglig"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Prenumerera nu"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Få uppdateringar om våra nya produktfunktioner och nya produkter utan "
+"ansträngning."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr "Vi kommer inte att dela dina e-postadresser i alla fall."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Produktsupport"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"För varje produkt har vi en mycket väl förklarad startguide för att komma "
+"igång på några minuter."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Klicka här"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"För varje produkt har vi satt upp demosidor där du kan se plugin i "
+"arbetsläge. Du kan se en fungerande demo innan du gör ett köp."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Skapa supportbiljett"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Om du har några frågor och behöver vår hjälp, klicka på knappen nedan för "
+"att skapa ett supportärende så hjälper vårt supportteam dig så fort som "
+"möjligt."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Skapa biljett"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Anlita Wordpress Expert"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Har du ett anpassat krav som saknas i detta plugin?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Vi kan anpassa denna plugin efter dina behov. Klicka på knappen nedan för "
+"att skicka en offertförfrågan."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Begär offert"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "WP KARTOR"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "Världens mest avancerade google map plugin"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Uppstartnings Guide"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP MAPS PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr "Uppgradera till proversion och lås upp premiumfunktioner direkt."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr ""
+"Få vår dedikerade support och framtida uppdateringar under hela livet."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "Betrodd av 13 000+ premiumkunder."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Uppgradera"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Kartritning"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Plugin-tillägg"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr "Premium-tillägg / tillägg för WP Google Maps Pro"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Kontakta nu"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Köp nu"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Visa demo"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "Lägg till markörkategori"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Hantera kategorier"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Något gick fel. Var god försök igen."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "Markörkategori har uppdaterats."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "Markörkategori har lagts till."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "Markör kategori"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "Hantera markörkategorier"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "Föräldrakategori"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"Du kan valfritt tilldela en överordnad markörkategori till den nya "
+"markörkategorin du skapar. Tilldela förälderkategori om du vill."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "Markör Kategori Titel"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "Ange markörkategorinamn/titel här."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "Välj Marker Category Ikon"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Välja"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Avlägsna"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "Markörbild"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Uppdaterad på"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "Markörkategorier"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Radera"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "Lägg till Kategori"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "Markörkategori har tagits bort."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "Markörkategorier har tagits bort."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Inga markörkategorier hittades."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Lägg till plats"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Hantera platser"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Ange ett giltigt flytvärde för latitud."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Ange ett giltigt flytvärde för longitud."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "Platsen har uppdaterats."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "Platsen har lagts till."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "Platsinformation"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "skapa google maps api-nyckel"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "här"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"Google Maps API-nyckel saknas. Följ instruktionerna till %1$s och sätt "
+"sedan in din nyckel %2$s."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Plats titel"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Ange platstitel"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Plats Adress"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Börja skriva och välj en adress från Googles lista med automatiska förslag. "
+"Om du väljer platsen identifieras latitud och longitud automatiskt."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Skriv platsadress"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Latitud och longitud"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Latitud"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Longitud"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Stad och stat"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Stad"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "stat"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "Land och postnummer"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "Land"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "postnummer"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Nuvarande position"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "På klick"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Visa infofönstret"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Dirigera om"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Infofönster meddelande"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Ange här infoWindow-meddelandet."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "Omdirigera URL"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr "Ange omdirigeringsadressen här. t.ex. http://www.flippercode.com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "JA"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "NEJ"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Öppna ny flik"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Öppna en ny fönsterflik."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Platsbild"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Infofönster Standard Öppna"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr "Markera för att aktivera infofönster som standard öppet."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "Markör Dragbar"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr "Markera om du vill tillåta besökare att dra markören."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "Markör animering"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Studsa"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "SLÄPPA"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Extra fältvärden"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Du har inga kategorier."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Spara plats"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "Steg 1 - Ladda upp CSV"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Steg 2 - Kolumnmappning"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Välj FIL"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Välj en fil"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Ladda upp en giltig CSV-fil. Du kan hitta en exempeldata-csv-fil i plugin-"
+"katalogen."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "Fortsätta"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Välj Fält"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Titel"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Adress"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "Meddelande"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Plats Klicka"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "Omdirigeringsadress för plats"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Kategori"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Extra fält"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "ID"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"poster är redo att laddas upp. Vänligen mappa csv-kolumner nedan och klicka "
+"på knappen Importera."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Importera platser"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "Annullera"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Plats"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "Platsen har raderats."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Platser har raderats."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Inga platser hittades."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Lägg till karta"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Hantera kartor"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Ange heltalsvärde för POV-pitch."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Ange heltalsvärde för POV-rubrik."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr "Ange heltalsvärden för både POV-rubrik och Pov-pitch."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "Kartan har uppdaterats."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"Kartan skapades framgångsrikt. Du kan använda kortkoden [put_wpgm id=%d] "
+"för att visa kartan var som helst."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "Kopiera"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Kartinformation"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Spara karta"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Karta Titel"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Kartbredd"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Karthöjd"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Kartans zoomnivå"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Karttyp"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Kortkortkod"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Kartor raderades framgångsrikt."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Kartor raderades framgångsrikt."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "Kartan skapades framgångsrikt."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Inga kartor hittades."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "Ytterligare CSS"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Övre vänstra"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Överst till höger"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Vänster Topp"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Höger topp"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Top Center"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Vänster Center"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Höger Center"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Nere till höger"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Vänster Nederst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Höger Nederst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Nedre mitten"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Nedre vänstra"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Inställningar för kontrollposition(er)."
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Zoomkontroll"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Välj position för zoomkontrollen."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Zoomkontrollstil"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Välj stil för zoomkontroll."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Karttypkontroll"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Vänligen välj position för karttypkontroll."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Karttyp Kontrollstil"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Välj stil för karttypkontroll."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Helskärmskontroll"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Välj position för helskärmskontroll."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Street View-kontroll"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Vänligen välj position för gatuvykontroll."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Sökkontroll"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Vänligen välj position för sökrutakontroll."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Kartkontrollinställningar"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Stäng av zoomkontrollen"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Markera för att inaktivera zoomkontrollen."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Stäng av helskärmskontroll"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Markera för att inaktivera helskärmskontroll."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Stäng av karttypkontroll"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Markera för att inaktivera karttypkontroll."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Stäng av Street View Control"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr "Vänligen markera för att inaktivera kontroll av gatuvy."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Slå på sökkontroll"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr "Markera för att aktivera sökrutakontroll."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Anpassade kontrollinställningar"
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Kartfilter"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Visa filter"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Visa filter under kartan"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Innan Filter Rubrik"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Filtrera platser efter kategori"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr "Visa ett text/html-innehåll som kommer att visas före filter."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Karta platser"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Visa kategorifilter"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Markera för att visa kategorifilter."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Ange kartnamn/titel här."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Ange kartbredden i pixlar. Lämna detta fält tomt om du behöver en karta med "
+"100 % bredd."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Ange karthöjden i pixlar. För ex. 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr "Ange kartzonnivå. Standard zoomvärde är 5."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Stäng av rullningshjulet"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr "Markera för att inaktivera rullningshjulszoom."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Karta Dragbar"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr "Vänligen markera för att inaktivera dragbar kartan."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "45° bilder"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+"Använd 45°-bilder ? (endast tillgängligt för karttyp SATELLIT och HYBRID)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Visa inlägg med anpassade fält"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "Visa inlägg med ACF-plugin"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Google Maps bekvämligheter"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Importera inställningar"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Infofönsterinställningar"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"Ange platshållare {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Musklick"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Sväva musen"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Visa infofönstret på"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr "Öppna infofönstret på musklick eller muspekare."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "Välj Markörbild"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "Infofönster Öppna"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr "Vänligen markera för att aktivera infofönster som standard öppet."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "Stäng infofönstret"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr "Vänligen kontrollera för att stänga infofönstret på kartklick."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Välj Animation"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Bounce Animation"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Använd studsanimering vid muspekare eller musklick. BOUNCE indikerar att "
+"markören ska studsa på plats."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Använd Drop Animation"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr "DROP anger att markören ska falla från toppen av kartan."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Infofönster Meddelande för platser"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Infofönster Meddelande för inlägg"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Anpassningsinställningar för infofönster"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Inställningar för kartlager"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Trafiklager"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Vänligen markera för att aktivera trafiklagret på kartan."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Transitlager"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Markera för att aktivera transitlagret på kartan."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Cykellager"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Vänligen markera för att aktivera cykellagret på kartan."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Begränsa panoreringsinställningar"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Anpassade filter"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Avancerad filterfunktion"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Listningsinställningar"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Listningsobjekt Skin"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Kartfilterinställningar"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Geo Json-inställningar"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Välj Platser"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Välj alla"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Avmarkera alla"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Kartans centrum"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Center Latitude"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Ange mittens latitud för kartan."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Center Longitud"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Ange longitud i mitten för kartan."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Centrera efter tilldelade platser"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Centrera kartan baserat på platser som tilldelats kartan för att visa alla "
+"platser på en gång."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr ""
+"(Det mest rekommenderade sättet att centrera kartan enligt tilldelade "
+"platser.)"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Inställningar för kartstil"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Snygga kartor"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Få gratis stil för dina google maps från %s Du kan kopiera javascript "
+"stilarray därifrån och klistra in här."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Klistra in stil här"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr "Kopiera google map javascript style array från %s klistra in här."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Inställningar för karttema"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "Inställningar för markörkluster"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "Applicera Marker Cluster"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Vänligen markera för att använda markörkluster."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Rutnätsstorlek"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Max zoomnivå"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Tillgängliga alternativ 1 till 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "Markör Zoomnivå"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"Ställ in zoomnivå på markör eller platsklick. Tillgängliga alternativ 1 "
+"till 19."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Använd stil(ar)"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "Vill du använda stilar på markörkluster?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Kluster färg"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Mouseover Cluster Färg"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Skärmspecifika inställningar"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Överlagringsinställningar"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Ruttriktningsinställningar"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Street View-inställningar"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Slå på Street View"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Markera för att aktivera gatuvy"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Slå på stängningsknappen"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Vänligen markera för att aktivera stängningsknappen."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Stäng av länkkontroll"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Markera för att inaktivera länkkontroll."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Stäng av Street View Pan Control"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr "Markera för att inaktivera Street View Pan-kontroll."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "POV Rubrik"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr "Ange ett numeriskt heltalsvärde för POV-rubrik."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "POV Pitch"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Ange ett numeriskt heltalsvärde för POV Pitch."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Inställningar för flikar"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "URL-filterinställningar"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Hur man använder"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "Hur skapar du din första karta?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Google Map API-nyckel"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"Skapa först en %s. Gå sedan till sidan %s och infoga din google maps API-"
+"nyckel och spara."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "Skapa en plats genom att använda sidan %s."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"Gå till sidan %s, tilldela platser till kartan och ställ in andra detaljer "
+"enligt dina krav. Spara kartan."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Hur visar man karta i frontend?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Hantera karta"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"Gå till %s och kopiera kortkoden och klistra sedan in den på valfri sida/"
+"inlägg där du vill visa kartan."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Hur skapar man en markörkategori?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"Att skapa markörkategorier och tilldela dem till platser hjälper till att "
+"gruppera markörerna på kartan efter deras ikonbild. Markörer som har samma "
+"markörkategori kommer att visa samma markörikon. Gå till %s , ange "
+"markörkategorititel och tilldela en markörikon. När du har skapat några "
+"markörkategorier kan dessa kategorier tilldelas platsen på sidan &quot;Lägg "
+"till platser&quot;."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Felsökning av Google Maps API"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Om dina google maps inte fungerar. Se till att du har kontrollerat följande "
+"saker."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Se till att du har tilldelat platser till din karta."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Du måste ha Google Maps API-nyckel."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. Kontrollera HTTP-hänvisningar. Det måste vara *dinwebbplats.com/* eller "
+"*.dinwebbplats.com/*"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "supportbiljett"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Om du behöver hjälp eller om du fortfarande ser något problem, skapa gärna "
+"en %s så hjälper vi dig gärna så fort som möjligt."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Maps Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Om du letar efter ännu fler funktioner, ta en titt på proversionen: %s. Det "
+"är nummer 1 säljande (13 000 nöjda kunder), mest älskade och pålitliga "
+"avancerade google maps plugin för wordpress. Vi lägger ständigt till fler "
+"funktioner till den baserat på förslag från uppskattade kunder/användare "
+"som du. Med pro-versionen kan du ställa in Google Maps med mycket "
+"avancerade funktioner på bara några sekunder. Både våra gratis- och "
+"proversionsplugins kan också anpassas för att uppfylla specifika krav."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "Hantera behörigheter"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Vänligen ange ruttens titel."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Lägg till rutt"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Hantera rutter"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Plugin-inställningar"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "Inställningarna har sparats."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Allmänna insticksinställningar"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"Det allra första steget för att komma igång med Google Maps är att skapa "
+"rätt API-nyckel för din webbplats. När du skapar Google Maps API-nycklar "
+"från Google Cloud Platform, i avsnittet för nyckelbegränsningar, måste du "
+"välja HTTP-hänvisning och sedan måste du ange HTTP-hänvisning enligt ditt "
+"webbplatsdomännamn."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Du måste ange någon av nedanstående HTTP-hänvisningsadresser under "
+"processen för att skapa nyckel:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "Kopiera HTTP Referrer till Urklipp"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Fungerar för de flesta webbplatser)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Prova detta om ovanstående inte fungerar)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Visa handledning"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Visa instruktioner"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Google Maps API-nyckel"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Ange den skapade Google Maps API-nyckeln här. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "Generera API-nyckel"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "Testa API-nyckel"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "guider."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Om kartan inte är synlig, kontrollera javascript-konsolen för felet och "
+"åtgärda med vår %1$s"
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "ENGELSK"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "ARABISKA"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASKISKA"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "BULGARISKT"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALISKA"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "KATALANSKA"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "TJECKISKA"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "DANSK"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "TYSK"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "GREKISK"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "ENGELSKA (AUSTRALISK)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "ENGELSKA (STORBRITANNIEN)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "SPANSKA"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "GÖR DET"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "FINSKA"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "FILIPPINARE"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "FRANSKA"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "GALICIAN"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATI"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "NEJ"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "KROATISK"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "UNGERSKA"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "INDONESISKA"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "ITALIENSKA"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "HEBRÉSKA"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "JAPANSK"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "KANNADA"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "KOREANSK"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "LITAUNSKA"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "LETTISKA"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "MALAYALAM"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATHI"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "HOLLANDSKA"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "NORSK"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "PUTSA"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "PORTUGISISKA"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTUGISISKA (BRASILIEN)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTUGISISKA (PORTUGAL)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "RUMÄNSKA"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "RYSSSKA"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "SLOVAKISK"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "SLOVENISKA"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "SERBISK"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "SVENSKA"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALOG"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "TAMILISKT"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "TELUGU"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "THAI"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "TURKISKA"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "UKRAINISKA"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "VIETNAMESISKA"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "FÖRENKLAD KINESISKA)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "TRADITIONELL KINESISK)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Kartspråk"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Välj språk för google map. Standardspråket är engelska."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Inkludera skript i"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "Rubrik"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Sidfot (rekommenderas)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Meta Box-inställningar"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Skapa extra fält"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Felsökning"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Automatisk korrigering"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Om kartan inte är synlig på något sätt, aktivera autofix och kontrollera "
+"kartan."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Slå på felsökningsläge"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Om kartan inte är synlig på något sätt ens autofix i aktiverat, vänligen "
+"aktivera felsökningsläget och kontakta supportteamet för att analysera "
+"javascript-konsolens utdata."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Cookies acceptans"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Aktivera godkännande av cookies"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Kartor kommer att förbli dolda tills besökaren accepterar cookiepolicyn. "
+"Den här funktionen är avsedd för utvecklare som vill övervaka åtkomst till "
+"cookies och begränsa kartåtkomst."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "&quot;Ingen karta&quot;-meddelande"
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Visa meddelande istället för kartan tills besökaren accepterar "
+"cookiepolicyn. HTML-taggar är tillåtna. Lämna det tomt för inget meddelande."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Vänligen acceptera cookies för att visa google maps."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Visa platshållare"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Tills du accepterar cookies, visa en kartbild tillsammans med ett "
+"samtyckesmeddelande i stället för Google Maps"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Filtrera platser"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Plugin-verktyg"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "inställningar"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Pro-version"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Allt"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Visa platser"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Sortera efter"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Fungerar ej..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "Välj kategori"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Go Pro"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Dölj"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Vill du verkligen ta bort den här platsen?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Vill du verkligen ta bort den här kartan?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Vill du verkligen ta bort den här kategorin?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Vill du verkligen ta bort den här rutten?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Vill du verkligen ta bort den här posten?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr "Välj några poster först för att tillämpa massåtgärder på dem."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Är du säker på att du vill ta bort de valda posterna?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Skriv över befintlig google maps databas?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "Referent kopierades"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Är du säker på att ta bort objektet?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Välj ikoner"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Välj ikon"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Sök ikoner"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Vänligen välj markörikon för kategorin."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Sätt in i Post"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "Proffs"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Uppgradera problemfritt till %s version och lås upp listor, rutter, "
+"vägbeskrivningar, filtrering, ritning och många fler funktioner."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Uppgradera nu"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "PROFFS"

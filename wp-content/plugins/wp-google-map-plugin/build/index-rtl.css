@@ -1,0 +1,26 @@
+/*!****************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[4].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[4].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[4].use[3]!./src/editor.scss ***!
+  \****************************************************************************************************************************************************************************************************************************************/
+.link-container {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 10px;
+}
+
+#wp_maps_block_metabox {
+  display: none;
+}
+
+.wpgmp_map, .wpgmp_map_container {
+  transition: width 0.5s ease-in-out, height 0.5s ease-in-out;
+}
+
+div.categories_filter select, div.categories_filter select:hover, div.categories_filter select:focus {
+  color: #ffffff;
+}
+
+.block-editor-block-inspector label {
+  text-transform: capitalize !important;
+  font-size: 12px !important;
+}

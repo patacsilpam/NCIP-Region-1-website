@@ -1,0 +1,1997 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Maps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-09-12 19:46+0530\n"
+"PO-Revision-Date: 2023-09-12 20:36+0530\n"
+"Last-Translator: Flipper Code <hello@flippercode.com>\n"
+"Language-Team: flippercode <hello@flippercode.com>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class.map-widget.php:25
+msgid "A widget to display google maps"
+msgstr "Google haritalarını görüntülemek için bir widget"
+
+#: classes/class.map-widget.php:73
+msgid "Title:"
+msgstr "Başlık:"
+
+#: classes/class.map-widget.php:87
+msgid "Select Your Map:"
+msgstr "Haritanızı Seçin:"
+
+#: classes/class.map-widget.php:90
+msgid "Select map"
+msgstr "Harita seç"
+
+#: classes/wpgmp-template.php:24
+msgid "Subscribe to our mailing list"
+msgstr "Posta listemize üye olun"
+
+#: classes/wpgmp-template.php:25
+msgid "Product Information"
+msgstr "Ürün Bilgisi"
+
+#: classes/wpgmp-template.php:26
+msgid ""
+"For each of our plugins, we have created step by step detailed tutorials "
+"that helps you to get started quickly."
+msgstr ""
+"Eklentilerimizin her biri için hızlı bir şekilde başlamanıza yardımcı "
+"olacak adım adım ayrıntılı eğitimler oluşturduk."
+
+#: classes/wpgmp-template.php:27
+msgid "START NOW"
+msgstr "ŞİMDİ BAŞLA"
+
+#: classes/wpgmp-template.php:28
+msgid "Installed version :"
+msgstr "Kurulu sürüm:"
+
+#: classes/wpgmp-template.php:29
+msgid "Latest Version Available : "
+msgstr "Mevcut En Son Sürüm:"
+
+#: classes/wpgmp-template.php:30
+msgid "Update Available"
+msgstr "Güncelleme uygun"
+
+#: classes/wpgmp-template.php:33
+msgid "Subscribe Now"
+msgstr "Şimdi Abone Ol"
+
+#: classes/wpgmp-template.php:34
+msgid ""
+"Receive updates on our new product features and new products effortlessly."
+msgstr ""
+"Yeni ürün özelliklerimize ve yeni ürünlerimize ilişkin güncellemeleri "
+"zahmetsizce alın."
+
+#: classes/wpgmp-template.php:35
+msgid "We will not share your email addresses in any case."
+msgstr "Hiçbir durumda e-posta adreslerinizi paylaşmayacağız."
+
+#: classes/wpgmp-template.php:39
+msgid "Product Support"
+msgstr "Ürün desteği"
+
+#: classes/wpgmp-template.php:40
+msgid ""
+"For our each product we have very well explained starting guide to get you "
+"started in matter of minutes."
+msgstr ""
+"Her ürünümüz için birkaç dakika içinde başlamanıza yardımcı olacak çok iyi "
+"bir başlangıç kılavuzu açıkladık."
+
+#: classes/wpgmp-template.php:41
+msgid " Click Here"
+msgstr "Buraya tıklayın"
+
+#: classes/wpgmp-template.php:42
+msgid ""
+"For our each product we have set up demo pages where you can see the plugin "
+"in working mode. You can see a working demo before making a purchase."
+msgstr ""
+"Her ürünümüz için eklentiyi çalışma modunda görebileceğiniz demo sayfaları "
+"hazırladık. Satın almadan önce çalışan bir demo görebilirsiniz."
+
+#: classes/wpgmp-template.php:45
+msgid "Create Support Ticket"
+msgstr "Destek Bileti Oluştur"
+
+#: classes/wpgmp-template.php:46
+msgid ""
+"If you have any question and need our help, click below button to create a "
+"support ticket and our support team will assist you asap."
+msgstr ""
+"Herhangi bir sorunuz varsa ve yardımımıza ihtiyacınız varsa, destek "
+"bildirimi oluşturmak için aşağıdaki düğmeye tıklayın; destek ekibimiz size "
+"en kısa sürede yardımcı olacaktır."
+
+#: classes/wpgmp-template.php:48
+msgid "Create Ticket"
+msgstr "Bilet Oluştur"
+
+#: classes/wpgmp-template.php:54
+msgid "Hire Wordpress Expert"
+msgstr "Wordpress Uzmanı İşe Alın"
+
+#: classes/wpgmp-template.php:55
+msgid "Do you have a custom requirement which is missing in this plugin?"
+msgstr "Bu eklentide eksik olan özel bir gereksiniminiz mi var?"
+
+#: classes/wpgmp-template.php:56
+msgid ""
+"We can customize this plugin according to your needs. Click below button to "
+"send an quotation request."
+msgstr ""
+"Bu eklentiyi ihtiyaçlarınıza göre özelleştirebiliriz. Teklif isteği "
+"göndermek için aşağıdaki butona tıklayın."
+
+#: classes/wpgmp-template.php:59
+msgid "Request a quotation"
+msgstr "Teklif isteyin"
+
+#: classes/wpgmp-template.php:65 wp-google-map-plugin.php:315
+#: wp-google-map-plugin.php:316
+msgid "WP MAPS"
+msgstr "WP HARİTALARI"
+
+#: classes/wpgmp-template.php:67
+msgid "World's most advanced google map plugin"
+msgstr "Dünyanın en gelişmiş Google harita eklentisi"
+
+#: core/class.plugin-overview.php:242
+msgid "Getting Started Guide"
+msgstr "Başlangıç Kılavuzu"
+
+#: inc/modals/pro.php:11
+msgid "WP MAPS PRO"
+msgstr "WP HARİTALAR PRO"
+
+#: inc/modals/pro.php:12
+msgid "Upgrade to pro version and unlock premium features instantly."
+msgstr "Pro sürüme yükseltin ve premium özelliklerin kilidini anında açın."
+
+#: inc/modals/pro.php:14
+msgid "Get our dedicated support and lifetime future updates."
+msgstr "Özel desteğimizi ve ömür boyu gelecek güncellemelerimizi alın."
+
+#: inc/modals/pro.php:15
+msgid "Trusted by the 13000+ Premium Customers."
+msgstr "13000+ Premium Müşterinin güvendiği."
+
+#: inc/modals/pro.php:21
+msgid "Upgrade"
+msgstr "Güncelleme"
+
+#: modules/drawing/model.drawing.php:31
+msgid "Map Drawing"
+msgstr "Harita Çizimi"
+
+#: modules/extentions/model.extentions.php:29
+msgid "Plugin Add-Ons"
+msgstr "Eklenti Eklentileri"
+
+#: modules/extentions/views/manage.php:10
+msgid "Premium Add-Ons / Extentions For WP Google Maps Pro"
+msgstr "WP Google Maps Pro İçin Premium Eklentiler / Uzantılar"
+
+#: modules/extentions/views/manage.php:60
+msgid "Contact Now"
+msgstr "Şimdi iletişime geçin"
+
+#: modules/extentions/views/manage.php:65
+msgid "Buy Now"
+msgstr "Şimdi al"
+
+#: modules/extentions/views/manage.php:66
+msgid "View Demo"
+msgstr "Demoyu Görüntüle"
+
+#: modules/group_map/model.group_map.php:40 modules/overview/views/how.php:68
+msgid "Add Marker Category"
+msgstr "İşaretçi Kategorisi Ekle"
+
+#: modules/group_map/model.group_map.php:41
+#: modules/group_map/views/manage.php:85
+msgid "Manage Categories"
+msgstr "Kategorileri Yönetin"
+
+#: modules/group_map/model.group_map.php:131
+#: modules/location/model.location.php:190 modules/map/model.map.php:243
+msgid "Something went wrong. Please try again."
+msgstr "Bir şeyler yanlış gitti. Lütfen tekrar deneyin."
+
+#: modules/group_map/model.group_map.php:133
+#: modules/group_map/views/manage.php:90
+msgid "Marker category was updated successfully."
+msgstr "İşaretçi kategorisi başarıyla güncellendi."
+
+#: modules/group_map/model.group_map.php:135
+#: modules/group_map/views/manage.php:89
+msgid "Marker category was added successfully."
+msgstr "İşaretçi kategorisi başarıyla eklendi."
+
+#: modules/group_map/views/form.php:27 modules/group_map/views/form.php:30
+#: modules/group_map/views/manage.php:61 modules/group_map/views/manage.php:71
+msgid "Marker Category"
+msgstr "İşaretleyici Kategorisi"
+
+#: modules/group_map/views/form.php:27
+msgid "Manage Marker Categories"
+msgstr "İşaretçi Kategorilerini Yönet"
+
+#: modules/group_map/views/form.php:43 modules/group_map/views/manage.php:63
+msgid "Parent Category"
+msgstr "aile kategorisi"
+
+#: modules/group_map/views/form.php:45
+msgid ""
+"You can optionally assign a parent marker category to the new marker "
+"category you are creating. Assign parent category if you want."
+msgstr ""
+"İsteğe bağlı olarak, oluşturduğunuz yeni işaretçi kategorisine bir ana "
+"işaretçi kategorisi atayabilirsiniz. İsterseniz üst kategoriyi atayın."
+
+#: modules/group_map/views/form.php:52 modules/group_map/views/form.php:57
+msgid "Marker Category Title"
+msgstr "İşaretleyici Kategori Başlığı"
+
+#: modules/group_map/views/form.php:55
+msgid "Enter marker category name / title here."
+msgstr "İşaretleyici kategorisi adını/başlığını buraya girin."
+
+#: modules/group_map/views/form.php:63
+msgid "Select Marker Category Icon"
+msgstr "İşaretçi Kategorisi Simgesini Seçin"
+
+#: modules/group_map/views/form.php:66 modules/location/views/form.php:185
+#: modules/map/views/map-forms/layers-form.php:36
+#: modules/map/views/map-forms/locations-form.php:51
+msgid "Choose"
+msgstr "Seçmek"
+
+#: modules/group_map/views/form.php:67 modules/location/views/form.php:186
+#: modules/map/views/map-forms/layers-form.php:37
+msgid "Remove"
+msgstr "Kaldırmak"
+
+#: modules/group_map/views/manage.php:62
+msgid "Marker Image"
+msgstr "İşaretçi Resmi"
+
+#: modules/group_map/views/manage.php:64
+msgid "Updated On"
+msgstr "Tarihinde güncellendi"
+
+#: modules/group_map/views/manage.php:72 modules/location/views/form.php:226
+msgid "Marker Categories"
+msgstr "İşaretleyici Kategorileri"
+
+#: modules/group_map/views/manage.php:83 modules/map/views/manage.php:78
+msgid "Delete"
+msgstr "Silmek"
+
+#: modules/group_map/views/manage.php:86
+msgid "Add Category"
+msgstr "Kategori ekle"
+
+#: modules/group_map/views/manage.php:87
+msgid "Marker category was deleted successfully."
+msgstr "İşaretçi kategorisi başarıyla silindi."
+
+#: modules/group_map/views/manage.php:88
+msgid "Marker Categories were deleted successfully."
+msgstr "İşaretçi Kategorileri başarıyla silindi."
+
+#: modules/group_map/views/manage.php:91
+msgid "No marker categories were found."
+msgstr "Hiçbir işaretçi kategorisi bulunamadı."
+
+#: modules/location/model.location.php:42 modules/location/views/manage.php:46
+#: modules/overview/views/how.php:36
+msgid "Add Location"
+msgstr "Konum ekle"
+
+#: modules/location/model.location.php:43 modules/location/views/form.php:34
+#: modules/location/views/manage.php:45
+msgid "Manage Locations"
+msgstr "Konumları Yönet"
+
+#: modules/location/model.location.php:135
+msgid "Please enter a valid float value for latitude."
+msgstr "Lütfen enlem için geçerli bir kayan nokta değeri girin."
+
+#: modules/location/model.location.php:138
+msgid "Please enter a valid float value for longitude."
+msgstr "Lütfen boylam için geçerli bir kayan nokta değeri girin."
+
+#: modules/location/model.location.php:192
+#: modules/location/views/manage.php:50
+msgid "Location was updated successfully."
+msgstr "Konum başarıyla güncellendi."
+
+#: modules/location/model.location.php:194
+#: modules/location/views/manage.php:49
+msgid "Location was added successfully."
+msgstr "Konum başarıyla eklendi."
+
+#: modules/location/views/form.php:34 modules/location/views/form.php:39
+msgid "Location Information"
+msgstr "konum bilgisi"
+
+#: modules/location/views/form.php:47 modules/map/views/form.php:58
+msgid "create google maps api key"
+msgstr "google haritalar API anahtarı oluştur"
+
+#: modules/location/views/form.php:48 modules/map/views/form.php:59
+msgid "here"
+msgstr "Burada"
+
+#: modules/location/views/form.php:51 modules/map/views/form.php:62
+#, php-format
+msgid ""
+"Google Maps API Key is missing. Follow instructions to %1$s and then insert "
+"your key %2$s."
+msgstr ""
+"Google Haritalar API Anahtarı eksik. %1$s talimatlarını izleyin ve ardından "
+"%2$s anahtarınızı ekleyin."
+
+#: modules/location/views/form.php:61
+msgid "Location Title"
+msgstr "Konum Başlığı"
+
+#: modules/location/views/form.php:64
+msgid "Enter Location Title"
+msgstr "Konum Başlığını Girin"
+
+#: modules/location/views/form.php:68 modules/location/views/manage.php:23
+msgid "Location Address"
+msgstr "Konum adresi"
+
+#: modules/location/views/form.php:70
+msgid ""
+"Start typing and choose an address from the google's auto suggest list. "
+"Choosing the place will automatically detect latitude & longitude."
+msgstr ""
+"Yazmaya başlayın ve Google&#39;ın otomatik öneri listesinden bir adres "
+"seçin. Yer seçildiğinde enlem ve boylam otomatik olarak algılanacaktır."
+
+#: modules/location/views/form.php:73
+msgid "Type Location Address"
+msgstr "Konum Adresini Yazın"
+
+#: modules/location/views/form.php:77
+msgid "Latitude and Longitude"
+msgstr "Enlem ve Boylam"
+
+#: modules/location/views/form.php:82 modules/location/views/import.php:96
+#: modules/location/views/manage.php:24
+msgid "Latitude"
+msgstr "Enlem"
+
+#: modules/location/views/form.php:91 modules/location/views/import.php:97
+#: modules/location/views/manage.php:25
+msgid "Longitude"
+msgstr "Boylam"
+
+#: modules/location/views/form.php:96
+msgid "City and State"
+msgstr "Şehir ve devlet"
+
+#: modules/location/views/form.php:100 modules/location/views/import.php:98
+msgid "City"
+msgstr "Şehir"
+
+#: modules/location/views/form.php:108 modules/location/views/import.php:99
+msgid "State"
+msgstr "Durum"
+
+#: modules/location/views/form.php:113
+msgid "Country and Postal Code"
+msgstr "Ülke ve Posta Kodu"
+
+#: modules/location/views/form.php:117 modules/location/views/import.php:100
+msgid "Country"
+msgstr "Ülke"
+
+#: modules/location/views/form.php:125 modules/location/views/import.php:101
+msgid "Postal Code"
+msgstr "Posta Kodu"
+
+#: modules/location/views/form.php:131
+msgid "Current Location"
+msgstr "Mevcut konum"
+
+#: modules/location/views/form.php:138
+msgid "On Click"
+msgstr "Tıklamada"
+
+#: modules/location/views/form.php:139
+msgid "Display Infowindow"
+msgstr "Bilgi Penceresini Görüntüle"
+
+#: modules/location/views/form.php:139
+msgid "Redirect"
+msgstr "Yönlendir"
+
+#: modules/location/views/form.php:148
+msgid "Infowindow Message"
+msgstr "Bilgi Penceresi Mesajı"
+
+#: modules/location/views/form.php:150
+msgid "Enter here the infoWindow message."
+msgstr "Buraya infoWindow mesajını girin."
+
+#: modules/location/views/form.php:159
+msgid "Redirect Url"
+msgstr "Yönlendirme bağlantısı"
+
+#: modules/location/views/form.php:161
+msgid "Enter here the redirect url. e.g http://www.flippercode.com"
+msgstr ""
+"Yönlendirme URL&#39;sini buraya girin. örneğin http://www.flippercode.com"
+
+#: modules/location/views/form.php:169
+msgid "YES"
+msgstr "EVET"
+
+#: modules/location/views/form.php:169
+msgid "NO"
+msgstr "HAYIR"
+
+#: modules/location/views/form.php:170
+msgid "Open new tab"
+msgstr "Yeni sekme aç"
+
+#: modules/location/views/form.php:172
+msgid "Open a new window tab."
+msgstr "Yeni bir pencere sekmesi açın."
+
+#: modules/location/views/form.php:182
+msgid "Location Image"
+msgstr "Konum Resmi"
+
+#: modules/location/views/form.php:193
+msgid "Infowindow Default Open"
+msgstr "Bilgi Penceresi Varsayılan Açık"
+
+#: modules/location/views/form.php:197
+msgid "Check to enable infowindow default open."
+msgstr ""
+"Bilgi penceresinin varsayılan açıklığını etkinleştirmek için işaretleyin."
+
+#: modules/location/views/form.php:201
+msgid "Marker Draggable"
+msgstr "İşaretleyici Sürüklenebilir"
+
+#: modules/location/views/form.php:205
+msgid "Check if you want to allow visitors to drag the marker."
+msgstr ""
+"Ziyaretçilerin işaretçiyi sürüklemesine izin vermek isteyip istemediğinizi "
+"kontrol edin."
+
+#: modules/location/views/form.php:209
+msgid "Marker Animation"
+msgstr "İşaretçi Animasyonu"
+
+#: modules/location/views/form.php:211
+msgid "Bounce"
+msgstr "Sıçrama"
+
+#: modules/location/views/form.php:211
+msgid "DROP"
+msgstr "DÜŞÜRMEK"
+
+#: modules/location/views/form.php:219
+msgid "Extra Fields Values"
+msgstr "Ekstra Alan Değerleri"
+
+#: modules/location/views/form.php:279
+msgid "You don't have categorie(s)."
+msgstr "Kategoriniz yok."
+
+#: modules/location/views/form.php:293
+msgid "Save Location"
+msgstr "Konumu kaydet"
+
+#: modules/location/views/import.php:18 modules/location/views/import.php:21
+msgid "Step 1 - Upload CSV"
+msgstr "1. Adım - CSV&#39;yi yükleyin"
+
+#: modules/location/views/import.php:28 modules/location/views/import.php:31
+msgid "Step 2 - Columns Mapping"
+msgstr "Adım 2 – Sütun Eşlemesi"
+
+#: modules/location/views/import.php:45
+msgid "Choose File"
+msgstr "Dosya seçin"
+
+#: modules/location/views/import.php:46
+msgid "Choose a File"
+msgstr "Bir dosya seçin"
+
+#: modules/location/views/import.php:48
+msgid ""
+"Please upload a valid CSV file. You can find a sample data csv file in the "
+"plugin directory."
+msgstr ""
+"Lütfen geçerli bir CSV dosyası yükleyin. Örnek bir veri csv dosyasını "
+"eklenti dizininde bulabilirsiniz."
+
+#: modules/location/views/import.php:54
+msgid "Continue"
+msgstr "Devam etmek"
+
+#: modules/location/views/import.php:93
+msgid "Select Field"
+msgstr "Alan Seç"
+
+#: modules/location/views/import.php:94
+msgid "Title"
+msgstr "Başlık"
+
+#: modules/location/views/import.php:95
+msgid "Address"
+msgstr "Adres"
+
+#: modules/location/views/import.php:102
+msgid "Message"
+msgstr "İleti"
+
+#: modules/location/views/import.php:103
+msgid "Location Click"
+msgstr "Konum Tıklaması"
+
+#: modules/location/views/import.php:104
+msgid "Location Redirect URL"
+msgstr "Konum Yönlendirme URL&#39;si"
+
+#: modules/location/views/import.php:105
+msgid "Category"
+msgstr "Kategori"
+
+#: modules/location/views/import.php:106
+msgid "Extra Field"
+msgstr "Ekstra Alan"
+
+#: modules/location/views/import.php:107
+msgid "ID"
+msgstr "İD"
+
+#: modules/location/views/import.php:116
+msgid ""
+"records are ready to upload. Please map csv columns below and click on "
+"Import button."
+msgstr ""
+"Kayıtlar yüklenmeye hazır. Lütfen aşağıdaki csv sütunlarını eşleştirin ve "
+"İçe Aktar düğmesine tıklayın."
+
+#: modules/location/views/import.php:164
+msgid "Import Locations"
+msgstr "Konumları İçe Aktar"
+
+#: modules/location/views/import.php:172
+msgid "Cancel"
+msgstr "İptal etmek"
+
+#: modules/location/views/manage.php:22
+msgid "Location"
+msgstr "Konum"
+
+#: modules/location/views/manage.php:47
+msgid "Location was deleted successfully."
+msgstr "Konum başarıyla silindi."
+
+#: modules/location/views/manage.php:48
+msgid "Locations were deleted successfully."
+msgstr "Konumlar başarıyla silindi."
+
+#: modules/location/views/manage.php:51
+msgid "No locations were found."
+msgstr "Hiçbir konum bulunamadı."
+
+#: modules/map/model.map.php:39 modules/map/views/manage.php:83
+#: modules/overview/views/how.php:43
+msgid "Add Map"
+msgstr "Harita Ekle"
+
+#: modules/map/model.map.php:40 modules/map/views/form.php:45
+#: modules/map/views/manage.php:82
+msgid "Manage Maps"
+msgstr "Haritaları Yönet"
+
+#: modules/map/model.map.php:119
+msgid "Please enter integer value for POV pitch."
+msgstr "Lütfen bakış açısı aralığı için tamsayı değeri girin."
+
+#: modules/map/model.map.php:122
+msgid "Please enter integer value for POV heading."
+msgstr "Lütfen POV başlığı için tam sayı değeri girin."
+
+#: modules/map/model.map.php:130
+msgid "Please enter integer values for both POV heading & Pov pitch."
+msgstr ""
+"Lütfen hem POV başlığı hem de Bakış açısı için tam sayı değerleri girin."
+
+#: modules/map/model.map.php:245 modules/map/views/manage.php:87
+msgid "Map was updated successfully."
+msgstr "Harita başarıyla güncellendi."
+
+#: modules/map/model.map.php:248
+#, php-format
+msgid ""
+"Map was created successfully. You can use shortcode [put_wpgm id=%d] to "
+"display the map anywhere."
+msgstr ""
+"Harita başarıyla oluşturuldu. Haritayı herhangi bir yerde görüntülemek için "
+"[put_wpgm id=%d] kısa kodunu kullanabilirsiniz."
+
+#: modules/map/model.map.php:281
+msgid "Copy"
+msgstr "Kopyala"
+
+#: modules/map/views/form.php:45 modules/map/views/form.php:48
+msgid "Map Information"
+msgstr "Harita Bilgileri"
+
+#: modules/map/views/form.php:102
+msgid "Save Map"
+msgstr "Haritayı Kaydet"
+
+#: modules/map/views/manage.php:55
+#: modules/map/views/map-forms/general-setting-form.php:8
+msgid "Map Title"
+msgstr "Harita Başlığı"
+
+#: modules/map/views/manage.php:56
+#: modules/map/views/map-forms/general-setting-form.php:15
+msgid "Map Width"
+msgstr "Harita Genişliği"
+
+#: modules/map/views/manage.php:57
+#: modules/map/views/map-forms/general-setting-form.php:21
+msgid "Map Height"
+msgstr "Harita Yüksekliği"
+
+#: modules/map/views/manage.php:58
+#: modules/map/views/map-forms/general-setting-form.php:33
+msgid "Map Zoom Level"
+msgstr "Harita Yakınlaştırma Düzeyi"
+
+#: modules/map/views/manage.php:59
+#: modules/map/views/map-forms/general-setting-form.php:42
+msgid "Map Type"
+msgstr "Harita türü"
+
+#: modules/map/views/manage.php:60
+msgid "Map Shortcode"
+msgstr "Harita Kısa Kodu"
+
+#: modules/map/views/manage.php:84
+msgid "Maps was deleted successfully."
+msgstr "Haritalar başarıyla silindi."
+
+#: modules/map/views/manage.php:85
+msgid "Maps were deleted successfully."
+msgstr "Haritalar başarıyla silindi."
+
+#: modules/map/views/manage.php:86
+msgid "Map was created successfully."
+msgstr "Harita başarıyla oluşturuldu."
+
+#: modules/map/views/manage.php:88
+msgid "No maps were found."
+msgstr "Hiçbir harita bulunamadı."
+
+#: modules/map/views/map-forms/additional-styling-form.php:9
+#: modules/map/views/map-forms/additional-styling-form.php:15
+msgid "Additional CSS"
+msgstr "Ek CSS"
+
+#: modules/map/views/map-forms/control-position-style-form.php:9
+msgid "Top Left"
+msgstr "Sol üst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:10
+msgid "Top Right"
+msgstr "Sağ üst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:11
+msgid "Left Top"
+msgstr "Sol üst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:12
+msgid "Right Top"
+msgstr "Sağ üst"
+
+#: modules/map/views/map-forms/control-position-style-form.php:13
+msgid "Top Center"
+msgstr "Üst merkez"
+
+#: modules/map/views/map-forms/control-position-style-form.php:14
+msgid "Left Center"
+msgstr "Sol Orta"
+
+#: modules/map/views/map-forms/control-position-style-form.php:15
+msgid "Right Center"
+msgstr "Sağ Merkez"
+
+#: modules/map/views/map-forms/control-position-style-form.php:16
+#: modules/map/views/map-forms/control-position-style-form.php:21
+msgid "Bottom Right"
+msgstr "Sağ alt"
+
+#: modules/map/views/map-forms/control-position-style-form.php:17
+msgid "Left Bottom"
+msgstr "Sol alt"
+
+#: modules/map/views/map-forms/control-position-style-form.php:18
+msgid "Right Bottom"
+msgstr "Sağ Alt"
+
+#: modules/map/views/map-forms/control-position-style-form.php:19
+msgid "Bottom Center"
+msgstr "Alt merkez"
+
+#: modules/map/views/map-forms/control-position-style-form.php:20
+msgid "Bottom Left"
+msgstr "Sol alt"
+
+#: modules/map/views/map-forms/control-position-style-form.php:25
+msgid "Control Position(s) Settings"
+msgstr "Kontrol Pozisyon(lar)ı Ayarları"
+
+#: modules/map/views/map-forms/control-position-style-form.php:32
+msgid "Zoom Control"
+msgstr "Yakınlaştırma Kontrolü"
+
+#: modules/map/views/map-forms/control-position-style-form.php:34
+msgid "Please select position of zoom control."
+msgstr "Lütfen yakınlaştırma kontrolünün konumunu seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:39
+msgid "Zoom Control Style"
+msgstr "Yakınlaştırma Kontrol Stili"
+
+#: modules/map/views/map-forms/control-position-style-form.php:41
+msgid "Please select style of zoom control."
+msgstr "Lütfen yakınlaştırma kontrolü stilini seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:46
+msgid "Map Type Control"
+msgstr "Harita Türü Kontrolü"
+
+#: modules/map/views/map-forms/control-position-style-form.php:49
+msgid "Please select position of map type control."
+msgstr "Lütfen harita türü kontrolünün konumunu seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:56
+msgid "Map Type Control Style"
+msgstr "Harita Türü Kontrol Stili"
+
+#: modules/map/views/map-forms/control-position-style-form.php:58
+msgid "Please select style of map type control."
+msgstr "Lütfen harita türü kontrolü stilini seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:64
+msgid "Full Screen Control"
+msgstr "Tam Ekran Kontrolü"
+
+#: modules/map/views/map-forms/control-position-style-form.php:67
+msgid "Please select position of full screen control."
+msgstr "Lütfen tam ekran kontrolünün konumunu seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:72
+msgid "Street View Control"
+msgstr "Sokak Görünümü Kontrolü"
+
+#: modules/map/views/map-forms/control-position-style-form.php:74
+msgid "Please select position of street view control."
+msgstr "Lütfen sokak görünümü kontrolünün konumunu seçin."
+
+#: modules/map/views/map-forms/control-position-style-form.php:80
+msgid "Search Control"
+msgstr "Arama Kontrolü"
+
+#: modules/map/views/map-forms/control-position-style-form.php:83
+msgid "Please select position of search box control."
+msgstr "Lütfen arama kutusu kontrolünün konumunu seçin."
+
+#: modules/map/views/map-forms/control-setting-form.php:8
+msgid "Map Control Settings"
+msgstr "Harita Kontrol Ayarları"
+
+#: modules/map/views/map-forms/control-setting-form.php:15
+msgid "Turn Off Zoom Control"
+msgstr "Yakınlaştırma Kontrolünü Kapat"
+
+#: modules/map/views/map-forms/control-setting-form.php:19
+msgid "Please check to disable zoom control."
+msgstr "Yakınlaştırma kontrolünü devre dışı bırakmak için lütfen işaretleyin."
+
+#: modules/map/views/map-forms/control-setting-form.php:25
+msgid "Turn Off Full Screen Control"
+msgstr "Tam Ekran Denetimini Kapat"
+
+#: modules/map/views/map-forms/control-setting-form.php:29
+msgid "Please check to disable full screen control."
+msgstr "Lütfen tam ekran kontrolünü devre dışı bırakmak için işaretleyin."
+
+#: modules/map/views/map-forms/control-setting-form.php:35
+msgid "Turn Off Map Type Control"
+msgstr "Harita Türü Denetimini Kapat"
+
+#: modules/map/views/map-forms/control-setting-form.php:39
+msgid "Please check to disable map type control."
+msgstr "Lütfen harita türü kontrolünü devre dışı bırakmak için işaretleyin."
+
+#: modules/map/views/map-forms/control-setting-form.php:44
+msgid "Turn Off Street View Control"
+msgstr "Sokak Görünümü Kontrolünü Kapat"
+
+#: modules/map/views/map-forms/control-setting-form.php:48
+msgid "Please check to disable street view control."
+msgstr ""
+"Lütfen sokak görünümü kontrolünü devre dışı bırakmak için işaretleyin."
+
+#: modules/map/views/map-forms/control-setting-form.php:53
+msgid "Turn On Search Control"
+msgstr "Arama Kontrolünü Aç"
+
+#: modules/map/views/map-forms/control-setting-form.php:57
+msgid "Please check to enable search box control."
+msgstr "Lütfen arama kutusu kontrolünü etkinleştirmek için işaretleyin."
+
+#: modules/map/views/map-forms/custom-control-form.php:10
+msgid "Custom Control(s) Settings"
+msgstr "Özel Kontrol(ler) Ayarları"
+
+#: modules/map/views/map-forms/filter-settings.php:8
+msgid "Map Filters"
+msgstr "Harita Filtreleri"
+
+#: modules/map/views/map-forms/filter-settings.php:15
+msgid "Display Filters"
+msgstr "Filtreleri Görüntüle"
+
+#: modules/map/views/map-forms/filter-settings.php:19
+msgid "Display filters below the map"
+msgstr "Filtreleri haritanın altında görüntüle"
+
+#: modules/map/views/map-forms/filter-settings.php:25
+msgid "Before Filters Heading"
+msgstr "Filtreler Başlığından Önce"
+
+#: modules/map/views/map-forms/filter-settings.php:27
+msgid "Filter Locations By Category"
+msgstr "Konumları Kategoriye Göre Filtrele"
+
+#: modules/map/views/map-forms/filter-settings.php:29
+msgid "Display a text/html content that will be displayed before filters."
+msgstr ""
+"Filtrelerden önce görüntülenecek bir metin/html içeriğini görüntüleyin."
+
+#: modules/map/views/map-forms/filter-settings.php:34
+msgid "Map Locations"
+msgstr "Harita Konumları"
+
+#: modules/map/views/map-forms/filter-settings.php:38
+msgid "Display Category Filter"
+msgstr "Kategori Filtresini Görüntüle"
+
+#: modules/map/views/map-forms/filter-settings.php:42
+msgid "Check to display category filter."
+msgstr "Kategori filtresini görüntülemek için işaretleyin."
+
+#: modules/map/views/map-forms/general-setting-form.php:10
+msgid "Enter map name / title here."
+msgstr "Buraya harita adını / başlığını girin."
+
+#: modules/map/views/map-forms/general-setting-form.php:17
+msgid ""
+"Enter the map width in pixel. Leave this field blank if you need map with "
+"100% width."
+msgstr ""
+"Harita genişliğini piksel cinsinden girin. %100 genişliğe sahip bir "
+"haritaya ihtiyacınız varsa bu alanı boş bırakın."
+
+#: modules/map/views/map-forms/general-setting-form.php:23
+msgid "Enter the map height in pixel. For eg. 450"
+msgstr "Harita yüksekliğini piksel cinsinden girin. Örneğin. 450"
+
+#: modules/map/views/map-forms/general-setting-form.php:35
+msgid "Specify map zoon level. Default zoom value is 5."
+msgstr ""
+"Harita zoon düzeyini belirtin. Varsayılan yakınlaştırma değeri 5&#39;tir."
+
+#: modules/map/views/map-forms/general-setting-form.php:48
+msgid "Turn Off Scrolling Wheel"
+msgstr "Kaydırma Tekerleğini Kapat"
+
+#: modules/map/views/map-forms/general-setting-form.php:52
+msgid "Please check to disable scroll wheel zoom."
+msgstr ""
+"Lütfen kaydırma tekerleği yakınlaştırmasını devre dışı bırakmak için "
+"işaretleyin."
+
+#: modules/map/views/map-forms/general-setting-form.php:56
+msgid "Map Draggable"
+msgstr "Harita Sürüklenebilir"
+
+#: modules/map/views/map-forms/general-setting-form.php:60
+msgid "Please check to disable map draggable."
+msgstr ""
+"Haritanın sürüklenebilirliğini devre dışı bırakmak için lütfen işaretleyin."
+
+#: modules/map/views/map-forms/general-setting-form.php:65
+msgid "45&deg; Imagery"
+msgstr "45° Görüntü"
+
+#: modules/map/views/map-forms/general-setting-form.php:69
+msgid ""
+"Apply 45&deg; Imagery ? (only available for map type SATELLITE and HYBRID)."
+msgstr ""
+"45° Görüntü Uygula ? (yalnızca UYDU ve HİBRİT harita türleri için "
+"kullanılabilir)."
+
+#: modules/map/views/map-forms/geotag-form.php:13
+msgid "Show Posts Using Custom Fields"
+msgstr "Özel Alanları Kullanarak Gönderileri Göster"
+
+#: modules/map/views/map-forms/geotag-form.php:24
+msgid "Show Posts using ACF Plugin"
+msgstr "ACF Eklentisini Kullanarak Gönderileri Göster"
+
+#: modules/map/views/map-forms/google-maps-amenities.php:13
+msgid "Google Maps Amenities"
+msgstr "Google Haritalar Olanakları"
+
+#: modules/map/views/map-forms/import-maps.php:14
+msgid "Import Settings"
+msgstr "Ayarları İçe Aktarma"
+
+#: modules/map/views/map-forms/layers-form.php:10
+msgid "Infowindow Settings"
+msgstr "Bilgi Penceresi Ayarları"
+
+#: modules/map/views/map-forms/layers-form.php:15
+msgid ""
+"Enter placeholders {marker_title},{marker_address},{marker_message},"
+"{marker_latitude},{marker_longitude}."
+msgstr ""
+"{marker_title},{marker_address},{marker_message},{marker_latitude},"
+"{marker_longitude} yer tutucularını girin."
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Click"
+msgstr "Fare tıklaması"
+
+#: modules/map/views/map-forms/layers-form.php:24
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Mouse Hover"
+msgstr "Fare Vurgusu"
+
+#: modules/map/views/map-forms/layers-form.php:26
+msgid "Show Infowindow on"
+msgstr "Bilgi Penceresini Göster"
+
+#: modules/map/views/map-forms/layers-form.php:28
+msgid "Open infowindow on Mouse Click or Mouse Hover."
+msgstr ""
+"Fare Tıklamasında veya Fare Üzerine Geldiğinde bilgi penceresini açın."
+
+#: modules/map/views/map-forms/layers-form.php:33
+msgid "Choose Marker Image"
+msgstr "İşaretçi Resmini Seçin"
+
+#: modules/map/views/map-forms/layers-form.php:42
+msgid "InfoWindow Open"
+msgstr "Bilgi Penceresini Aç"
+
+#: modules/map/views/map-forms/layers-form.php:46
+msgid "Please check to enable infowindow default open."
+msgstr ""
+"Lütfen bilgi penceresinin varsayılan olarak açılmasını etkinleştirmek için "
+"işaretleyin."
+
+#: modules/map/views/map-forms/layers-form.php:51
+msgid "Close InfoWindow"
+msgstr "InfoWindow&#39;u kapat"
+
+#: modules/map/views/map-forms/layers-form.php:55
+msgid "Please check to close infowindow on map click."
+msgstr ""
+"Lütfen haritaya tıkladığınızda bilgi penceresini kapatmak için işaretleyin."
+
+#: modules/map/views/map-forms/layers-form.php:59
+msgid "Select Animation"
+msgstr "Animasyon Seç"
+
+#: modules/map/views/map-forms/layers-form.php:61
+msgid "Bounce Animation"
+msgstr "Sıçrama Animasyonu"
+
+#: modules/map/views/map-forms/layers-form.php:63
+msgid ""
+"Apply bounce animation on mousehover or mouse click. BOUNCE indicates that "
+"the marker should bounce in place."
+msgstr ""
+"Fareyle üzerine gelindiğinde veya fare tıklatıldığında sıçrama animasyonu "
+"uygulayın. BOUCE işaretleyicinin yerinde zıplaması gerektiğini belirtir."
+
+#: modules/map/views/map-forms/layers-form.php:68
+msgid "Apply Drop Animation"
+msgstr "Bırakma Animasyonunu Uygula"
+
+#: modules/map/views/map-forms/layers-form.php:72
+msgid "DROP indicates that the marker should drop from the top of the map. "
+msgstr ""
+"DROP, işaretçinin haritanın üst kısmından düşmesi gerektiğini belirtir."
+
+#: modules/map/views/map-forms/layers-form.php:103
+msgid "Infowindow Message for Locations"
+msgstr "Konumlar için Bilgi Penceresi Mesajı"
+
+#: modules/map/views/map-forms/layers-form.php:123
+msgid "Infowindow Message for Posts"
+msgstr "Gönderiler için Bilgi Penceresi Mesajı"
+
+#: modules/map/views/map-forms/layers-form.php:134
+msgid "Infowindow Customization Settings"
+msgstr "Bilgi Penceresi Özelleştirme Ayarları"
+
+#: modules/map/views/map-forms/layers-form.php:143
+msgid "Map Layers Settings"
+msgstr "Harita Katmanları Ayarları"
+
+#: modules/map/views/map-forms/layers-form.php:150
+msgid "Traffic Layer"
+msgstr "Trafik Katmanı"
+
+#: modules/map/views/map-forms/layers-form.php:154
+msgid "Please check to enable the traffic layer on map."
+msgstr "Lütfen haritada trafik katmanını etkinleştirmek için işaretleyin."
+
+#: modules/map/views/map-forms/layers-form.php:159
+msgid "Transit Layer"
+msgstr "Geçiş Katmanı"
+
+#: modules/map/views/map-forms/layers-form.php:163
+msgid "Please check to enable the transit layer on map."
+msgstr "Lütfen haritada geçiş katmanını etkinleştirmek için işaretleyin."
+
+#: modules/map/views/map-forms/layers-form.php:169
+msgid "Bicycling Layer"
+msgstr "Bisiklet Katmanı"
+
+#: modules/map/views/map-forms/layers-form.php:173
+msgid "Please check to enable the bicycling layer on map."
+msgstr "Lütfen haritada bisiklet katmanını etkinleştirmek için işaretleyin."
+
+#: modules/map/views/map-forms/limit-panning-setting-form.php:11
+msgid "Limit Panning Settings"
+msgstr "Kaydırma Ayarlarını Sınırla"
+
+#: modules/map/views/map-forms/listing-setting-form.php:11
+msgid "Custom Filters"
+msgstr "Özel Filtreler"
+
+#: modules/map/views/map-forms/listing-setting-form.php:22
+msgid "Advanced Filter Functionality"
+msgstr "Gelişmiş Filtre İşlevselliği"
+
+#: modules/map/views/map-forms/listing-setting-form.php:33
+msgid "Listing Settings"
+msgstr "Listeleme Ayarları"
+
+#: modules/map/views/map-forms/listing-setting-form.php:44
+msgid "Listing Item Skin"
+msgstr "Listelenen Öğe Görünümü"
+
+#: modules/map/views/map-forms/listing-setting-form.php:55
+msgid "Map Filter Settings"
+msgstr "Harita Filtresi Ayarları"
+
+#: modules/map/views/map-forms/listing-setting-form.php:66
+msgid "Geo Json Settings"
+msgstr "Geo Json Ayarları"
+
+#: modules/map/views/map-forms/locations-form.php:43
+msgid "Choose Locations"
+msgstr "Konumları Seçin"
+
+#: modules/map/views/map-forms/locations-form.php:52
+msgid "Select All"
+msgstr "Hepsini seç"
+
+#: modules/map/views/map-forms/locations-form.php:53
+msgid "Deselect All"
+msgstr "Hiçbirini seçme"
+
+#: modules/map/views/map-forms/map-center-settings.php:8
+msgid "Map's Center"
+msgstr "Haritanın Merkezi"
+
+#: modules/map/views/map-forms/map-center-settings.php:15
+msgid "Center Latitude"
+msgstr "Merkez Enlemi"
+
+#: modules/map/views/map-forms/map-center-settings.php:17
+msgid "Enter the center latitude for map."
+msgstr "Harita için merkez enlemini girin."
+
+#: modules/map/views/map-forms/map-center-settings.php:21
+msgid "Center Longitude"
+msgstr "Merkez Boylamı"
+
+#: modules/map/views/map-forms/map-center-settings.php:23
+msgid "Enter the center longitude for map."
+msgstr "Haritanın merkez boylamını girin."
+
+#: modules/map/views/map-forms/map-center-settings.php:29
+msgid "Center by Assigned Locations"
+msgstr "Atanan Konumlara Göre Merkezleme"
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"Center the map based on locations assigned to the map to show all locations "
+"at once."
+msgstr ""
+"Tüm konumları aynı anda göstermek için haritaya atanan konumlara göre "
+"haritayı ortalayın."
+
+#: modules/map/views/map-forms/map-center-settings.php:34
+msgid ""
+"( Most recommended way for centering the map according to assigned "
+"locations. )"
+msgstr "( Haritayı atanan konumlara göre ortalamanın en çok önerilen yolu. )"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:11
+msgid "Map Style Settings"
+msgstr "Harita Stili Ayarları"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:19
+msgid "Snazzy Maps"
+msgstr "Şık Haritalar"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:20
+#, php-format
+msgid ""
+"Get free style for your google maps from %s You can copy javascript style "
+"array from there and paste here."
+msgstr ""
+"Google haritalarınız için %s adresinden ücretsiz stil edinin. Javascript "
+"stil dizisini oradan kopyalayıp buraya yapıştırabilirsiniz."
+
+#: modules/map/views/map-forms/map-style-setting-form.php:35
+msgid "Paste Style here"
+msgstr "Stili buraya yapıştırın"
+
+#: modules/map/views/map-forms/map-style-setting-form.php:37
+#, php-format
+msgid "Copy google map javascript style array from %s paste here."
+msgstr ""
+"Google haritası javascript stil dizisini %s&#39;den kopyalayıp buraya "
+"yapıştırın."
+
+#: modules/map/views/map-forms/map-ui.php:14
+msgid "Map Theme Settings"
+msgstr "Harita Teması Ayarları"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:12
+msgid "Marker Cluster Settings"
+msgstr "İşaretleyici Kümesi Ayarları"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:21
+msgid "Apply Marker Cluster"
+msgstr "İşaretçi Kümesini Uygula"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:25
+msgid "Please check to apply marker cluster."
+msgstr "Lütfen işaretçi kümesini uygulamak için işaretleyin."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:33
+msgid "Grid Size"
+msgstr "Izgara Boyutu"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:49
+msgid "Max Zoom Level"
+msgstr "Maksimum Yakınlaştırma Düzeyi"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:51
+msgid "Available options 1 to 19."
+msgstr "Mevcut seçenekler 1&#39;den 19&#39;a kadar."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:62
+msgid "Marker Zoom Level"
+msgstr "İşaretçi Yakınlaştırma Düzeyi"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:64
+msgid "Set zoom level on marker or location click. Available options 1 to 19."
+msgstr ""
+"İşaretçide veya konum tıklamasında yakınlaştırma düzeyini ayarlayın. Mevcut "
+"seçenekler 1&#39;den 19&#39;a kadar."
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:76
+msgid "Apply Style(s)"
+msgstr "Stilleri Uygula"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:80
+msgid "Apply styles to marker clusters?"
+msgstr "İşaretleyici kümelerine stiller uygulansın mı?"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:103
+msgid "Cluster Color"
+msgstr "Küme Rengi"
+
+#: modules/map/views/map-forms/marker-cluster-setting-form.php:127
+msgid "Mouseover Cluster Color"
+msgstr "Fareyle Üzerine Gelme Kümesi Rengi"
+
+#: modules/map/views/map-forms/mobile-specific-settings.php:12
+msgid "Screen Specific Settings"
+msgstr "Ekrana Özel Ayarlar"
+
+#: modules/map/views/map-forms/overlay-setting-form.php:13
+msgid "Overlays Settings"
+msgstr "Kaplama Ayarları"
+
+#: modules/map/views/map-forms/route-direction-form.php:13
+msgid "Route Direction Settings"
+msgstr "Rota Yönü Ayarları"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:9
+msgid "Street View Settings"
+msgstr "Sokak Görünümü Ayarları"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:16
+msgid "Turn On Street View"
+msgstr "Sokak Görünümünü Aç"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:20
+msgid "Please check to enable street view"
+msgstr "Lütfen sokak görünümünü etkinleştirmek için işaretleyin"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:26
+msgid "Turn On Close Button"
+msgstr "Açma Kapatma Düğmesi"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:30
+msgid "Please check to turn on close button."
+msgstr "Kapatma düğmesini açmak için lütfen kontrol edin."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:37
+msgid "Turn Off links Control"
+msgstr "Bağlantı Denetimini Kapat"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:41
+msgid "Please check to disable links control."
+msgstr "Lütfen bağlantı kontrolünü devre dışı bırakmak için işaretleyin."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:48
+msgid "Turn Off Street View Pan Control"
+msgstr "Sokak Görünümü Kaydırma Kontrolünü Kapat"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:52
+msgid "Please check to disable Street View Pan control."
+msgstr ""
+"Lütfen Street View Pan kontrolünü devre dışı bırakmak için işaretleyin."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:59
+msgid "POV Heading"
+msgstr "Bakış Açısı Başlığı"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:62
+msgid "Please enter numeric integer value for POV heading."
+msgstr "Lütfen POV başlığı için sayısal tamsayı değeri girin."
+
+#: modules/map/views/map-forms/street-view-setting-form.php:68
+msgid "POV Pitch"
+msgstr "Bakış Açısı Konuşması"
+
+#: modules/map/views/map-forms/street-view-setting-form.php:71
+msgid "Please enter numeric integer value for POV Pitch."
+msgstr "Lütfen Bakış Açısı Aralığı için sayısal tamsayı değeri girin."
+
+#: modules/map/views/map-forms/tab-setting-form.php:13
+msgid "Tabs Settings"
+msgstr "Sekme Ayarları"
+
+#: modules/map/views/map-forms/url-filter.php:12
+msgid "URL Filters Settings"
+msgstr "URL Filtreleri Ayarları"
+
+#: modules/overview/model.overview.php:27
+msgid "How to Use"
+msgstr "Nasıl kullanılır"
+
+#: modules/overview/views/how.php:21
+msgid "How to Create your First Map?"
+msgstr "İlk Haritanızı Nasıl Oluşturursunuz?"
+
+#: modules/overview/views/how.php:26
+msgid "Google Map API Key"
+msgstr "Google Harita API Anahtarı"
+
+#: modules/overview/views/how.php:28
+#, php-format
+msgid ""
+"First create a %s. Then go to %s page and insert your google maps API Key "
+"and save."
+msgstr ""
+"İlk önce bir %s oluşturun. Daha sonra %s sayfasına gidin ve Google "
+"Haritalar API Anahtarınızı ekleyip kaydedin."
+
+#: modules/overview/views/how.php:37
+#, php-format
+msgid "Create a location by using %s page."
+msgstr "%s sayfasını kullanarak bir konum oluşturun."
+
+#: modules/overview/views/how.php:45
+#, php-format
+msgid ""
+"Go to %s page, assign locations to the map and setup other details as per "
+"your requirements. Save the map."
+msgstr ""
+"%s sayfasına gidin, haritaya konumlar atayın ve diğer ayrıntıları "
+"gereksinimlerinize göre ayarlayın. Haritayı kaydedin."
+
+#: modules/overview/views/how.php:53
+msgid "How to Display Map in Frontend?"
+msgstr "Harita Ön Uçta Nasıl Görüntülenir?"
+
+#: modules/overview/views/how.php:57
+msgid "Manage Map"
+msgstr "Haritayı Yönet"
+
+#: modules/overview/views/how.php:58
+#, php-format
+msgid ""
+"Go to %s and copy the shortcode then paste it to any page/post where you "
+"want to display map."
+msgstr ""
+"%s adresine gidin ve kısa kodu kopyalayın, ardından haritayı görüntülemek "
+"istediğiniz herhangi bir sayfaya/yazıya yapıştırın."
+
+#: modules/overview/views/how.php:64
+msgid "How to Create Marker Category?"
+msgstr "Marker Kategorisi Nasıl Oluşturulur?"
+
+#: modules/overview/views/how.php:69
+#, php-format
+msgid ""
+"Creating marker categories & assiging those to locations helps grouping the "
+"markers on the map by their icon image. Markers having the same marker "
+"category will display the same marker icon. Go to %s , specify marker "
+"category title and assign a marker icon. Once you have created some marker "
+"categories, these categories can be assigned to the location on \"Add "
+"Locations\" page."
+msgstr ""
+"İşaretçi kategorileri oluşturmak ve bunları konumlara atamak, haritadaki "
+"işaretleyicilerin simge görsellerine göre gruplandırılmasına yardımcı olur. "
+"Aynı işaretleyici kategorisine sahip işaretleyiciler aynı işaretleyici "
+"simgesini görüntüleyecektir. %s adresine gidin, işaretçi kategorisi "
+"başlığını belirtin ve bir işaretçi simgesi atayın. Bazı işaretçi "
+"kategorileri oluşturduktan sonra bu kategoriler &quot;Konum Ekle&quot; "
+"sayfasındaki konuma atanabilir."
+
+#: modules/overview/views/how.php:77
+msgid "Google Map API Troubleshooting"
+msgstr "Google Harita API&#39;sı Sorun Giderme"
+
+#: modules/overview/views/how.php:79
+msgid ""
+"If your google maps is not working. Make sure you have checked following "
+"things."
+msgstr ""
+"Google haritalarınız çalışmıyorsa. Aşağıdaki hususları kontrol ettiğinizden "
+"emin olun."
+
+#: modules/overview/views/how.php:81
+msgid "1. Make sure you have assigned locations to your map."
+msgstr "1. Haritanıza konum atadığınızdan emin olun."
+
+#: modules/overview/views/how.php:82
+msgid "2. You must have google maps api key."
+msgstr "2. Google haritalar api anahtarınızın olması gerekir."
+
+#: modules/overview/views/how.php:83
+msgid ""
+"3. Check HTTP referrers. It must be *yourwebsite.com/* or *.yourwebsite.com/"
+"*"
+msgstr ""
+"3. HTTP yönlendirenlerini kontrol edin. *websiteniz.com/* veya *.websiteniz."
+"com/* olmalıdır"
+
+#: modules/overview/views/how.php:89
+msgid "support ticket"
+msgstr "Destek bileti"
+
+#: modules/overview/views/how.php:91
+#, php-format
+msgid ""
+"If you need any assistance or if you still see any issue, feel free to "
+"create a %s and we'd be happy to help you asap."
+msgstr ""
+"Yardıma ihtiyacınız varsa veya hala bir sorunla karşılaşıyorsanız %s "
+"oluşturmaktan çekinmeyin; size en kısa sürede yardımcı olmaktan memnuniyet "
+"duyarız."
+
+#: modules/overview/views/how.php:94
+msgid "WP Maps Pro"
+msgstr "WP Haritalar Pro"
+
+#: modules/overview/views/how.php:96
+#, php-format
+msgid ""
+"If you are looking for even more features, please have a look on the pro "
+"version : %s. It's the number #1 selling (13k+ happy customers ), most "
+"loved & trusted advanced google maps plugin for wordpress. We are "
+"continously adding more features to it based on the suggestions of esteemed "
+"customers / users like you. With pro version, you can setup google maps "
+"with very advance features in just few seconds. Also both our free and pro "
+"version plugins can be customised to achieve specific requirements."
+msgstr ""
+"Daha fazla özellik arıyorsanız lütfen pro sürümüne bir göz atın: %s. "
+"WordPress için 1 numaralı satış (13 binden fazla mutlu müşteri), en sevilen "
+"ve güvenilen gelişmiş Google haritalar eklentisidir. Siz değerli "
+"müşterilerimizin/kullanıcılarımızın önerileri doğrultusunda sürekli olarak "
+"yeni özellikler ekliyoruz. Pro sürümüyle, çok gelişmiş özelliklere sahip "
+"Google Haritalar&#39;ı yalnızca birkaç saniye içinde kurabilirsiniz. Ayrıca "
+"hem ücretsiz hem de profesyonel sürüm eklentilerimiz, belirli "
+"gereksinimleri karşılayacak şekilde özelleştirilebilir."
+
+#: modules/permissions/model.permissions.php:31
+msgid "Manage Permissions"
+msgstr "İzinleri Yönet"
+
+#: modules/route/model.route.php:31
+msgid "Please enter route title."
+msgstr "Lütfen rota başlığını girin."
+
+#: modules/route/model.route.php:45
+msgid "Add Route"
+msgstr "Rota Ekle"
+
+#: modules/route/model.route.php:46
+msgid "Manage Routes"
+msgstr "Rotaları Yönet"
+
+#: modules/settings/model.settings.php:28
+msgid "Plugin Settings"
+msgstr "Eklenti Ayarları"
+
+#: modules/settings/model.settings.php:113
+msgid "Setting(s) were saved successfully."
+msgstr "Ayar(lar) başarıyla kaydedildi."
+
+#: modules/settings/views/manage.php:23 modules/settings/views/manage.php:26
+msgid "General Plugin Settings"
+msgstr "Genel Eklenti Ayarları"
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"The very first step to get started with Google Maps is to create the right "
+"API key for your website. While creating the Google Maps API keys from the "
+"Google Cloud Platform, in the key restriction section, you need to choose "
+"HTTP referrer and then you will need to enter HTTP referrer according to "
+"your website domain name."
+msgstr ""
+"Google Haritalar&#39;ı kullanmaya başlamanın ilk adımı, web siteniz için "
+"doğru API anahtarını oluşturmaktır. Google Cloud Platform&#39;dan Google "
+"Haritalar API anahtarlarını oluştururken, anahtar kısıtlama bölümünde HTTP "
+"yönlendiricisini seçmeniz ve ardından web sitenizin alan adına göre HTTP "
+"yönlendiricisini girmeniz gerekecektir."
+
+#: modules/settings/views/manage.php:39
+msgid ""
+"You will need to enter any one of the below HTTP referrer during the key "
+"creation process :   "
+msgstr ""
+"Anahtar oluşturma işlemi sırasında aşağıdaki HTTP yönlendiricilerinden "
+"herhangi birini girmeniz gerekecektir:"
+
+#: modules/settings/views/manage.php:39 wp-google-map-plugin.php:460
+msgid "Copy HTTP Referrer To Clipboard"
+msgstr "HTTP Yönlendirenini Panoya Kopyala"
+
+#: modules/settings/views/manage.php:39
+msgid "( Works for most websites )"
+msgstr "(Çoğu web sitesinde çalışır)"
+
+#: modules/settings/views/manage.php:39
+msgid "( Try this if above doesn't work )"
+msgstr "(Yukarıdaki işe yaramazsa bunu deneyin)"
+
+#: modules/settings/views/manage.php:39
+msgid "View Tutorial"
+msgstr "Eğiticiyi Görüntüle"
+
+#: modules/settings/views/manage.php:47
+msgid "View Instructions"
+msgstr "Talimatları Görüntüle"
+
+#: modules/settings/views/manage.php:52
+msgid "Google Maps API Key"
+msgstr "Google Haritalar API Anahtarı"
+
+#: modules/settings/views/manage.php:56
+#, php-format
+msgid "Enter the created Google Maps API Key here. %1$s"
+msgstr "Oluşturulan Google Haritalar API Anahtarını buraya girin. %1$s"
+
+#: modules/settings/views/manage.php:61
+msgid "Generate API Key"
+msgstr "API Anahtarı Oluştur"
+
+#: modules/settings/views/manage.php:73
+msgid "Test API Key"
+msgstr "API Anahtarını Test Et"
+
+#: modules/settings/views/manage.php:86
+msgid "guides."
+msgstr "kılavuzlar."
+
+#: modules/settings/views/manage.php:94
+#, php-format
+msgid ""
+"If map is not visible then please check the javascript console for the "
+"error and fix using our %1$s"
+msgstr ""
+"Harita görünmüyorsa lütfen javascript konsolunu hata açısından kontrol edin "
+"ve %1$s aracımızı kullanarak düzeltin."
+
+#: modules/settings/views/manage.php:99
+msgid "ENGLISH"
+msgstr "İNGİLİZCE"
+
+#: modules/settings/views/manage.php:100
+msgid "ARABIC"
+msgstr "ARAPÇA"
+
+#: modules/settings/views/manage.php:101
+msgid "BASQUE"
+msgstr "BASK"
+
+#: modules/settings/views/manage.php:102
+msgid "BULGARIAN"
+msgstr "BULGARCA"
+
+#: modules/settings/views/manage.php:103
+msgid "BENGALI"
+msgstr "BENGALI"
+
+#: modules/settings/views/manage.php:104
+msgid "CATALAN"
+msgstr "KATALANCA"
+
+#: modules/settings/views/manage.php:105
+msgid "CZECH"
+msgstr "ÇEK"
+
+#: modules/settings/views/manage.php:106
+msgid "DANISH"
+msgstr "DANİMARKA"
+
+#: modules/settings/views/manage.php:107
+msgid "GERMAN"
+msgstr "ALMANCA"
+
+#: modules/settings/views/manage.php:108
+msgid "GREEK"
+msgstr "YUNAN"
+
+#: modules/settings/views/manage.php:109
+msgid "ENGLISH (AUSTRALIAN)"
+msgstr "İNGİLİZCE (AVUSTRALYA)"
+
+#: modules/settings/views/manage.php:110
+msgid "ENGLISH (GREAT BRITAIN)"
+msgstr "İNGİLİZCE (BÜYÜK BRİTANYA)"
+
+#: modules/settings/views/manage.php:111
+msgid "SPANISH"
+msgstr "İSPANYOL"
+
+#: modules/settings/views/manage.php:112
+msgid "FARSI"
+msgstr "YAP"
+
+#: modules/settings/views/manage.php:113
+msgid "FINNISH"
+msgstr "FİNCE"
+
+#: modules/settings/views/manage.php:114
+msgid "FILIPINO"
+msgstr "FİLİPİNLİ"
+
+#: modules/settings/views/manage.php:115
+msgid "FRENCH"
+msgstr "FRANSIZCA"
+
+#: modules/settings/views/manage.php:116
+msgid "GALICIAN"
+msgstr "GALÇYACA"
+
+#: modules/settings/views/manage.php:117
+msgid "GUJARATI"
+msgstr "GUJARATİ"
+
+#: modules/settings/views/manage.php:118
+msgid "HINDI"
+msgstr "HAYIR"
+
+#: modules/settings/views/manage.php:119
+msgid "CROATIAN"
+msgstr "HIRVAT"
+
+#: modules/settings/views/manage.php:120
+msgid "HUNGARIAN"
+msgstr "MACARCA"
+
+#: modules/settings/views/manage.php:121
+msgid "INDONESIAN"
+msgstr "ENDONEZYA"
+
+#: modules/settings/views/manage.php:122 modules/settings/views/manage.php:130
+msgid "ITALIAN"
+msgstr "İTALYAN"
+
+#: modules/settings/views/manage.php:123
+msgid "HEBREW"
+msgstr "İBRANİCE"
+
+#: modules/settings/views/manage.php:124
+msgid "JAPANESE"
+msgstr "JAPONCA"
+
+#: modules/settings/views/manage.php:125
+msgid "KANNADA"
+msgstr "KANNADA"
+
+#: modules/settings/views/manage.php:126
+msgid "KOREAN"
+msgstr "KORELİ"
+
+#: modules/settings/views/manage.php:127
+msgid "LITHUANIAN"
+msgstr "LİTVANYA"
+
+#: modules/settings/views/manage.php:128
+msgid "LATVIAN"
+msgstr "LETONYA"
+
+#: modules/settings/views/manage.php:129
+msgid "MALAYALAM"
+msgstr "Malayalam"
+
+#: modules/settings/views/manage.php:131
+msgid "MARATHI"
+msgstr "MARATİ"
+
+#: modules/settings/views/manage.php:132
+msgid "DUTCH"
+msgstr "FLEMENKÇE"
+
+#: modules/settings/views/manage.php:133
+msgid "NORWEGIAN"
+msgstr "NORVEÇÇE"
+
+#: modules/settings/views/manage.php:134
+msgid "POLISH"
+msgstr "LEHÇE"
+
+#: modules/settings/views/manage.php:135
+msgid "PORTUGUESE"
+msgstr "PORTEKİZCE"
+
+#: modules/settings/views/manage.php:136
+msgid "PORTUGUESE (BRAZIL)"
+msgstr "PORTEKİZ BREZİLYASI)"
+
+#: modules/settings/views/manage.php:137
+msgid "PORTUGUESE (PORTUGAL)"
+msgstr "PORTEKİZCE (PORTEKİZ)"
+
+#: modules/settings/views/manage.php:138
+msgid "ROMANIAN"
+msgstr "ROMENCE"
+
+#: modules/settings/views/manage.php:139
+msgid "RUSSIAN"
+msgstr "RUSÇA"
+
+#: modules/settings/views/manage.php:140
+msgid "SLOVAK"
+msgstr "SLOVAK"
+
+#: modules/settings/views/manage.php:141
+msgid "SLOVENIAN"
+msgstr "SLOVENYA"
+
+#: modules/settings/views/manage.php:142
+msgid "SERBIAN"
+msgstr "SIRPÇA"
+
+#: modules/settings/views/manage.php:143
+msgid "SWEDISH"
+msgstr "İSVEÇÇE"
+
+#: modules/settings/views/manage.php:144
+msgid "TAGALOG"
+msgstr "TAGALOG"
+
+#: modules/settings/views/manage.php:145
+msgid "TAMIL"
+msgstr "TAMİL"
+
+#: modules/settings/views/manage.php:146
+msgid "TELUGU"
+msgstr "TELUGU"
+
+#: modules/settings/views/manage.php:147
+msgid "THAI"
+msgstr "TAY"
+
+#: modules/settings/views/manage.php:148
+msgid "TURKISH"
+msgstr "TÜRKÇE"
+
+#: modules/settings/views/manage.php:149
+msgid "UKRAINIAN"
+msgstr "UKRAYNA"
+
+#: modules/settings/views/manage.php:150
+msgid "VIETNAMESE"
+msgstr "VİETNAM"
+
+#: modules/settings/views/manage.php:151
+msgid "CHINESE (SIMPLIFIED)"
+msgstr "BASİTLEŞTİRİLMİŞ ÇİNCE)"
+
+#: modules/settings/views/manage.php:152
+msgid "CHINESE (TRADITIONAL)"
+msgstr "ÇİN GELENEĞİ)"
+
+#: modules/settings/views/manage.php:156
+msgid "Map Language"
+msgstr "Harita Dili"
+
+#: modules/settings/views/manage.php:158
+msgid "Choose the language for google map. The default language is English."
+msgstr "Google haritasının dilini seçin. Varsayılan dil İngilizce&#39;dir."
+
+#: modules/settings/views/manage.php:165
+msgid "Include Scripts in "
+msgstr "Komut Dosyalarını Dahil Et"
+
+#: modules/settings/views/manage.php:166
+msgid "Header"
+msgstr "Başlık"
+
+#: modules/settings/views/manage.php:166
+msgid "Footer (Recommended)"
+msgstr "Altbilgi (Önerilen)"
+
+#: modules/settings/views/manage.php:176
+msgid "Meta Box Settings"
+msgstr "Meta Kutusu Ayarları"
+
+#: modules/settings/views/manage.php:187
+msgid "Create Extra Field(s)"
+msgstr "Ekstra Alan(lar) Oluşturun"
+
+#: modules/settings/views/manage.php:196
+msgid "Troubleshooting"
+msgstr "Sorun giderme"
+
+#: modules/settings/views/manage.php:207
+msgid "Auto Fix"
+msgstr "Otomatik düzeltme"
+
+#: modules/settings/views/manage.php:210
+msgid "If map is not visible somehow, turn on auto fix and check the map."
+msgstr ""
+"Harita bir şekilde görünmüyorsa otomatik düzeltmeyi açın ve haritayı "
+"kontrol edin."
+
+#: modules/settings/views/manage.php:217
+msgid "Turn On Debug Mode"
+msgstr "Hata Ayıklama Modunu Aç"
+
+#: modules/settings/views/manage.php:220
+msgid ""
+"If map is not visible somehow even auto fix in turned on, please turn on "
+"debug mode and contact support team to analysis javascript console output."
+msgstr ""
+"Otomatik düzeltme açık olsa bile harita bir şekilde görünmüyorsa, lütfen "
+"hata ayıklama modunu açın ve javascript konsol çıktısını analiz etmek için "
+"destek ekibiyle iletişime geçin."
+
+#: modules/settings/views/manage.php:227
+msgid "Cookies Acceptance"
+msgstr "Çerez Kabulü"
+
+#: modules/settings/views/manage.php:236
+msgid "Enable Cookies Acceptance"
+msgstr "Çerez Kabulünü Etkinleştir"
+
+#: modules/settings/views/manage.php:238
+msgid ""
+"Maps will remain hidden until the visitor accepts the cookie policy. This "
+"feature is intended for developers who wish to monitor cookies access and "
+"limit map access."
+msgstr ""
+"Ziyaretçi çerez politikasını kabul edene kadar haritalar gizli kalacaktır. "
+"Bu özellik, çerez erişimini izlemek ve harita erişimini sınırlamak isteyen "
+"geliştiriciler için tasarlanmıştır."
+
+#: modules/settings/views/manage.php:246
+msgid "\"No Map\" Notice"
+msgstr "&quot;Harita Yok&quot; Bildirimi"
+
+#: modules/settings/views/manage.php:247
+msgid ""
+"Show message instead of map until visitor accept the cookies policy. HTML "
+"Tags are allowed. Leave it blank for no message."
+msgstr ""
+"Ziyaretçi çerez politikasını kabul edene kadar harita yerine mesajı göster. "
+"HTML Etiketlerine izin verilir. Mesaj gelmemesi durumunda boş bırakın."
+
+#: modules/settings/views/manage.php:248
+msgid "Please accept cookies to show google maps."
+msgstr "Google haritalarını göstermek için lütfen çerezleri kabul edin."
+
+#: modules/settings/views/manage.php:257
+msgid "Show Placeholder"
+msgstr "Yer Tutucuyu Göster"
+
+#: modules/settings/views/manage.php:259
+msgid ""
+"Until you accept cookies, show a map image along with a consent message in "
+"place of Google Maps"
+msgstr ""
+"Çerezleri kabul edene kadar Google Haritalar yerine bir izin mesajıyla "
+"birlikte bir harita resmi gösterin"
+
+#: modules/settings/views/manage.php:266
+msgid "Save Settings"
+msgstr "Ayarları kaydet"
+
+#: modules/shortcode/views/put-wpgmp.php:388
+msgid "Filter Locations"
+msgstr "Konumları Filtrele"
+
+#: modules/tools/model.tools.php:33
+msgid "Plugin Tools"
+msgstr "Eklenti Araçları"
+
+#: wp-google-map-plugin.php:114
+msgid "Settings"
+msgstr "Ayarlar"
+
+#: wp-google-map-plugin.php:115
+msgid "Pro Version"
+msgstr "Profesyonel sürüm"
+
+#: wp-google-map-plugin.php:190
+msgid "All"
+msgstr "Tüm"
+
+#: wp-google-map-plugin.php:191
+msgid "Show Locations"
+msgstr "Konumları Göster"
+
+#: wp-google-map-plugin.php:192
+msgid "Sort by"
+msgstr "Göre sırala"
+
+#: wp-google-map-plugin.php:193
+msgid "Not working..."
+msgstr "Çalışmıyor..."
+
+#: wp-google-map-plugin.php:194
+msgid "Select Category"
+msgstr "Kategori seç"
+
+#: wp-google-map-plugin.php:384
+msgid " Go Pro"
+msgstr "Profesyonelliğe Geçin"
+
+#: wp-google-map-plugin.php:444
+msgid "Hide"
+msgstr "Saklamak"
+
+#: wp-google-map-plugin.php:451
+msgid "Do you really want to delete this location?"
+msgstr "Bu konumu gerçekten silmek istiyor musunuz?"
+
+#: wp-google-map-plugin.php:452
+msgid "Do you really want to delete this map?"
+msgstr "Bu haritayı gerçekten silmek istiyor musunuz?"
+
+#: wp-google-map-plugin.php:453
+msgid "Do you really want to delete this category?"
+msgstr "Bu kategoriyi gerçekten silmek istiyor musunuz?"
+
+#: wp-google-map-plugin.php:454
+msgid "Do you really want to delete this route?"
+msgstr "Bu rotayı gerçekten silmek istiyor musunuz?"
+
+#: wp-google-map-plugin.php:455
+msgid "Do you really want to delete this record?"
+msgstr "Bu kaydı gerçekten silmek istiyor musunuz?"
+
+#: wp-google-map-plugin.php:456
+msgid "Please select some records first to apply bulk action on them."
+msgstr "Toplu işlem uygulamak için lütfen önce bazı kayıtları seçin."
+
+#: wp-google-map-plugin.php:457
+msgid "Are you sure you want to delete the selected records ?"
+msgstr "Seçilen kayıtları silmek istediğinizden emin misiniz?"
+
+#: wp-google-map-plugin.php:458
+msgid "Overwrite existing google maps database?"
+msgstr "Mevcut Google Haritalar veritabanının üzerine yazılsın mı?"
+
+#: wp-google-map-plugin.php:459
+msgid "Referrer Was Copied"
+msgstr "Yönlendiren Kopyalandı"
+
+#: wp-google-map-plugin.php:467
+msgid "Are you sure to delete item?"
+msgstr "Öğeyi sildiğinizden emin misiniz?"
+
+#: wp-google-map-plugin.php:627
+msgid "Choose Icons"
+msgstr "Simgeleri Seçin"
+
+#: wp-google-map-plugin.php:652
+msgid "Choose icon"
+msgstr "Simge seç"
+
+#: wp-google-map-plugin.php:653
+msgid "Search icons"
+msgstr "Arama simgeleri"
+
+#: wp-google-map-plugin.php:681
+msgid "Please choose marker icon for the category."
+msgstr "Lütfen kategori için işaretleyici simgesini seçin."
+
+#: wp-google-map-plugin.php:681
+msgid "Insert into Post"
+msgstr "Gönderiye Ekle"
+
+#: wp-google-map-plugin.php:717
+msgid "Pro"
+msgstr "Profesyonel"
+
+#: wp-google-map-plugin.php:720
+#, php-format
+msgid ""
+"Upgrade hassle-free to %s version & unlock listing, routes,  directions, "
+"filtration, drawing & many more features."
+msgstr ""
+"Sorunsuz bir şekilde %s sürümüne yükseltin ve listeleme, rotalar, yol "
+"tarifleri, filtreleme, çizim ve daha birçok özelliğin kilidini açın."
+
+#: wp-google-map-plugin.php:720
+msgid "Upgrade Now"
+msgstr "Hemen Yükselt"
+
+#: wp-google-map-plugin.php:866
+msgid "PRO"
+msgstr "PRO"
