@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: facebooklikebox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-10-05 09:23-0000\n"
+"PO-Revision-Date: 2012-10-05 09:44-0000\n"
+"Last-Translator: Vinoj Cardoza <vinoj.cardoza@hotmail.com>\n"
+"Language-Team: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Tamil\n"
+"X-Poedit-Country: SRI LANKA\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cardoza_facebook_like_box.php:42
+#: ../cardoza_facebook_like_box.php:43
+msgid "FB Like Box"
+msgstr "Facebook லைக் பாக்ஸ்"
+
+#: ../cardoza_facebook_like_box.php:50
+#: ../cardoza_facebook_like_box.php:51
+msgid "Posts Like Box"
+msgstr "பதிவுகள் லைக் பாக்ஸ்"
+
+#: ../cardoza_facebook_like_box.php:81
+#: ../cardoza_facebook_like_box.php:248
+msgid "Options saved."
+msgstr "விருப்பங்கள் சேமிக்கப்பட்டது."
+
+#: ../cardoza_facebook_like_box.php:87
+msgid "Facebook Like Box Options"
+msgstr "Facebook லைக் பாக்ஸ் விருப்பங்கள்"
+
+#: ../cardoza_facebook_like_box.php:91
+msgid "General Settings"
+msgstr "பொது அமைப்புகள்"
+
+#: ../cardoza_facebook_like_box.php:93
+msgid "Title"
+msgstr "தலைப்பு"
+
+#: ../cardoza_facebook_like_box.php:97
+msgid "Title of the facebook like box"
+msgstr "Facebook லைக் பாக்ஸ் தலைப்பு"
+
+#: ../cardoza_facebook_like_box.php:99
+msgid "Facebook Page URL:"
+msgstr "Facebook பக்க URL"
+
+#: ../cardoza_facebook_like_box.php:103
+msgid "Copy and paste your facebook page URL here"
+msgstr "இங்கே உங்கள் facebook பக்கம் URL ஐ நகலெடுத்து ஒட்டவும்"
+
+#: ../cardoza_facebook_like_box.php:105
+msgid "Border Color"
+msgstr "கரை வண்ணம்"
+
+#: ../cardoza_facebook_like_box.php:109
+msgid "Border Color of the facebook like box"
+msgstr "Facebook லைக் பாக்ஸ் கரை வண்ணம்"
+
+#: ../cardoza_facebook_like_box.php:111
+msgid "Width"
+msgstr "அகலம்"
+
+#: ../cardoza_facebook_like_box.php:115
+msgid "Width of the facebook like box"
+msgstr "Facebook லைக் பாக்ஸ் அகலம்"
+
+#: ../cardoza_facebook_like_box.php:117
+msgid "Height"
+msgstr "உயரம்"
+
+#: ../cardoza_facebook_like_box.php:121
+msgid "Height of the facebook like box"
+msgstr "Facebook லைக் பாக்ஸ் உயரம்"
+
+#: ../cardoza_facebook_like_box.php:123
+#: ../cardoza_facebook_like_box.php:306
+msgid "Color Scheme"
+msgstr "நிறத்திட்டம்"
+
+#: ../cardoza_facebook_like_box.php:126
+#: ../cardoza_facebook_like_box.php:309
+msgid "light"
+msgstr "பிரகாசமான"
+
+#: ../cardoza_facebook_like_box.php:127
+#: ../cardoza_facebook_like_box.php:310
+msgid "dark"
+msgstr "இருண்ட"
+
+#: ../cardoza_facebook_like_box.php:131
+#: ../cardoza_facebook_like_box.php:312
+msgid "Select the color scheme you want to display"
+msgstr "நீங்கள் காட்ட வேண்டும் வண்ண திட்டத்தை தேர்ந்தெடுக்கவும்"
+
+#: ../cardoza_facebook_like_box.php:133
+#: ../cardoza_facebook_like_box.php:287
+msgid "Show Faces"
+msgstr "முகங்கள் காட்டு"
+
+#: ../cardoza_facebook_like_box.php:136
+#: ../cardoza_facebook_like_box.php:147
+#: ../cardoza_facebook_like_box.php:158
+#: ../cardoza_facebook_like_box.php:261
+#: ../cardoza_facebook_like_box.php:290
+msgid "Yes"
+msgstr "ஆம்"
+
+#: ../cardoza_facebook_like_box.php:137
+#: ../cardoza_facebook_like_box.php:148
+#: ../cardoza_facebook_like_box.php:159
+#: ../cardoza_facebook_like_box.php:262
+#: ../cardoza_facebook_like_box.php:291
+msgid "No"
+msgstr "இல்லை"
+
+#: ../cardoza_facebook_like_box.php:142
+#: ../cardoza_facebook_like_box.php:293
+msgid "Select the option to show the faces"
+msgstr "முகங்கள் காட்ட விருப்பத்தை தேர்ந்தெடுக்கவும்"
+
+#: ../cardoza_facebook_like_box.php:144
+msgid "Stream"
+msgstr "ஸ்ட்ரீம் ஓட்டம்"
+
+#: ../cardoza_facebook_like_box.php:153
+msgid "Select the option to display the stream"
+msgstr "ஸ்ட்ரீம் காட்ட விருப்பத்தை தேர்ந்தெடுக்கவும்"
+
+#: ../cardoza_facebook_like_box.php:155
+msgid "Header"
+msgstr "தலைப்பான்"
+
+#: ../cardoza_facebook_like_box.php:164
+msgid "Select the option to display the title"
+msgstr "தலைப்பு காட்ட விருப்பத்தை தேர்ந்தெடுக்கவும்"
+
+#: ../cardoza_facebook_like_box.php:165
+#: ../cardoza_facebook_like_box.php:315
+msgid "Save"
+msgstr "சேமி"
+
+#: ../cardoza_facebook_like_box.php:253
+msgid "Facebook Posts Like Options"
+msgstr "Facebook இடுகைகள் விருப்பங்கள்"
+
+#: ../cardoza_facebook_like_box.php:258
+msgid "Show like button for posts"
+msgstr "இடுகைகளை பொத்தானை காட்டு"
+
+#: ../cardoza_facebook_like_box.php:267
+msgid "Show like button"
+msgstr "Like பொத்தானை காட்டு"
+
+#: ../cardoza_facebook_like_box.php:270
+msgid "Before the post content"
+msgstr "இடுகை உள்ளடக்கம் முன்"
+
+#: ../cardoza_facebook_like_box.php:271
+msgid "After the post content"
+msgstr "இடுகை உள்ளடக்கம் பின்"
+
+#: ../cardoza_facebook_like_box.php:272
+msgid "Before and after the post content"
+msgstr "இடுகை உள்ளடக்கம் முன் மற்றும் பின்"
+
+#: ../cardoza_facebook_like_box.php:277
+msgid "Layout"
+msgstr "திட்டம்"
+
+#: ../cardoza_facebook_like_box.php:297
+msgid "Verb to display"
+msgstr "உரையை காட்ட "
+
+#: ../cardoza_facebook_like_box.php:300
+msgid "like"
+msgstr "லைக்"
+
+#: ../cardoza_facebook_like_box.php:301
+msgid "recommend"
+msgstr "பரிந்துரை"
+
+#: ../cardoza_facebook_like_box.php:378
+msgid "Facebook Like Box"
+msgstr "Facebook லைக் பாக்ஸ் "
+

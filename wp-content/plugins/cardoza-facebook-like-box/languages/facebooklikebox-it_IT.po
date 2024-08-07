@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: facebooklikebox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-12-26 21:06+0100\n"
+"PO-Revision-Date: 2012-12-26 21:16+0100\n"
+"Last-Translator: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"Language-Team: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cardoza_facebook_like_box.php:42
+#: ../cardoza_facebook_like_box.php:43
+msgid "FB Like Box"
+msgstr ""
+
+#: ../cardoza_facebook_like_box.php:50
+#: ../cardoza_facebook_like_box.php:51
+msgid "Posts Like Box"
+msgstr ""
+
+#: ../cardoza_facebook_like_box.php:81
+#: ../cardoza_facebook_like_box.php:248
+msgid "Options saved."
+msgstr "Impostazioni salvate."
+
+#: ../cardoza_facebook_like_box.php:87
+msgid "Facebook Like Box Options"
+msgstr "Impostazioni Facebook Like Box"
+
+#: ../cardoza_facebook_like_box.php:91
+msgid "General Settings"
+msgstr "Impostazioni Generali"
+
+#: ../cardoza_facebook_like_box.php:93
+msgid "Title"
+msgstr "Titolo"
+
+#: ../cardoza_facebook_like_box.php:97
+msgid "Title of the facebook like box"
+msgstr "Titolo del box Facebook Like Box"
+
+#: ../cardoza_facebook_like_box.php:99
+msgid "Facebook Page URL:"
+msgstr ""
+
+#: ../cardoza_facebook_like_box.php:103
+msgid "Copy and paste your facebook page URL here"
+msgstr "Copia e incolla l'indirizzo della tua pagina Facebook qui"
+
+#: ../cardoza_facebook_like_box.php:105
+msgid "Border Color"
+msgstr "Colore del bordo"
+
+#: ../cardoza_facebook_like_box.php:109
+msgid "Border Color of the facebook like box"
+msgstr "Colore del bordo del box Facebook Like Box"
+
+#: ../cardoza_facebook_like_box.php:111
+msgid "Width"
+msgstr "Larghezza"
+
+#: ../cardoza_facebook_like_box.php:115
+msgid "Width of the facebook like box"
+msgstr "Larghezza del box Facebook Like Box"
+
+#: ../cardoza_facebook_like_box.php:117
+msgid "Height"
+msgstr "Altezza"
+
+#: ../cardoza_facebook_like_box.php:121
+msgid "Height of the facebook like box"
+msgstr "Altezza del box Facebook Like Box"
+
+#: ../cardoza_facebook_like_box.php:123
+#: ../cardoza_facebook_like_box.php:306
+msgid "Color Scheme"
+msgstr "Schema colore"
+
+#: ../cardoza_facebook_like_box.php:126
+#: ../cardoza_facebook_like_box.php:309
+msgid "light"
+msgstr "chiaro"
+
+#: ../cardoza_facebook_like_box.php:127
+#: ../cardoza_facebook_like_box.php:310
+msgid "dark"
+msgstr "scuro"
+
+#: ../cardoza_facebook_like_box.php:131
+#: ../cardoza_facebook_like_box.php:312
+msgid "Select the color scheme you want to display"
+msgstr "Seleziona lo schema colore che vuoi mostrare"
+
+#: ../cardoza_facebook_like_box.php:133
+#: ../cardoza_facebook_like_box.php:287
+msgid "Show Faces"
+msgstr "Show Facce"
+
+#: ../cardoza_facebook_like_box.php:136
+#: ../cardoza_facebook_like_box.php:147
+#: ../cardoza_facebook_like_box.php:158
+#: ../cardoza_facebook_like_box.php:261
+#: ../cardoza_facebook_like_box.php:290
+msgid "Yes"
+msgstr "Sì"
+
+#: ../cardoza_facebook_like_box.php:137
+#: ../cardoza_facebook_like_box.php:148
+#: ../cardoza_facebook_like_box.php:159
+#: ../cardoza_facebook_like_box.php:262
+#: ../cardoza_facebook_like_box.php:291
+msgid "No"
+msgstr "No"
+
+#: ../cardoza_facebook_like_box.php:142
+#: ../cardoza_facebook_like_box.php:293
+msgid "Select the option to show the faces"
+msgstr "Seleziona l'opzione per mostrare le facce"
+
+#: ../cardoza_facebook_like_box.php:144
+msgid "Stream"
+msgstr "Stream"
+
+#: ../cardoza_facebook_like_box.php:153
+msgid "Select the option to display the stream"
+msgstr "Seleziona l'opzione per mostrare lo stream"
+
+#: ../cardoza_facebook_like_box.php:155
+msgid "Header"
+msgstr "Testata"
+
+#: ../cardoza_facebook_like_box.php:164
+msgid "Select the option to display the title"
+msgstr "Seleziona l'opzione per mostrare il titolo"
+
+#: ../cardoza_facebook_like_box.php:165
+#: ../cardoza_facebook_like_box.php:315
+msgid "Save"
+msgstr "Salva"
+
+#: ../cardoza_facebook_like_box.php:253
+msgid "Facebook Posts Like Options"
+msgstr "Impostazioni Like nei post"
+
+#: ../cardoza_facebook_like_box.php:258
+msgid "Show like button for posts"
+msgstr "Mostra il pulsante Like per i post"
+
+#: ../cardoza_facebook_like_box.php:267
+msgid "Show like button"
+msgstr "Mostra il pulsante Like"
+
+#: ../cardoza_facebook_like_box.php:270
+msgid "Before the post content"
+msgstr "Prima del contenuto del post"
+
+#: ../cardoza_facebook_like_box.php:271
+msgid "After the post content"
+msgstr "Dopo il contenuto dei post"
+
+#: ../cardoza_facebook_like_box.php:272
+msgid "Before and after the post content"
+msgstr "Prima e dopo il contenuto del post"
+
+#: ../cardoza_facebook_like_box.php:277
+msgid "Layout"
+msgstr "Struttura"
+
+#: ../cardoza_facebook_like_box.php:297
+msgid "Verb to display"
+msgstr "Post da mostrare"
+
+#: ../cardoza_facebook_like_box.php:300
+msgid "like"
+msgstr "Mi piace"
+
+#: ../cardoza_facebook_like_box.php:301
+msgid "recommend"
+msgstr "Raccomanda"
+
+#: ../cardoza_facebook_like_box.php:378
+msgid "Facebook Like Box"
+msgstr "Facebook Like Box"
+

@@ -1,0 +1,23 @@
+ .fb-container .wrap_facebook	
+ {
+ float:left;
+ width:700px;
+ 
+ }
+ 
+ 
+ .fb-container .fb-preview
+ {
+	float:right;
+	margin-top:100px;
+	margin-right:10px;
+ }
+ 
+ #preview
+ {
+	margin-left:5px;
+	text-decoration:none;
+	background-color:#ccc;
+	padding:5px;
+	border-radius:10px;
+ }

@@ -1,0 +1,191 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: facebooklikebox\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-07-23 15:29-0000\n"
+"PO-Revision-Date: 2012-07-24 11:16-0000\n"
+"Last-Translator: Vinoj Cardoza <vinoj.cardoza@hotmail.com>\n"
+"Language-Team: Vinoj Cardoza <vinoj.cardoza@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../cardoza_facebook_like_box.php:38
+#: ../cardoza_facebook_like_box.php:39
+msgid "FB Like Box"
+msgstr "FB Like Box"
+
+#: ../cardoza_facebook_like_box.php:46
+#: ../cardoza_facebook_like_box.php:47
+msgid "Posts Like Box"
+msgstr "Posts Like Box"
+
+#: ../cardoza_facebook_like_box.php:77
+#: ../cardoza_facebook_like_box.php:236
+msgid "Options saved."
+msgstr "Options sauvées."
+
+#: ../cardoza_facebook_like_box.php:83
+msgid "Facebook Like Box Options"
+msgstr "Boite Facebook J'aime Options"
+
+#: ../cardoza_facebook_like_box.php:87
+msgid "General Settings"
+msgstr "Paramètres généraux"
+
+#: ../cardoza_facebook_like_box.php:89
+msgid "Title"
+msgstr "Titre"
+
+#: ../cardoza_facebook_like_box.php:91
+msgid "Title of the facebook like box"
+msgstr "Titre de la boite Facebook j'aime"
+
+#: ../cardoza_facebook_like_box.php:94
+msgid "Facebook Page URL:"
+msgstr "Facebook Page URL:"
+
+#: ../cardoza_facebook_like_box.php:96
+msgid "Copy and paste your facebook page URL here"
+msgstr "Copier et coller l'URL de votre page Facebook ici"
+
+#: ../cardoza_facebook_like_box.php:99
+msgid "Border Color"
+msgstr "Couleur de bordures"
+
+#: ../cardoza_facebook_like_box.php:101
+msgid "Border Color of the facebook like box"
+msgstr "Couleur de bordures de la boite Facebook j'aime"
+
+#: ../cardoza_facebook_like_box.php:104
+msgid "Width"
+msgstr "Largeur"
+
+#: ../cardoza_facebook_like_box.php:106
+msgid "Width of the facebook like box"
+msgstr "Largeur de la boite Facebook j'aime"
+
+#: ../cardoza_facebook_like_box.php:109
+msgid "Height"
+msgstr "Hauteur"
+
+#: ../cardoza_facebook_like_box.php:111
+msgid "Height of the facebook like box"
+msgstr "Hauteur de la boite Facebook j'aime"
+
+#: ../cardoza_facebook_like_box.php:114
+#: ../cardoza_facebook_like_box.php:294
+msgid "Color Scheme"
+msgstr "Modèle de couleurs"
+
+#: ../cardoza_facebook_like_box.php:117
+#: ../cardoza_facebook_like_box.php:297
+msgid "light"
+msgstr "brillant"
+
+#: ../cardoza_facebook_like_box.php:118
+#: ../cardoza_facebook_like_box.php:298
+msgid "dark"
+msgstr "sombre"
+
+#: ../cardoza_facebook_like_box.php:120
+#: ../cardoza_facebook_like_box.php:300
+msgid "Select the color scheme you want to display"
+msgstr "Sélection du Modèle de couleurs que vous souhaité afficher "
+
+#: ../cardoza_facebook_like_box.php:124
+#: ../cardoza_facebook_like_box.php:275
+msgid "Show Faces"
+msgstr "Montrer les visages"
+
+#: ../cardoza_facebook_like_box.php:127
+#: ../cardoza_facebook_like_box.php:137
+#: ../cardoza_facebook_like_box.php:147
+#: ../cardoza_facebook_like_box.php:249
+#: ../cardoza_facebook_like_box.php:278
+msgid "Yes"
+msgstr "Oui"
+
+#: ../cardoza_facebook_like_box.php:128
+#: ../cardoza_facebook_like_box.php:138
+#: ../cardoza_facebook_like_box.php:148
+#: ../cardoza_facebook_like_box.php:250
+#: ../cardoza_facebook_like_box.php:279
+msgid "No"
+msgstr "Non"
+
+#: ../cardoza_facebook_like_box.php:130
+#: ../cardoza_facebook_like_box.php:281
+msgid "Select the option to show the faces"
+msgstr "Sélection des options pour montrer les visages"
+
+#: ../cardoza_facebook_like_box.php:134
+msgid "Stream"
+msgstr "Flux"
+
+#: ../cardoza_facebook_like_box.php:140
+msgid "Select the option to display the stream"
+msgstr "Sélection des options d'affichage du flux"
+
+#: ../cardoza_facebook_like_box.php:144
+msgid "Header"
+msgstr "En-tête"
+
+#: ../cardoza_facebook_like_box.php:150
+msgid "Select the option to display the title"
+msgstr "Sélection des options pour l'affichage du titre"
+
+#: ../cardoza_facebook_like_box.php:153
+#: ../cardoza_facebook_like_box.php:303
+msgid "Save"
+msgstr "Sauvé"
+
+#: ../cardoza_facebook_like_box.php:241
+msgid "Facebook Posts Like Options"
+msgstr "Options du poste Facebook j'aime"
+
+#: ../cardoza_facebook_like_box.php:246
+msgid "Show like button for posts"
+msgstr "Afficher le bouton j'aime pour le poste"
+
+#: ../cardoza_facebook_like_box.php:255
+msgid "Show like button"
+msgstr "Afficher le bouton j'aime"
+
+#: ../cardoza_facebook_like_box.php:258
+msgid "Before the post content"
+msgstr "Contenu avant le poste"
+
+#: ../cardoza_facebook_like_box.php:259
+msgid "After the post content"
+msgstr "Contenu après le poste"
+
+#: ../cardoza_facebook_like_box.php:260
+msgid "Before and after the post content"
+msgstr "Contenu avant et après le poste"
+
+#: ../cardoza_facebook_like_box.php:265
+msgid "Layout"
+msgstr "Format"
+
+#: ../cardoza_facebook_like_box.php:285
+msgid "Verb to display"
+msgstr "Verbe à afficher"
+
+#: ../cardoza_facebook_like_box.php:288
+msgid "like"
+msgstr "J'aime"
+
+#: ../cardoza_facebook_like_box.php:289
+msgid "recommend"
+msgstr "recommander"
+
+#: ../cardoza_facebook_like_box.php:350
+msgid "Facebook Like Box"
+msgstr "Boite Facebook j'aime "
+
