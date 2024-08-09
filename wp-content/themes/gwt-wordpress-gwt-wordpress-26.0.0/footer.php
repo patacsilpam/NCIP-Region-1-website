@@ -37,7 +37,7 @@ is_active_sidebar('footer-4')): ?>
         <?php endif; // if active footer-3 ?>
 
         <?php if(is_active_sidebar('footer-4')): ?>
-        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary">
+        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary"  style="background:#282828">
             <?php do_action( 'before_sidebar' ); ?>
             <?php dynamic_sidebar( 'footer-4' ) ?>
         </div>
