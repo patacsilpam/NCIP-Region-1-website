@@ -421,7 +421,7 @@ Press esc, or click the close the button to close this dialog box.
 			?>
 
                 <!-- masthead -->
-            <header class="container-masthead" style="background-color:#e6e6e6; margin-bottom:1rem">
+            <header class="container-masthead" style="background-color:#e6e6e6; margin-bottom:.5rem">
                 <div class="row">
                     <div class="" style="display:flex; padding:1rem">
                         <img src="<?php echo get_template_directory_uri() ?>/images/header.svg" alt="header">
