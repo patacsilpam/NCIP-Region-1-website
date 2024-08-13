@@ -23,21 +23,21 @@ is_active_sidebar('footer-4')): ?>
         <?php endif; // if active footer-1 ?>
 
         <?php if(is_active_sidebar('footer-2')): ?>
-        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary">
+        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary" >
             <?php do_action( 'before_sidebar' ); ?>
             <?php dynamic_sidebar( 'footer-2' ) ?>
         </div>
         <?php endif; // if active footer-2 ?>
 
         <?php if(is_active_sidebar('footer-3')): ?>
-        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary">
+        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary" >
             <?php do_action( 'before_sidebar' ); ?>
             <?php dynamic_sidebar( 'footer-3' ) ?>
         </div>
         <?php endif; // if active footer-3 ?>
 
         <?php if(is_active_sidebar('footer-4')): ?>
-        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary"  style="background:#282828">
+        <div class="<?php govph_displayoptions( 'govph_position_agency_footer' ); ?>" role="complementary">
             <?php do_action( 'before_sidebar' ); ?>
             <?php dynamic_sidebar( 'footer-4' ) ?>
         </div>
