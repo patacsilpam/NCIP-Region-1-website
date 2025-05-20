@@ -1,0 +1,35 @@
+# render.yaml for WordPress Deployment (Testing Only)
+
+services:
+  - name: wordpress-site # Name of your WordPress web service
+    type: web
+    env: docker
+    repo: your-repo/your-wordpress-repo # Replace with your repo!
+    region: oregon
+    plan: free # Free plan for testing ONLY
+    dockerfilePath: Dockerfile # Path to your Dockerfile (if you have one, otherwise remove)
+    envVars:
+      - key: WORDPRESS_DB_HOST
+        value: ${wordpress-db.PRIVATE_HOST}
+      - key: WORDPRESS_DB_NAME
+        value: wordpress # Or whatever you named your database
+      - key: WORDPRESS_DB_USER
+        value: root # Insecure, but OK for TEMPORARY testing
+      - key: WORDPRESS_DB_PASSWORD
+        value: "" # Insecure, but OK for TEMPORARY testing
+      - key: WP_SITE_TITLE
+        value: "National Commission on Indigenous Peoples Region 1"
+    routes:
+      - type: path
+        source: /
+        destination: /
+    buildCommand: |
+      #!/bin/bash
+      #  Commands run before deploy
+      # Example: wp core download --path=/var/www/html/
+
+  - name: wordpress-db
+    type: mysql
+    version: "8.0"
+    plan: free # Free plan for testing ONLY
+    region: oregon
