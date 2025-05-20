@@ -9,7 +9,7 @@ services:
       - key: WORDPRESS_DB_HOST
         value: ${wordpress-db.PRIVATE_HOST}
       - key: WORDPRESS_DB_NAME
-        value: wordpress
+        value: wordpress-db
       - key: WORDPRESS_DB_USER
         value: root
       - key: WORDPRESS_DB_PASSWORD
