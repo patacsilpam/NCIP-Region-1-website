@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: wordpress-site
+    name: ncip-region-1
     runtime: docker
     region: oregon
     repo: https://github.com/patacsilpam/NCIP-Region-1-website
